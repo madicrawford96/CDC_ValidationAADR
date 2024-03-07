@@ -1,0 +1,3049 @@
+County,County Code,Ten-Year Age Groups,Deaths,Population,Crude Rate
+Anderson ,48001,< 1 year,0,12768,Unreliable
+Anderson ,48001,1-4 years,Suppressed,52357,Suppressed
+Anderson ,48001,5-14 years,0,131545,Unreliable
+Anderson ,48001,15-24 years,0,141632,Unreliable
+Anderson ,48001,25-34 years,Suppressed,197141,Suppressed
+Anderson ,48001,35-44 years,Suppressed,203060,Suppressed
+Anderson ,48001,45-54 years,17,177721,Unreliable
+Anderson ,48001,55-64 years,33,129652,25.5
+Anderson ,48001,65-74 years,26,88930,29.2
+Anderson ,48001,75-84 years,43,49395,87.1
+Anderson ,48001,85+ years,41,17899,229.1
+Anderson ,48001,Not Stated,0,Not Applicable,Not Applicable
+Andrews ,48003,< 1 year,0,5435,Unreliable
+Andrews ,48003,1-4 years,0,21874,Unreliable
+Andrews ,48003,5-14 years,Suppressed,53819,Suppressed
+Andrews ,48003,15-24 years,0,47665,Unreliable
+Andrews ,48003,25-34 years,0,43179,Unreliable
+Andrews ,48003,35-44 years,Suppressed,42502,Suppressed
+Andrews ,48003,45-54 years,Suppressed,41220,Suppressed
+Andrews ,48003,55-64 years,Suppressed,31699,Suppressed
+Andrews ,48003,65-74 years,16,20062,Unreliable
+Andrews ,48003,75-84 years,11,11954,Unreliable
+Andrews ,48003,85+ years,Suppressed,3802,Suppressed
+Andrews ,48003,Not Stated,0,Not Applicable,Not Applicable
+Angelina ,48005,< 1 year,Suppressed,25845,Suppressed
+Angelina ,48005,1-4 years,Suppressed,105068,Suppressed
+Angelina ,48005,5-14 years,Suppressed,265519,Suppressed
+Angelina ,48005,15-24 years,Suppressed,244632,Suppressed
+Angelina ,48005,25-34 years,Suppressed,229167,Suppressed
+Angelina ,48005,35-44 years,Suppressed,230960,Suppressed
+Angelina ,48005,45-54 years,18,233149,Unreliable
+Angelina ,48005,55-64 years,46,200494,22.9
+Angelina ,48005,65-74 years,60,140042,42.8
+Angelina ,48005,75-84 years,83,81629,101.7
+Angelina ,48005,85+ years,67,31834,210.5
+Angelina ,48005,Not Stated,0,Not Applicable,Not Applicable
+Aransas ,48007,< 1 year,Suppressed,5290,Suppressed
+Aransas ,48007,1-4 years,0,20076,Unreliable
+Aransas ,48007,5-14 years,0,55368,Unreliable
+Aransas ,48007,15-24 years,0,52965,Unreliable
+Aransas ,48007,25-34 years,0,45243,Unreliable
+Aransas ,48007,35-44 years,Suppressed,53597,Suppressed
+Aransas ,48007,45-54 years,Suppressed,66483,Suppressed
+Aransas ,48007,55-64 years,13,77272,Unreliable
+Aransas ,48007,65-74 years,28,71040,39.4
+Aransas ,48007,75-84 years,30,39049,76.8
+Aransas ,48007,85+ years,35,11008,318
+Aransas ,48007,Not Stated,0,Not Applicable,Not Applicable
+Archer ,48009,< 1 year,0,1748,Unreliable
+Archer ,48009,1-4 years,0,7761,Unreliable
+Archer ,48009,5-14 years,0,26091,Unreliable
+Archer ,48009,15-24 years,0,23271,Unreliable
+Archer ,48009,25-34 years,0,18120,Unreliable
+Archer ,48009,35-44 years,Suppressed,24234,Suppressed
+Archer ,48009,45-54 years,0,29431,Unreliable
+Archer ,48009,55-64 years,Suppressed,24325,Suppressed
+Archer ,48009,65-74 years,Suppressed,17694,Suppressed
+Archer ,48009,75-84 years,Suppressed,10443,Suppressed
+Archer ,48009,85+ years,Suppressed,3321,Suppressed
+Archer ,48009,Not Stated,0,Not Applicable,Not Applicable
+Armstrong ,48011,< 1 year,0,453,Unreliable
+Armstrong ,48011,1-4 years,0,1846,Unreliable
+Armstrong ,48011,5-14 years,0,5628,Unreliable
+Armstrong ,48011,15-24 years,0,4329,Unreliable
+Armstrong ,48011,25-34 years,0,3966,Unreliable
+Armstrong ,48011,35-44 years,0,5008,Unreliable
+Armstrong ,48011,45-54 years,0,5488,Unreliable
+Armstrong ,48011,55-64 years,0,5776,Unreliable
+Armstrong ,48011,65-74 years,Suppressed,4663,Suppressed
+Armstrong ,48011,75-84 years,Suppressed,2817,Suppressed
+Armstrong ,48011,85+ years,Suppressed,1198,Suppressed
+Armstrong ,48011,Not Stated,0,Not Applicable,Not Applicable
+Atascosa ,48013,< 1 year,0,14095,Unreliable
+Atascosa ,48013,1-4 years,0,58269,Unreliable
+Atascosa ,48013,5-14 years,Suppressed,154923,Suppressed
+Atascosa ,48013,15-24 years,Suppressed,132904,Suppressed
+Atascosa ,48013,25-34 years,0,117778,Unreliable
+Atascosa ,48013,35-44 years,Suppressed,122990,Suppressed
+Atascosa ,48013,45-54 years,15,121777,Unreliable
+Atascosa ,48013,55-64 years,20,105565,18.9
+Atascosa ,48013,65-74 years,30,71386,42
+Atascosa ,48013,75-84 years,31,38281,81
+Atascosa ,48013,85+ years,22,13608,161.7
+Atascosa ,48013,Not Stated,0,Not Applicable,Not Applicable
+Austin ,48015,< 1 year,Suppressed,7468,Suppressed
+Austin ,48015,1-4 years,0,29590,Unreliable
+Austin ,48015,5-14 years,0,81762,Unreliable
+Austin ,48015,15-24 years,0,73283,Unreliable
+Austin ,48015,25-34 years,0,62936,Unreliable
+Austin ,48015,35-44 years,Suppressed,72026,Suppressed
+Austin ,48015,45-54 years,Suppressed,82594,Suppressed
+Austin ,48015,55-64 years,16,77139,Unreliable
+Austin ,48015,65-74 years,23,54328,42.3
+Austin ,48015,75-84 years,23,30442,75.6
+Austin ,48015,85+ years,22,12108,181.7
+Austin ,48015,Not Stated,0,Not Applicable,Not Applicable
+Bailey ,48017,< 1 year,0,2761,Unreliable
+Bailey ,48017,1-4 years,0,10140,Unreliable
+Bailey ,48017,5-14 years,0,24525,Unreliable
+Bailey ,48017,15-24 years,0,20682,Unreliable
+Bailey ,48017,25-34 years,0,17423,Unreliable
+Bailey ,48017,35-44 years,0,17275,Unreliable
+Bailey ,48017,45-54 years,0,16990,Unreliable
+Bailey ,48017,55-64 years,Suppressed,15156,Suppressed
+Bailey ,48017,65-74 years,Suppressed,11423,Suppressed
+Bailey ,48017,75-84 years,Suppressed,7354,Suppressed
+Bailey ,48017,85+ years,Suppressed,2613,Suppressed
+Bailey ,48017,Not Stated,0,Not Applicable,Not Applicable
+Bandera ,48019,< 1 year,0,3863,Unreliable
+Bandera ,48019,1-4 years,0,16049,Unreliable
+Bandera ,48019,5-14 years,0,48115,Unreliable
+Bandera ,48019,15-24 years,Suppressed,43183,Suppressed
+Bandera ,48019,25-34 years,Suppressed,35953,Suppressed
+Bandera ,48019,35-44 years,Suppressed,49439,Suppressed
+Bandera ,48019,45-54 years,Suppressed,67739,Suppressed
+Bandera ,48019,55-64 years,15,73729,Unreliable
+Bandera ,48019,65-74 years,16,57517,Unreliable
+Bandera ,48019,75-84 years,12,27313,Unreliable
+Bandera ,48019,85+ years,12,8267,Unreliable
+Bandera ,48019,Not Stated,0,Not Applicable,Not Applicable
+Bastrop ,48021,< 1 year,0,20437,Unreliable
+Bastrop ,48021,1-4 years,0,86532,Unreliable
+Bastrop ,48021,5-14 years,0,232700,Unreliable
+Bastrop ,48021,15-24 years,Suppressed,196687,Suppressed
+Bastrop ,48021,25-34 years,0,191758,Unreliable
+Bastrop ,48021,35-44 years,Suppressed,217770,Suppressed
+Bastrop ,48021,45-54 years,Suppressed,228844,Suppressed
+Bastrop ,48021,55-64 years,26,194160,13.4
+Bastrop ,48021,65-74 years,41,119141,34.4
+Bastrop ,48021,75-84 years,57,56035,101.7
+Bastrop ,48021,85+ years,69,19771,349
+Bastrop ,48021,Not Stated,0,Not Applicable,Not Applicable
+Baylor ,48023,< 1 year,0,899,Unreliable
+Baylor ,48023,1-4 years,0,3544,Unreliable
+Baylor ,48023,5-14 years,0,9735,Unreliable
+Baylor ,48023,15-24 years,0,8187,Unreliable
+Baylor ,48023,25-34 years,0,7373,Unreliable
+Baylor ,48023,35-44 years,0,8970,Unreliable
+Baylor ,48023,45-54 years,Suppressed,10456,Suppressed
+Baylor ,48023,55-64 years,0,10377,Unreliable
+Baylor ,48023,65-74 years,Suppressed,9704,Suppressed
+Baylor ,48023,75-84 years,11,6564,Unreliable
+Baylor ,48023,85+ years,Suppressed,2933,Suppressed
+Baylor ,48023,Not Stated,0,Not Applicable,Not Applicable
+Bee ,48025,< 1 year,Suppressed,7744,Suppressed
+Bee ,48025,1-4 years,0,32606,Unreliable
+Bee ,48025,5-14 years,0,81639,Unreliable
+Bee ,48025,15-24 years,Suppressed,107630,Suppressed
+Bee ,48025,25-34 years,0,119314,Unreliable
+Bee ,48025,35-44 years,Suppressed,101677,Suppressed
+Bee ,48025,45-54 years,13,89169,Unreliable
+Bee ,48025,55-64 years,16,63398,Unreliable
+Bee ,48025,65-74 years,23,42310,54.4
+Bee ,48025,75-84 years,28,24316,115.2
+Bee ,48025,85+ years,20,8716,229.5
+Bee ,48025,Not Stated,0,Not Applicable,Not Applicable
+Bell ,48027,< 1 year,Suppressed,120173,Suppressed
+Bell ,48027,1-4 years,Suppressed,443185,Suppressed
+Bell ,48027,5-14 years,Suppressed,965210,Suppressed
+Bell ,48027,15-24 years,Suppressed,1078250,Suppressed
+Bell ,48027,25-34 years,Suppressed,1065407,Suppressed
+Bell ,48027,35-44 years,20,836169,2.4
+Bell ,48027,45-54 years,39,717107,5.4
+Bell ,48027,55-64 years,88,550438,16
+Bell ,48027,65-74 years,116,349012,33.2
+Bell ,48027,75-84 years,166,188810,87.9
+Bell ,48027,85+ years,169,71835,235.3
+Bell ,48027,Not Stated,0,Not Applicable,Not Applicable
+Bexar ,48029,< 1 year,39,541254,7.2
+Bexar ,48029,1-4 years,Suppressed,2155640,Suppressed
+Bexar ,48029,5-14 years,11,5338906,Unreliable
+Bexar ,48029,15-24 years,27,5495675,0.5
+Bexar ,48029,25-34 years,66,5490102,1.2
+Bexar ,48029,35-44 years,161,4986875,3.2
+Bexar ,48029,45-54 years,425,4550598,9.3
+Bexar ,48029,55-64 years,716,3518094,20.4
+Bexar ,48029,65-74 years,896,2220169,40.4
+Bexar ,48029,75-84 years,1174,1245982,94.2
+Bexar ,48029,85+ years,868,473248,183.4
+Bexar ,48029,Not Stated,0,Not Applicable,Not Applicable
+Blanco ,48031,< 1 year,0,2056,Unreliable
+Blanco ,48031,1-4 years,0,8436,Unreliable
+Blanco ,48031,5-14 years,0,26151,Unreliable
+Blanco ,48031,15-24 years,0,23142,Unreliable
+Blanco ,48031,25-34 years,0,19734,Unreliable
+Blanco ,48031,35-44 years,0,25686,Unreliable
+Blanco ,48031,45-54 years,0,32384,Unreliable
+Blanco ,48031,55-64 years,Suppressed,35591,Suppressed
+Blanco ,48031,65-74 years,Suppressed,26161,Suppressed
+Blanco ,48031,75-84 years,Suppressed,12936,Suppressed
+Blanco ,48031,85+ years,Suppressed,4962,Suppressed
+Blanco ,48031,Not Stated,0,Not Applicable,Not Applicable
+Borden ,48033,< 1 year,0,131,Unreliable
+Borden ,48033,1-4 years,0,509,Unreliable
+Borden ,48033,5-14 years,0,1729,Unreliable
+Borden ,48033,15-24 years,0,1604,Unreliable
+Borden ,48033,25-34 years,0,1175,Unreliable
+Borden ,48033,35-44 years,0,1765,Unreliable
+Borden ,48033,45-54 years,0,2127,Unreliable
+Borden ,48033,55-64 years,0,1899,Unreliable
+Borden ,48033,65-74 years,0,1480,Unreliable
+Borden ,48033,75-84 years,0,963,Unreliable
+Borden ,48033,85+ years,0,279,Unreliable
+Borden ,48033,Not Stated,0,Not Applicable,Not Applicable
+Bosque ,48035,< 1 year,0,3940,Unreliable
+Bosque ,48035,1-4 years,Suppressed,17105,Suppressed
+Bosque ,48035,5-14 years,0,48230,Unreliable
+Bosque ,48035,15-24 years,0,41902,Unreliable
+Bosque ,48035,25-34 years,0,35183,Unreliable
+Bosque ,48035,35-44 years,0,44306,Unreliable
+Bosque ,48035,45-54 years,Suppressed,50319,Suppressed
+Bosque ,48035,55-64 years,Suppressed,53851,Suppressed
+Bosque ,48035,65-74 years,17,45426,Unreliable
+Bosque ,48035,75-84 years,11,26430,Unreliable
+Bosque ,48035,85+ years,14,11469,Unreliable
+Bosque ,48035,Not Stated,0,Not Applicable,Not Applicable
+Bowie ,48037,< 1 year,Suppressed,24365,Suppressed
+Bowie ,48037,1-4 years,0,99478,Unreliable
+Bowie ,48037,5-14 years,0,261438,Unreliable
+Bowie ,48037,15-24 years,Suppressed,252495,Suppressed
+Bowie ,48037,25-34 years,Suppressed,259471,Suppressed
+Bowie ,48037,35-44 years,Suppressed,262598,Suppressed
+Bowie ,48037,45-54 years,13,260455,Unreliable
+Bowie ,48037,55-64 years,43,222113,19.4
+Bowie ,48037,65-74 years,70,154111,45.4
+Bowie ,48037,75-84 years,91,91536,99.4
+Bowie ,48037,85+ years,114,37984,300.1
+Bowie ,48037,Not Stated,0,Not Applicable,Not Applicable
+Brazoria ,48039,< 1 year,Suppressed,97579,Suppressed
+Brazoria ,48039,1-4 years,Suppressed,394250,Suppressed
+Brazoria ,48039,5-14 years,Suppressed,999913,Suppressed
+Brazoria ,48039,15-24 years,Suppressed,848243,Suppressed
+Brazoria ,48039,25-34 years,11,918509,Unreliable
+Brazoria ,48039,35-44 years,31,1011955,3.1
+Brazoria ,48039,45-54 years,55,926722,5.9
+Brazoria ,48039,55-64 years,141,684418,20.6
+Brazoria ,48039,65-74 years,187,403600,46.3
+Brazoria ,48039,75-84 years,247,200277,123.3
+Brazoria ,48039,85+ years,171,65819,259.8
+Brazoria ,48039,Not Stated,0,Not Applicable,Not Applicable
+Brazos ,48041,< 1 year,Suppressed,53531,Suppressed
+Brazos ,48041,1-4 years,0,199953,Unreliable
+Brazos ,48041,5-14 years,0,445159,Unreliable
+Brazos ,48041,15-24 years,Suppressed,1349152,Suppressed
+Brazos ,48041,25-34 years,Suppressed,601272,Suppressed
+Brazos ,48041,35-44 years,Suppressed,426065,Suppressed
+Brazos ,48041,45-54 years,20,368808,5.4
+Brazos ,48041,55-64 years,46,289777,15.9
+Brazos ,48041,65-74 years,46,178393,25.8
+Brazos ,48041,75-84 years,79,97854,80.7
+Brazos ,48041,85+ years,97,40243,241
+Brazos ,48041,Not Stated,0,Not Applicable,Not Applicable
+Brewster ,48043,< 1 year,0,2362,Unreliable
+Brewster ,48043,1-4 years,0,8639,Unreliable
+Brewster ,48043,5-14 years,0,20883,Unreliable
+Brewster ,48043,15-24 years,Suppressed,26840,Suppressed
+Brewster ,48043,25-34 years,0,24120,Unreliable
+Brewster ,48043,35-44 years,0,22047,Unreliable
+Brewster ,48043,45-54 years,Suppressed,25238,Suppressed
+Brewster ,48043,55-64 years,Suppressed,26244,Suppressed
+Brewster ,48043,65-74 years,Suppressed,20037,Suppressed
+Brewster ,48043,75-84 years,12,10740,Unreliable
+Brewster ,48043,85+ years,Suppressed,3696,Suppressed
+Brewster ,48043,Not Stated,0,Not Applicable,Not Applicable
+Briscoe ,48045,< 1 year,0,430,Unreliable
+Briscoe ,48045,1-4 years,0,1638,Unreliable
+Briscoe ,48045,5-14 years,Suppressed,4475,Suppressed
+Briscoe ,48045,15-24 years,0,3692,Unreliable
+Briscoe ,48045,25-34 years,0,3281,Unreliable
+Briscoe ,48045,35-44 years,0,4055,Unreliable
+Briscoe ,48045,45-54 years,0,4631,Unreliable
+Briscoe ,48045,55-64 years,Suppressed,4510,Suppressed
+Briscoe ,48045,65-74 years,0,3895,Unreliable
+Briscoe ,48045,75-84 years,Suppressed,2670,Suppressed
+Briscoe ,48045,85+ years,Suppressed,894,Suppressed
+Briscoe ,48045,Not Stated,0,Not Applicable,Not Applicable
+Brooks ,48047,< 1 year,0,2626,Unreliable
+Brooks ,48047,1-4 years,0,10544,Unreliable
+Brooks ,48047,5-14 years,0,23977,Unreliable
+Brooks ,48047,15-24 years,0,22084,Unreliable
+Brooks ,48047,25-34 years,0,17015,Unreliable
+Brooks ,48047,35-44 years,0,16702,Unreliable
+Brooks ,48047,45-54 years,Suppressed,18204,Suppressed
+Brooks ,48047,55-64 years,Suppressed,17439,Suppressed
+Brooks ,48047,65-74 years,Suppressed,14334,Suppressed
+Brooks ,48047,75-84 years,Suppressed,8791,Suppressed
+Brooks ,48047,85+ years,12,2811,Unreliable
+Brooks ,48047,Not Stated,0,Not Applicable,Not Applicable
+Brown ,48049,< 1 year,0,9344,Unreliable
+Brown ,48049,1-4 years,0,38570,Unreliable
+Brown ,48049,5-14 years,0,103338,Unreliable
+Brown ,48049,15-24 years,0,112731,Unreliable
+Brown ,48049,25-34 years,Suppressed,90878,Suppressed
+Brown ,48049,35-44 years,0,95353,Unreliable
+Brown ,48049,45-54 years,Suppressed,104846,Suppressed
+Brown ,48049,55-64 years,22,99403,22.1
+Brown ,48049,65-74 years,43,77845,55.2
+Brown ,48049,75-84 years,49,45807,107
+Brown ,48049,85+ years,47,18699,251.4
+Brown ,48049,Not Stated,0,Not Applicable,Not Applicable
+Burleson ,48051,< 1 year,0,4389,Unreliable
+Burleson ,48051,1-4 years,0,18178,Unreliable
+Burleson ,48051,5-14 years,0,48218,Unreliable
+Burleson ,48051,15-24 years,0,43947,Unreliable
+Burleson ,48051,25-34 years,0,38180,Unreliable
+Burleson ,48051,35-44 years,0,43646,Unreliable
+Burleson ,48051,45-54 years,Suppressed,51447,Suppressed
+Burleson ,48051,55-64 years,Suppressed,49482,Suppressed
+Burleson ,48051,65-74 years,12,36026,Unreliable
+Burleson ,48051,75-84 years,11,21285,Unreliable
+Burleson ,48051,85+ years,19,8811,Unreliable
+Burleson ,48051,Not Stated,0,Not Applicable,Not Applicable
+Burnet ,48053,< 1 year,Suppressed,10298,Suppressed
+Burnet ,48053,1-4 years,0,41726,Unreliable
+Burnet ,48053,5-14 years,0,113980,Unreliable
+Burnet ,48053,15-24 years,0,102987,Unreliable
+Burnet ,48053,25-34 years,Suppressed,94026,Suppressed
+Burnet ,48053,35-44 years,Suppressed,106865,Suppressed
+Burnet ,48053,45-54 years,Suppressed,120629,Suppressed
+Burnet ,48053,55-64 years,12,125996,Unreliable
+Burnet ,48053,65-74 years,22,102082,21.6
+Burnet ,48053,75-84 years,37,55004,67.3
+Burnet ,48053,85+ years,16,19849,Unreliable
+Burnet ,48053,Not Stated,0,Not Applicable,Not Applicable
+Caldwell ,48055,< 1 year,Suppressed,10542,Suppressed
+Caldwell ,48055,1-4 years,0,44002,Unreliable
+Caldwell ,48055,5-14 years,0,112969,Unreliable
+Caldwell ,48055,15-24 years,Suppressed,129156,Suppressed
+Caldwell ,48055,25-34 years,0,107576,Unreliable
+Caldwell ,48055,35-44 years,Suppressed,106967,Suppressed
+Caldwell ,48055,45-54 years,Suppressed,105736,Suppressed
+Caldwell ,48055,55-64 years,12,87181,Unreliable
+Caldwell ,48055,65-74 years,22,57578,38.2
+Caldwell ,48055,75-84 years,28,31648,88.5
+Caldwell ,48055,85+ years,22,13260,165.9
+Caldwell ,48055,Not Stated,0,Not Applicable,Not Applicable
+Calhoun ,48057,< 1 year,0,6334,Unreliable
+Calhoun ,48057,1-4 years,0,25331,Unreliable
+Calhoun ,48057,5-14 years,0,65125,Unreliable
+Calhoun ,48057,15-24 years,0,59225,Unreliable
+Calhoun ,48057,25-34 years,Suppressed,52690,Suppressed
+Calhoun ,48057,35-44 years,Suppressed,55452,Suppressed
+Calhoun ,48057,45-54 years,Suppressed,58736,Suppressed
+Calhoun ,48057,55-64 years,11,53535,Unreliable
+Calhoun ,48057,65-74 years,20,39991,50
+Calhoun ,48057,75-84 years,13,22315,Unreliable
+Calhoun ,48057,85+ years,21,6940,302.6
+Calhoun ,48057,Not Stated,0,Not Applicable,Not Applicable
+Callahan ,48059,< 1 year,0,3127,Unreliable
+Callahan ,48059,1-4 years,0,12761,Unreliable
+Callahan ,48059,5-14 years,0,37925,Unreliable
+Callahan ,48059,15-24 years,0,32814,Unreliable
+Callahan ,48059,25-34 years,0,28837,Unreliable
+Callahan ,48059,35-44 years,Suppressed,35024,Suppressed
+Callahan ,48059,45-54 years,Suppressed,39574,Suppressed
+Callahan ,48059,55-64 years,Suppressed,38992,Suppressed
+Callahan ,48059,65-74 years,15,30266,Unreliable
+Callahan ,48059,75-84 years,12,17191,Unreliable
+Callahan ,48059,85+ years,12,5979,Unreliable
+Callahan ,48059,Not Stated,0,Not Applicable,Not Applicable
+Cameron ,48061,< 1 year,15,155186,Unreliable
+Cameron ,48061,1-4 years,Suppressed,599779,Suppressed
+Cameron ,48061,5-14 years,Suppressed,1482478,Suppressed
+Cameron ,48061,15-24 years,Suppressed,1309536,Suppressed
+Cameron ,48061,25-34 years,13,1065721,Unreliable
+Cameron ,48061,35-44 years,27,1036726,2.6
+Cameron ,48061,45-54 years,67,925188,7.2
+Cameron ,48061,55-64 years,136,738594,18.4
+Cameron ,48061,65-74 years,204,546331,37.3
+Cameron ,48061,75-84 years,282,327289,86.2
+Cameron ,48061,85+ years,248,111794,221.8
+Cameron ,48061,Not Stated,0,Not Applicable,Not Applicable
+Camp ,48063,< 1 year,0,3637,Unreliable
+Camp ,48063,1-4 years,0,15026,Unreliable
+Camp ,48063,5-14 years,0,38349,Unreliable
+Camp ,48063,15-24 years,0,33750,Unreliable
+Camp ,48063,25-34 years,0,29508,Unreliable
+Camp ,48063,35-44 years,0,30030,Unreliable
+Camp ,48063,45-54 years,Suppressed,32372,Suppressed
+Camp ,48063,55-64 years,Suppressed,31895,Suppressed
+Camp ,48063,65-74 years,Suppressed,25025,Suppressed
+Camp ,48063,75-84 years,Suppressed,14124,Suppressed
+Camp ,48063,85+ years,13,4966,Unreliable
+Camp ,48063,Not Stated,0,Not Applicable,Not Applicable
+Carson ,48065,< 1 year,0,1251,Unreliable
+Carson ,48065,1-4 years,0,6310,Unreliable
+Carson ,48065,5-14 years,0,19541,Unreliable
+Carson ,48065,15-24 years,0,15417,Unreliable
+Carson ,48065,25-34 years,0,13429,Unreliable
+Carson ,48065,35-44 years,0,16406,Unreliable
+Carson ,48065,45-54 years,0,18566,Unreliable
+Carson ,48065,55-64 years,Suppressed,16792,Suppressed
+Carson ,48065,65-74 years,Suppressed,12090,Suppressed
+Carson ,48065,75-84 years,Suppressed,7832,Suppressed
+Carson ,48065,85+ years,Suppressed,2714,Suppressed
+Carson ,48065,Not Stated,0,Not Applicable,Not Applicable
+Cass ,48067,< 1 year,0,7317,Unreliable
+Cass ,48067,1-4 years,0,29869,Unreliable
+Cass ,48067,5-14 years,Suppressed,82661,Suppressed
+Cass ,48067,15-24 years,Suppressed,74780,Suppressed
+Cass ,48067,25-34 years,Suppressed,64881,Suppressed
+Cass ,48067,35-44 years,Suppressed,76271,Suppressed
+Cass ,48067,45-54 years,Suppressed,86763,Suppressed
+Cass ,48067,55-64 years,Suppressed,85656,Suppressed
+Cass ,48067,65-74 years,26,69311,37.5
+Cass ,48067,75-84 years,41,40777,100.5
+Cass ,48067,85+ years,34,15599,218
+Cass ,48067,Not Stated,0,Not Applicable,Not Applicable
+Castro ,48069,< 1 year,0,2777,Unreliable
+Castro ,48069,1-4 years,0,10965,Unreliable
+Castro ,48069,5-14 years,0,27898,Unreliable
+Castro ,48069,15-24 years,0,24221,Unreliable
+Castro ,48069,25-34 years,0,18542,Unreliable
+Castro ,48069,35-44 years,Suppressed,19469,Suppressed
+Castro ,48069,45-54 years,Suppressed,20434,Suppressed
+Castro ,48069,55-64 years,Suppressed,17875,Suppressed
+Castro ,48069,65-74 years,Suppressed,12406,Suppressed
+Castro ,48069,75-84 years,Suppressed,8234,Suppressed
+Castro ,48069,85+ years,Suppressed,2637,Suppressed
+Castro ,48069,Not Stated,0,Not Applicable,Not Applicable
+Chambers ,48071,< 1 year,0,9511,Unreliable
+Chambers ,48071,1-4 years,0,40813,Unreliable
+Chambers ,48071,5-14 years,0,118729,Unreliable
+Chambers ,48071,15-24 years,0,98445,Unreliable
+Chambers ,48071,25-34 years,Suppressed,93974,Suppressed
+Chambers ,48071,35-44 years,Suppressed,108199,Suppressed
+Chambers ,48071,45-54 years,13,103021,Unreliable
+Chambers ,48071,55-64 years,11,79430,Unreliable
+Chambers ,48071,65-74 years,10,46784,Unreliable
+Chambers ,48071,75-84 years,21,21085,99.6
+Chambers ,48071,85+ years,13,6927,Unreliable
+Chambers ,48071,Not Stated,0,Not Applicable,Not Applicable
+Cherokee ,48073,< 1 year,0,15490,Unreliable
+Cherokee ,48073,1-4 years,0,59745,Unreliable
+Cherokee ,48073,5-14 years,Suppressed,151140,Suppressed
+Cherokee ,48073,15-24 years,0,145410,Unreliable
+Cherokee ,48073,25-34 years,Suppressed,125134,Suppressed
+Cherokee ,48073,35-44 years,Suppressed,132042,Suppressed
+Cherokee ,48073,45-54 years,14,136325,Unreliable
+Cherokee ,48073,55-64 years,16,122892,Unreliable
+Cherokee ,48073,65-74 years,36,92043,39.1
+Cherokee ,48073,75-84 years,38,52726,72.1
+Cherokee ,48073,85+ years,42,20541,204.5
+Cherokee ,48073,Not Stated,0,Not Applicable,Not Applicable
+Childress ,48075,< 1 year,0,1688,Unreliable
+Childress ,48075,1-4 years,0,6660,Unreliable
+Childress ,48075,5-14 years,0,17707,Unreliable
+Childress ,48075,15-24 years,0,24145,Unreliable
+Childress ,48075,25-34 years,0,26714,Unreliable
+Childress ,48075,35-44 years,Suppressed,19866,Suppressed
+Childress ,48075,45-54 years,Suppressed,16627,Suppressed
+Childress ,48075,55-64 years,Suppressed,14726,Suppressed
+Childress ,48075,65-74 years,Suppressed,12065,Suppressed
+Childress ,48075,75-84 years,Suppressed,7975,Suppressed
+Childress ,48075,85+ years,Suppressed,3156,Suppressed
+Childress ,48075,Not Stated,0,Not Applicable,Not Applicable
+Clay ,48077,< 1 year,0,2194,Unreliable
+Clay ,48077,1-4 years,0,9266,Unreliable
+Clay ,48077,5-14 years,0,29514,Unreliable
+Clay ,48077,15-24 years,0,25790,Unreliable
+Clay ,48077,25-34 years,0,21761,Unreliable
+Clay ,48077,35-44 years,Suppressed,28667,Suppressed
+Clay ,48077,45-54 years,Suppressed,33862,Suppressed
+Clay ,48077,55-64 years,Suppressed,33752,Suppressed
+Clay ,48077,65-74 years,Suppressed,24130,Suppressed
+Clay ,48077,75-84 years,11,13248,Unreliable
+Clay ,48077,85+ years,Suppressed,4295,Suppressed
+Clay ,48077,Not Stated,0,Not Applicable,Not Applicable
+Cochran ,48079,< 1 year,0,1013,Unreliable
+Cochran ,48079,1-4 years,0,3908,Unreliable
+Cochran ,48079,5-14 years,0,10495,Unreliable
+Cochran ,48079,15-24 years,Suppressed,9923,Suppressed
+Cochran ,48079,25-34 years,0,7474,Unreliable
+Cochran ,48079,35-44 years,0,7857,Unreliable
+Cochran ,48079,45-54 years,Suppressed,8419,Suppressed
+Cochran ,48079,55-64 years,Suppressed,7118,Suppressed
+Cochran ,48079,65-74 years,Suppressed,5518,Suppressed
+Cochran ,48079,75-84 years,Suppressed,3435,Suppressed
+Cochran ,48079,85+ years,Suppressed,1108,Suppressed
+Cochran ,48079,Not Stated,0,Not Applicable,Not Applicable
+Coke ,48081,< 1 year,0,745,Unreliable
+Coke ,48081,1-4 years,0,2838,Unreliable
+Coke ,48081,5-14 years,0,8283,Unreliable
+Coke ,48081,15-24 years,0,8559,Unreliable
+Coke ,48081,25-34 years,0,6258,Unreliable
+Coke ,48081,35-44 years,0,7504,Unreliable
+Coke ,48081,45-54 years,0,9373,Unreliable
+Coke ,48081,55-64 years,Suppressed,10030,Suppressed
+Coke ,48081,65-74 years,Suppressed,10063,Suppressed
+Coke ,48081,75-84 years,Suppressed,6238,Suppressed
+Coke ,48081,85+ years,Suppressed,2025,Suppressed
+Coke ,48081,Not Stated,0,Not Applicable,Not Applicable
+Coleman ,48083,< 1 year,0,1999,Unreliable
+Coleman ,48083,1-4 years,0,8075,Unreliable
+Coleman ,48083,5-14 years,0,23118,Unreliable
+Coleman ,48083,15-24 years,0,19207,Unreliable
+Coleman ,48083,25-34 years,0,16598,Unreliable
+Coleman ,48083,35-44 years,0,20883,Unreliable
+Coleman ,48083,45-54 years,Suppressed,23977,Suppressed
+Coleman ,48083,55-64 years,Suppressed,26503,Suppressed
+Coleman ,48083,65-74 years,11,22451,Unreliable
+Coleman ,48083,75-84 years,10,14490,Unreliable
+Coleman ,48083,85+ years,14,4916,Unreliable
+Coleman ,48083,Not Stated,0,Not Applicable,Not Applicable
+Collin ,48085,< 1 year,Suppressed,221234,Suppressed
+Collin ,48085,1-4 years,Suppressed,965070,Suppressed
+Collin ,48085,5-14 years,0,2608752,Unreliable
+Collin ,48085,15-24 years,Suppressed,2019721,Suppressed
+Collin ,48085,25-34 years,Suppressed,2337629,Suppressed
+Collin ,48085,35-44 years,34,2846144,1.2
+Collin ,48085,45-54 years,65,2432811,2.7
+Collin ,48085,55-64 years,109,1620442,6.7
+Collin ,48085,65-74 years,187,879169,21.3
+Collin ,48085,75-84 years,252,388066,64.9
+Collin ,48085,85+ years,270,135035,199.9
+Collin ,48085,Not Stated,0,Not Applicable,Not Applicable
+Collingsworth ,48087,< 1 year,0,895,Unreliable
+Collingsworth ,48087,1-4 years,0,3596,Unreliable
+Collingsworth ,48087,5-14 years,0,9525,Unreliable
+Collingsworth ,48087,15-24 years,0,8059,Unreliable
+Collingsworth ,48087,25-34 years,Suppressed,6703,Suppressed
+Collingsworth ,48087,35-44 years,0,7202,Unreliable
+Collingsworth ,48087,45-54 years,Suppressed,8022,Suppressed
+Collingsworth ,48087,55-64 years,0,7429,Unreliable
+Collingsworth ,48087,65-74 years,Suppressed,5919,Suppressed
+Collingsworth ,48087,75-84 years,Suppressed,4438,Suppressed
+Collingsworth ,48087,85+ years,Suppressed,1722,Suppressed
+Collingsworth ,48087,Not Stated,0,Not Applicable,Not Applicable
+Colorado ,48089,< 1 year,0,5600,Unreliable
+Colorado ,48089,1-4 years,0,21003,Unreliable
+Colorado ,48089,5-14 years,0,57795,Unreliable
+Colorado ,48089,15-24 years,0,55364,Unreliable
+Colorado ,48089,25-34 years,0,43730,Unreliable
+Colorado ,48089,35-44 years,Suppressed,48792,Suppressed
+Colorado ,48089,45-54 years,0,58622,Unreliable
+Colorado ,48089,55-64 years,12,58235,Unreliable
+Colorado ,48089,65-74 years,29,46096,62.9
+Colorado ,48089,75-84 years,26,28758,90.4
+Colorado ,48089,85+ years,46,12454,369.4
+Colorado ,48089,Not Stated,0,Not Applicable,Not Applicable
+Comal ,48091,< 1 year,Suppressed,27093,Suppressed
+Comal ,48091,1-4 years,0,112143,Unreliable
+Comal ,48091,5-14 years,0,314981,Unreliable
+Comal ,48091,15-24 years,0,278197,Unreliable
+Comal ,48091,25-34 years,Suppressed,255436,Suppressed
+Comal ,48091,35-44 years,Suppressed,307507,Suppressed
+Comal ,48091,45-54 years,22,349071,6.3
+Comal ,48091,55-64 years,34,328977,10.3
+Comal ,48091,65-74 years,47,230289,20.4
+Comal ,48091,75-84 years,88,115890,75.9
+Comal ,48091,85+ years,73,41869,174.4
+Comal ,48091,Not Stated,0,Not Applicable,Not Applicable
+Comanche ,48093,< 1 year,0,3601,Unreliable
+Comanche ,48093,1-4 years,0,14116,Unreliable
+Comanche ,48093,5-14 years,0,38130,Unreliable
+Comanche ,48093,15-24 years,0,34026,Unreliable
+Comanche ,48093,25-34 years,0,27645,Unreliable
+Comanche ,48093,35-44 years,0,32687,Unreliable
+Comanche ,48093,45-54 years,Suppressed,36511,Suppressed
+Comanche ,48093,55-64 years,Suppressed,38167,Suppressed
+Comanche ,48093,65-74 years,11,34456,Unreliable
+Comanche ,48093,75-84 years,22,20677,106.4
+Comanche ,48093,85+ years,25,7764,322
+Comanche ,48093,Not Stated,0,Not Applicable,Not Applicable
+Concho ,48095,< 1 year,0,578,Unreliable
+Concho ,48095,1-4 years,0,2571,Unreliable
+Concho ,48095,5-14 years,0,6668,Unreliable
+Concho ,48095,15-24 years,0,8462,Unreliable
+Concho ,48095,25-34 years,0,14173,Unreliable
+Concho ,48095,35-44 years,0,14742,Unreliable
+Concho ,48095,45-54 years,Suppressed,11825,Suppressed
+Concho ,48095,55-64 years,0,9654,Unreliable
+Concho ,48095,65-74 years,Suppressed,7018,Suppressed
+Concho ,48095,75-84 years,Suppressed,4031,Suppressed
+Concho ,48095,85+ years,Suppressed,1508,Suppressed
+Concho ,48095,Not Stated,0,Not Applicable,Not Applicable
+Cooke ,48097,< 1 year,0,11245,Unreliable
+Cooke ,48097,1-4 years,0,44020,Unreliable
+Cooke ,48097,5-14 years,0,111781,Unreliable
+Cooke ,48097,15-24 years,Suppressed,110836,Suppressed
+Cooke ,48097,25-34 years,Suppressed,92361,Suppressed
+Cooke ,48097,35-44 years,Suppressed,96632,Suppressed
+Cooke ,48097,45-54 years,Suppressed,107619,Suppressed
+Cooke ,48097,55-64 years,14,103299,Unreliable
+Cooke ,48097,65-74 years,21,74664,28.1
+Cooke ,48097,75-84 years,30,43234,69.4
+Cooke ,48097,85+ years,29,15954,181.8
+Cooke ,48097,Not Stated,0,Not Applicable,Not Applicable
+Coryell ,48099,< 1 year,0,22056,Unreliable
+Coryell ,48099,1-4 years,0,97792,Unreliable
+Coryell ,48099,5-14 years,Suppressed,221388,Suppressed
+Coryell ,48099,15-24 years,Suppressed,277704,Suppressed
+Coryell ,48099,25-34 years,Suppressed,295212,Suppressed
+Coryell ,48099,35-44 years,Suppressed,236682,Suppressed
+Coryell ,48099,45-54 years,Suppressed,172365,Suppressed
+Coryell ,48099,55-64 years,25,117619,21.3
+Coryell ,48099,65-74 years,21,75451,27.8
+Coryell ,48099,75-84 years,31,38391,80.7
+Coryell ,48099,85+ years,28,11698,239.4
+Coryell ,48099,Not Stated,0,Not Applicable,Not Applicable
+Cottle ,48101,< 1 year,0,316,Unreliable
+Cottle ,48101,1-4 years,0,1306,Unreliable
+Cottle ,48101,5-14 years,0,4405,Unreliable
+Cottle ,48101,15-24 years,0,3431,Unreliable
+Cottle ,48101,25-34 years,0,2768,Unreliable
+Cottle ,48101,35-44 years,0,3545,Unreliable
+Cottle ,48101,45-54 years,Suppressed,4025,Suppressed
+Cottle ,48101,55-64 years,Suppressed,4412,Suppressed
+Cottle ,48101,65-74 years,Suppressed,4178,Suppressed
+Cottle ,48101,75-84 years,Suppressed,2884,Suppressed
+Cottle ,48101,85+ years,Suppressed,1013,Suppressed
+Cottle ,48101,Not Stated,0,Not Applicable,Not Applicable
+Crane ,48103,< 1 year,0,1399,Unreliable
+Crane ,48103,1-4 years,0,5462,Unreliable
+Crane ,48103,5-14 years,0,15153,Unreliable
+Crane ,48103,15-24 years,0,13481,Unreliable
+Crane ,48103,25-34 years,0,10967,Unreliable
+Crane ,48103,35-44 years,Suppressed,12013,Suppressed
+Crane ,48103,45-54 years,0,12660,Unreliable
+Crane ,48103,55-64 years,Suppressed,9702,Suppressed
+Crane ,48103,65-74 years,Suppressed,5864,Suppressed
+Crane ,48103,75-84 years,Suppressed,3506,Suppressed
+Crane ,48103,85+ years,Suppressed,1463,Suppressed
+Crane ,48103,Not Stated,0,Not Applicable,Not Applicable
+Crockett ,48105,< 1 year,0,1106,Unreliable
+Crockett ,48105,1-4 years,0,4507,Unreliable
+Crockett ,48105,5-14 years,0,11598,Unreliable
+Crockett ,48105,15-24 years,0,9788,Unreliable
+Crockett ,48105,25-34 years,0,8876,Unreliable
+Crockett ,48105,35-44 years,0,10147,Unreliable
+Crockett ,48105,45-54 years,Suppressed,10895,Suppressed
+Crockett ,48105,55-64 years,Suppressed,9884,Suppressed
+Crockett ,48105,65-74 years,Suppressed,6570,Suppressed
+Crockett ,48105,75-84 years,Suppressed,3835,Suppressed
+Crockett ,48105,85+ years,Suppressed,1397,Suppressed
+Crockett ,48105,Not Stated,0,Not Applicable,Not Applicable
+Crosby ,48107,< 1 year,Suppressed,1965,Suppressed
+Crosby ,48107,1-4 years,0,8126,Unreliable
+Crosby ,48107,5-14 years,0,20760,Unreliable
+Crosby ,48107,15-24 years,0,17132,Unreliable
+Crosby ,48107,25-34 years,0,14524,Unreliable
+Crosby ,48107,35-44 years,Suppressed,14733,Suppressed
+Crosby ,48107,45-54 years,Suppressed,15543,Suppressed
+Crosby ,48107,55-64 years,Suppressed,15446,Suppressed
+Crosby ,48107,65-74 years,Suppressed,12099,Suppressed
+Crosby ,48107,75-84 years,Suppressed,7484,Suppressed
+Crosby ,48107,85+ years,Suppressed,3026,Suppressed
+Crosby ,48107,Not Stated,0,Not Applicable,Not Applicable
+Culberson ,48109,< 1 year,0,659,Unreliable
+Culberson ,48109,1-4 years,0,3048,Unreliable
+Culberson ,48109,5-14 years,0,7707,Unreliable
+Culberson ,48109,15-24 years,0,7077,Unreliable
+Culberson ,48109,25-34 years,Suppressed,5819,Suppressed
+Culberson ,48109,35-44 years,0,6166,Unreliable
+Culberson ,48109,45-54 years,Suppressed,6844,Suppressed
+Culberson ,48109,55-64 years,0,6343,Unreliable
+Culberson ,48109,65-74 years,Suppressed,4563,Suppressed
+Culberson ,48109,75-84 years,Suppressed,2516,Suppressed
+Culberson ,48109,85+ years,Suppressed,848,Suppressed
+Culberson ,48109,Not Stated,0,Not Applicable,Not Applicable
+Dallam ,48111,< 1 year,Suppressed,2742,Suppressed
+Dallam ,48111,1-4 years,0,10015,Unreliable
+Dallam ,48111,5-14 years,0,24059,Unreliable
+Dallam ,48111,15-24 years,0,19666,Unreliable
+Dallam ,48111,25-34 years,0,19954,Unreliable
+Dallam ,48111,35-44 years,Suppressed,18617,Suppressed
+Dallam ,48111,45-54 years,Suppressed,17842,Suppressed
+Dallam ,48111,55-64 years,0,13678,Unreliable
+Dallam ,48111,65-74 years,Suppressed,8555,Suppressed
+Dallam ,48111,75-84 years,Suppressed,4155,Suppressed
+Dallam ,48111,85+ years,Suppressed,1422,Suppressed
+Dallam ,48111,Not Stated,0,Not Applicable,Not Applicable
+Dallas ,48113,< 1 year,58,831706,7
+Dallas ,48113,1-4 years,20,3212348,0.6
+Dallas ,48113,5-14 years,22,7530189,0.3
+Dallas ,48113,15-24 years,22,7249922,0.3
+Dallas ,48113,25-34 years,66,8379724,0.8
+Dallas ,48113,35-44 years,168,7444762,2.3
+Dallas ,48113,45-54 years,403,6496447,6.2
+Dallas ,48113,55-64 years,777,4765026,16.3
+Dallas ,48113,65-74 years,1036,2685666,38.6
+Dallas ,48113,75-84 years,1355,1430122,94.7
+Dallas ,48113,85+ years,1204,554392,217.2
+Dallas ,48113,Not Stated,0,Not Applicable,Not Applicable
+Dawson ,48115,< 1 year,Suppressed,4161,Suppressed
+Dawson ,48115,1-4 years,0,15964,Unreliable
+Dawson ,48115,5-14 years,0,38983,Unreliable
+Dawson ,48115,15-24 years,0,42356,Unreliable
+Dawson ,48115,25-34 years,0,46269,Unreliable
+Dawson ,48115,35-44 years,Suppressed,37721,Suppressed
+Dawson ,48115,45-54 years,Suppressed,33892,Suppressed
+Dawson ,48115,55-64 years,Suppressed,27559,Suppressed
+Dawson ,48115,65-74 years,Suppressed,21395,Suppressed
+Dawson ,48115,75-84 years,15,14555,Unreliable
+Dawson ,48115,85+ years,Suppressed,5498,Suppressed
+Dawson ,48115,Not Stated,0,Not Applicable,Not Applicable
+Deaf Smith ,48117,< 1 year,Suppressed,7300,Suppressed
+Deaf Smith ,48117,1-4 years,Suppressed,29430,Suppressed
+Deaf Smith ,48117,5-14 years,0,69736,Unreliable
+Deaf Smith ,48117,15-24 years,0,59887,Unreliable
+Deaf Smith ,48117,25-34 years,Suppressed,51210,Suppressed
+Deaf Smith ,48117,35-44 years,Suppressed,47275,Suppressed
+Deaf Smith ,48117,45-54 years,Suppressed,45586,Suppressed
+Deaf Smith ,48117,55-64 years,Suppressed,37878,Suppressed
+Deaf Smith ,48117,65-74 years,Suppressed,25437,Suppressed
+Deaf Smith ,48117,75-84 years,18,15544,Unreliable
+Deaf Smith ,48117,85+ years,Suppressed,6694,Suppressed
+Deaf Smith ,48117,Not Stated,0,Not Applicable,Not Applicable
+Delta ,48119,< 1 year,0,1354,Unreliable
+Delta ,48119,1-4 years,0,5283,Unreliable
+Delta ,48119,5-14 years,0,14733,Unreliable
+Delta ,48119,15-24 years,0,13479,Unreliable
+Delta ,48119,25-34 years,0,11213,Unreliable
+Delta ,48119,35-44 years,0,13211,Unreliable
+Delta ,48119,45-54 years,0,14809,Unreliable
+Delta ,48119,55-64 years,Suppressed,15230,Suppressed
+Delta ,48119,65-74 years,Suppressed,12064,Suppressed
+Delta ,48119,75-84 years,Suppressed,6934,Suppressed
+Delta ,48119,85+ years,Suppressed,2704,Suppressed
+Delta ,48119,Not Stated,0,Not Applicable,Not Applicable
+Denton ,48121,< 1 year,Suppressed,193495,Suppressed
+Denton ,48121,1-4 years,Suppressed,818733,Suppressed
+Denton ,48121,5-14 years,Suppressed,2111833,Suppressed
+Denton ,48121,15-24 years,Suppressed,2016159,Suppressed
+Denton ,48121,25-34 years,11,2198023,Unreliable
+Denton ,48121,35-44 years,22,2313484,1
+Denton ,48121,45-54 years,48,1993271,2.4
+Denton ,48121,55-64 years,128,1333899,9.6
+Denton ,48121,65-74 years,150,694964,21.6
+Denton ,48121,75-84 years,188,299779,62.7
+Denton ,48121,85+ years,188,104304,180.2
+Denton ,48121,Not Stated,0,Not Applicable,Not Applicable
+DeWitt ,48123,< 1 year,0,5123,Unreliable
+DeWitt ,48123,1-4 years,0,20696,Unreliable
+DeWitt ,48123,5-14 years,0,52878,Unreliable
+DeWitt ,48123,15-24 years,Suppressed,48169,Suppressed
+DeWitt ,48123,25-34 years,Suppressed,47802,Suppressed
+DeWitt ,48123,35-44 years,Suppressed,57246,Suppressed
+DeWitt ,48123,45-54 years,Suppressed,59702,Suppressed
+DeWitt ,48123,55-64 years,14,53342,Unreliable
+DeWitt ,48123,65-74 years,25,40262,62.1
+DeWitt ,48123,75-84 years,27,27628,97.7
+DeWitt ,48123,85+ years,32,12230,261.7
+DeWitt ,48123,Not Stated,0,Not Applicable,Not Applicable
+Dickens ,48125,< 1 year,0,587,Unreliable
+Dickens ,48125,1-4 years,0,2001,Unreliable
+Dickens ,48125,5-14 years,0,5244,Unreliable
+Dickens ,48125,15-24 years,0,6213,Unreliable
+Dickens ,48125,25-34 years,0,7085,Unreliable
+Dickens ,48125,35-44 years,0,6643,Unreliable
+Dickens ,48125,45-54 years,Suppressed,6348,Suppressed
+Dickens ,48125,55-64 years,0,6327,Unreliable
+Dickens ,48125,65-74 years,Suppressed,5280,Suppressed
+Dickens ,48125,75-84 years,Suppressed,3497,Suppressed
+Dickens ,48125,85+ years,Suppressed,1370,Suppressed
+Dickens ,48125,Not Stated,0,Not Applicable,Not Applicable
+Dimmit ,48127,< 1 year,0,3458,Unreliable
+Dimmit ,48127,1-4 years,Suppressed,13983,Suppressed
+Dimmit ,48127,5-14 years,0,36669,Unreliable
+Dimmit ,48127,15-24 years,0,31242,Unreliable
+Dimmit ,48127,25-34 years,0,24964,Unreliable
+Dimmit ,48127,35-44 years,Suppressed,25254,Suppressed
+Dimmit ,48127,45-54 years,Suppressed,25617,Suppressed
+Dimmit ,48127,55-64 years,Suppressed,23064,Suppressed
+Dimmit ,48127,65-74 years,12,16618,Unreliable
+Dimmit ,48127,75-84 years,15,10026,Unreliable
+Dimmit ,48127,85+ years,12,4103,Unreliable
+Dimmit ,48127,Not Stated,0,Not Applicable,Not Applicable
+Donley ,48129,< 1 year,0,715,Unreliable
+Donley ,48129,1-4 years,0,3101,Unreliable
+Donley ,48129,5-14 years,0,8964,Unreliable
+Donley ,48129,15-24 years,0,12636,Unreliable
+Donley ,48129,25-34 years,0,6914,Unreliable
+Donley ,48129,35-44 years,0,7667,Unreliable
+Donley ,48129,45-54 years,0,9172,Unreliable
+Donley ,48129,55-64 years,Suppressed,10090,Suppressed
+Donley ,48129,65-74 years,Suppressed,9137,Suppressed
+Donley ,48129,75-84 years,Suppressed,5808,Suppressed
+Donley ,48129,85+ years,Suppressed,1978,Suppressed
+Donley ,48129,Not Stated,0,Not Applicable,Not Applicable
+Duval ,48131,< 1 year,Suppressed,3664,Suppressed
+Duval ,48131,1-4 years,Suppressed,14646,Suppressed
+Duval ,48131,5-14 years,0,36594,Unreliable
+Duval ,48131,15-24 years,0,37261,Unreliable
+Duval ,48131,25-34 years,Suppressed,30685,Suppressed
+Duval ,48131,35-44 years,Suppressed,30485,Suppressed
+Duval ,48131,45-54 years,Suppressed,30453,Suppressed
+Duval ,48131,55-64 years,Suppressed,25969,Suppressed
+Duval ,48131,65-74 years,Suppressed,21639,Suppressed
+Duval ,48131,75-84 years,Suppressed,14164,Suppressed
+Duval ,48131,85+ years,20,4746,421.4
+Duval ,48131,Not Stated,0,Not Applicable,Not Applicable
+Eastland ,48133,< 1 year,0,4518,Unreliable
+Eastland ,48133,1-4 years,0,18286,Unreliable
+Eastland ,48133,5-14 years,0,47219,Unreliable
+Eastland ,48133,15-24 years,0,56023,Unreliable
+Eastland ,48133,25-34 years,0,38037,Unreliable
+Eastland ,48133,35-44 years,Suppressed,41637,Suppressed
+Eastland ,48133,45-54 years,Suppressed,49262,Suppressed
+Eastland ,48133,55-64 years,12,51488,Unreliable
+Eastland ,48133,65-74 years,10,42410,Unreliable
+Eastland ,48133,75-84 years,23,26781,85.9
+Eastland ,48133,85+ years,20,10439,191.6
+Eastland ,48133,Not Stated,0,Not Applicable,Not Applicable
+Ector ,48135,< 1 year,Suppressed,53740,Suppressed
+Ector ,48135,1-4 years,Suppressed,207065,Suppressed
+Ector ,48135,5-14 years,Suppressed,478469,Suppressed
+Ector ,48135,15-24 years,Suppressed,460991,Suppressed
+Ector ,48135,25-34 years,Suppressed,441177,Suppressed
+Ector ,48135,35-44 years,15,377429,Unreliable
+Ector ,48135,45-54 years,49,361000,13.6
+Ector ,48135,55-64 years,96,278252,34.5
+Ector ,48135,65-74 years,122,171253,71.2
+Ector ,48135,75-84 years,127,98478,129
+Ector ,48135,85+ years,95,31360,302.9
+Ector ,48135,Not Stated,0,Not Applicable,Not Applicable
+Edwards ,48137,< 1 year,0,462,Unreliable
+Edwards ,48137,1-4 years,0,2017,Unreliable
+Edwards ,48137,5-14 years,0,5495,Unreliable
+Edwards ,48137,15-24 years,0,4747,Unreliable
+Edwards ,48137,25-34 years,0,3916,Unreliable
+Edwards ,48137,35-44 years,Suppressed,4427,Suppressed
+Edwards ,48137,45-54 years,0,5236,Unreliable
+Edwards ,48137,55-64 years,0,6218,Unreliable
+Edwards ,48137,65-74 years,Suppressed,5558,Suppressed
+Edwards ,48137,75-84 years,Suppressed,2787,Suppressed
+Edwards ,48137,85+ years,Suppressed,898,Suppressed
+Edwards ,48137,Not Stated,0,Not Applicable,Not Applicable
+Ellis ,48139,< 1 year,0,42887,Unreliable
+Ellis ,48139,1-4 years,0,179081,Unreliable
+Ellis ,48139,5-14 years,0,500050,Unreliable
+Ellis ,48139,15-24 years,Suppressed,445825,Suppressed
+Ellis ,48139,25-34 years,0,392076,Unreliable
+Ellis ,48139,35-44 years,Suppressed,442536,Suppressed
+Ellis ,48139,45-54 years,22,438522,5
+Ellis ,48139,55-64 years,55,343573,16
+Ellis ,48139,65-74 years,85,204573,41.5
+Ellis ,48139,75-84 years,86,99901,86.1
+Ellis ,48139,85+ years,81,35115,230.7
+Ellis ,48139,Not Stated,0,Not Applicable,Not Applicable
+El Paso ,48141,< 1 year,17,273663,Unreliable
+El Paso ,48141,1-4 years,Suppressed,1075230,Suppressed
+El Paso ,48141,5-14 years,Suppressed,2660283,Suppressed
+El Paso ,48141,15-24 years,12,2674572,Unreliable
+El Paso ,48141,25-34 years,23,2310281,1
+El Paso ,48141,35-44 years,48,2160083,2.2
+El Paso ,48141,45-54 years,135,1975994,6.8
+El Paso ,48141,55-64 years,225,1508848,14.9
+El Paso ,48141,65-74 years,361,991926,36.4
+El Paso ,48141,75-84 years,533,581087,91.7
+El Paso ,48141,85+ years,446,206516,216
+El Paso ,48141,Not Stated,0,Not Applicable,Not Applicable
+Erath ,48143,< 1 year,Suppressed,9990,Suppressed
+Erath ,48143,1-4 years,0,38353,Unreliable
+Erath ,48143,5-14 years,0,96439,Unreliable
+Erath ,48143,15-24 years,Suppressed,193340,Suppressed
+Erath ,48143,25-34 years,0,95994,Unreliable
+Erath ,48143,35-44 years,Suppressed,87747,Suppressed
+Erath ,48143,45-54 years,Suppressed,90811,Suppressed
+Erath ,48143,55-64 years,Suppressed,79877,Suppressed
+Erath ,48143,65-74 years,14,58354,Unreliable
+Erath ,48143,75-84 years,24,34410,69.7
+Erath ,48143,85+ years,30,14868,201.8
+Erath ,48143,Not Stated,0,Not Applicable,Not Applicable
+Falls ,48145,< 1 year,0,4426,Unreliable
+Falls ,48145,1-4 years,0,17739,Unreliable
+Falls ,48145,5-14 years,0,46756,Unreliable
+Falls ,48145,15-24 years,0,49731,Unreliable
+Falls ,48145,25-34 years,Suppressed,48720,Suppressed
+Falls ,48145,35-44 years,Suppressed,47911,Suppressed
+Falls ,48145,45-54 years,Suppressed,50194,Suppressed
+Falls ,48145,55-64 years,Suppressed,43559,Suppressed
+Falls ,48145,65-74 years,19,32713,Unreliable
+Falls ,48145,75-84 years,22,21786,101
+Falls ,48145,85+ years,32,8331,384.1
+Falls ,48145,Not Stated,0,Not Applicable,Not Applicable
+Fannin ,48147,< 1 year,0,7668,Unreliable
+Fannin ,48147,1-4 years,0,31682,Unreliable
+Fannin ,48147,5-14 years,0,87793,Unreliable
+Fannin ,48147,15-24 years,Suppressed,87458,Suppressed
+Fannin ,48147,25-34 years,0,87071,Unreliable
+Fannin ,48147,35-44 years,0,93832,Unreliable
+Fannin ,48147,45-54 years,Suppressed,98613,Suppressed
+Fannin ,48147,55-64 years,14,88741,Unreliable
+Fannin ,48147,65-74 years,32,67950,47.1
+Fannin ,48147,75-84 years,40,39417,101.5
+Fannin ,48147,85+ years,42,15435,272.1
+Fannin ,48147,Not Stated,0,Not Applicable,Not Applicable
+Fayette ,48149,< 1 year,0,5314,Unreliable
+Fayette ,48149,1-4 years,0,22378,Unreliable
+Fayette ,48149,5-14 years,0,62497,Unreliable
+Fayette ,48149,15-24 years,0,55891,Unreliable
+Fayette ,48149,25-34 years,Suppressed,46814,Suppressed
+Fayette ,48149,35-44 years,Suppressed,57031,Suppressed
+Fayette ,48149,45-54 years,Suppressed,69794,Suppressed
+Fayette ,48149,55-64 years,11,72027,Unreliable
+Fayette ,48149,65-74 years,13,59447,Unreliable
+Fayette ,48149,75-84 years,30,38303,78.3
+Fayette ,48149,85+ years,35,18486,189.3
+Fayette ,48149,Not Stated,0,Not Applicable,Not Applicable
+Fisher ,48151,< 1 year,0,799,Unreliable
+Fisher ,48151,1-4 years,0,3411,Unreliable
+Fisher ,48151,5-14 years,0,10703,Unreliable
+Fisher ,48151,15-24 years,0,9721,Unreliable
+Fisher ,48151,25-34 years,Suppressed,7940,Suppressed
+Fisher ,48151,35-44 years,Suppressed,9591,Suppressed
+Fisher ,48151,45-54 years,Suppressed,11060,Suppressed
+Fisher ,48151,55-64 years,Suppressed,11267,Suppressed
+Fisher ,48151,65-74 years,Suppressed,9866,Suppressed
+Fisher ,48151,75-84 years,Suppressed,7058,Suppressed
+Fisher ,48151,85+ years,Suppressed,2561,Suppressed
+Fisher ,48151,Not Stated,0,Not Applicable,Not Applicable
+Floyd ,48153,< 1 year,0,2001,Unreliable
+Floyd ,48153,1-4 years,0,8118,Unreliable
+Floyd ,48153,5-14 years,0,22339,Unreliable
+Floyd ,48153,15-24 years,0,17950,Unreliable
+Floyd ,48153,25-34 years,0,15053,Unreliable
+Floyd ,48153,35-44 years,Suppressed,16019,Suppressed
+Floyd ,48153,45-54 years,0,16403,Unreliable
+Floyd ,48153,55-64 years,Suppressed,15044,Suppressed
+Floyd ,48153,65-74 years,Suppressed,12014,Suppressed
+Floyd ,48153,75-84 years,Suppressed,8614,Suppressed
+Floyd ,48153,85+ years,12,3288,Unreliable
+Floyd ,48153,Not Stated,0,Not Applicable,Not Applicable
+Foard ,48155,< 1 year,0,246,Unreliable
+Foard ,48155,1-4 years,0,1060,Unreliable
+Foard ,48155,5-14 years,0,3809,Unreliable
+Foard ,48155,15-24 years,0,3175,Unreliable
+Foard ,48155,25-34 years,0,2485,Unreliable
+Foard ,48155,35-44 years,Suppressed,3101,Suppressed
+Foard ,48155,45-54 years,Suppressed,3933,Suppressed
+Foard ,48155,55-64 years,Suppressed,3704,Suppressed
+Foard ,48155,65-74 years,0,3261,Unreliable
+Foard ,48155,75-84 years,Suppressed,2415,Suppressed
+Foard ,48155,85+ years,Suppressed,1140,Suppressed
+Foard ,48155,Not Stated,0,Not Applicable,Not Applicable
+Fort Bend ,48157,< 1 year,Suppressed,166549,Suppressed
+Fort Bend ,48157,1-4 years,Suppressed,722761,Suppressed
+Fort Bend ,48157,5-14 years,Suppressed,2056367,Suppressed
+Fort Bend ,48157,15-24 years,Suppressed,1661472,Suppressed
+Fort Bend ,48157,25-34 years,12,1534396,Unreliable
+Fort Bend ,48157,35-44 years,37,1979233,1.9
+Fort Bend ,48157,45-54 years,95,1869791,5.1
+Fort Bend ,48157,55-64 years,212,1327883,16
+Fort Bend ,48157,65-74 years,294,686420,42.8
+Fort Bend ,48157,75-84 years,377,285489,132.1
+Fort Bend ,48157,85+ years,333,98883,336.8
+Fort Bend ,48157,Not Stated,0,Not Applicable,Not Applicable
+Franklin ,48159,< 1 year,0,2516,Unreliable
+Franklin ,48159,1-4 years,0,10651,Unreliable
+Franklin ,48159,5-14 years,0,30338,Unreliable
+Franklin ,48159,15-24 years,0,25859,Unreliable
+Franklin ,48159,25-34 years,0,23118,Unreliable
+Franklin ,48159,35-44 years,0,25290,Unreliable
+Franklin ,48159,45-54 years,Suppressed,28864,Suppressed
+Franklin ,48159,55-64 years,Suppressed,29501,Suppressed
+Franklin ,48159,65-74 years,Suppressed,24363,Suppressed
+Franklin ,48159,75-84 years,Suppressed,13413,Suppressed
+Franklin ,48159,85+ years,12,4827,Unreliable
+Franklin ,48159,Not Stated,0,Not Applicable,Not Applicable
+Freestone ,48161,< 1 year,0,4727,Unreliable
+Freestone ,48161,1-4 years,0,19380,Unreliable
+Freestone ,48161,5-14 years,0,52453,Unreliable
+Freestone ,48161,15-24 years,0,47611,Unreliable
+Freestone ,48161,25-34 years,Suppressed,48448,Suppressed
+Freestone ,48161,35-44 years,Suppressed,54543,Suppressed
+Freestone ,48161,45-54 years,Suppressed,55952,Suppressed
+Freestone ,48161,55-64 years,Suppressed,50917,Suppressed
+Freestone ,48161,65-74 years,15,39258,Unreliable
+Freestone ,48161,75-84 years,25,22261,112.3
+Freestone ,48161,85+ years,31,9085,341.2
+Freestone ,48161,Not Stated,0,Not Applicable,Not Applicable
+Frio ,48163,< 1 year,0,5455,Unreliable
+Frio ,48163,1-4 years,0,20838,Unreliable
+Frio ,48163,5-14 years,0,51498,Unreliable
+Frio ,48163,15-24 years,0,63018,Unreliable
+Frio ,48163,25-34 years,0,66068,Unreliable
+Frio ,48163,35-44 years,Suppressed,47649,Suppressed
+Frio ,48163,45-54 years,Suppressed,41913,Suppressed
+Frio ,48163,55-64 years,11,33754,Unreliable
+Frio ,48163,65-74 years,Suppressed,24240,Suppressed
+Frio ,48163,75-84 years,13,13980,Unreliable
+Frio ,48163,85+ years,Suppressed,4568,Suppressed
+Frio ,48163,Not Stated,0,Not Applicable,Not Applicable
+Gaines ,48165,< 1 year,Suppressed,7810,Suppressed
+Gaines ,48165,1-4 years,0,28956,Unreliable
+Gaines ,48165,5-14 years,0,71854,Unreliable
+Gaines ,48165,15-24 years,0,58521,Unreliable
+Gaines ,48165,25-34 years,0,48570,Unreliable
+Gaines ,48165,35-44 years,Suppressed,46163,Suppressed
+Gaines ,48165,45-54 years,Suppressed,42721,Suppressed
+Gaines ,48165,55-64 years,Suppressed,31941,Suppressed
+Gaines ,48165,65-74 years,Suppressed,20207,Suppressed
+Gaines ,48165,75-84 years,11,11357,Unreliable
+Gaines ,48165,85+ years,Suppressed,3869,Suppressed
+Gaines ,48165,Not Stated,0,Not Applicable,Not Applicable
+Galveston ,48167,< 1 year,Suppressed,83599,Suppressed
+Galveston ,48167,1-4 years,Suppressed,335617,Suppressed
+Galveston ,48167,5-14 years,Suppressed,881725,Suppressed
+Galveston ,48167,15-24 years,Suppressed,818249,Suppressed
+Galveston ,48167,25-34 years,12,817160,Unreliable
+Galveston ,48167,35-44 years,28,875092,3.2
+Galveston ,48167,45-54 years,105,911874,11.5
+Galveston ,48167,55-64 years,191,746885,25.6
+Galveston ,48167,65-74 years,281,448048,62.7
+Galveston ,48167,75-84 years,346,232819,148.6
+Galveston ,48167,85+ years,299,82895,360.7
+Galveston ,48167,Not Stated,0,Not Applicable,Not Applicable
+Garza ,48169,< 1 year,0,1425,Unreliable
+Garza ,48169,1-4 years,0,5461,Unreliable
+Garza ,48169,5-14 years,0,14257,Unreliable
+Garza ,48169,15-24 years,0,21380,Unreliable
+Garza ,48169,25-34 years,0,23518,Unreliable
+Garza ,48169,35-44 years,0,15755,Unreliable
+Garza ,48169,45-54 years,Suppressed,17748,Suppressed
+Garza ,48169,55-64 years,Suppressed,13162,Suppressed
+Garza ,48169,65-74 years,Suppressed,8034,Suppressed
+Garza ,48169,75-84 years,Suppressed,5244,Suppressed
+Garza ,48169,85+ years,Suppressed,1793,Suppressed
+Garza ,48169,Not Stated,0,Not Applicable,Not Applicable
+Gillespie ,48171,< 1 year,0,5049,Unreliable
+Gillespie ,48171,1-4 years,0,20340,Unreliable
+Gillespie ,48171,5-14 years,0,58757,Unreliable
+Gillespie ,48171,15-24 years,0,51466,Unreliable
+Gillespie ,48171,25-34 years,0,43347,Unreliable
+Gillespie ,48171,35-44 years,0,52153,Unreliable
+Gillespie ,48171,45-54 years,0,65720,Unreliable
+Gillespie ,48171,55-64 years,10,76267,Unreliable
+Gillespie ,48171,65-74 years,13,70908,Unreliable
+Gillespie ,48171,75-84 years,27,47416,56.9
+Gillespie ,48171,85+ years,34,21471,158.4
+Gillespie ,48171,Not Stated,0,Not Applicable,Not Applicable
+Glasscock ,48173,< 1 year,0,308,Unreliable
+Glasscock ,48173,1-4 years,0,1488,Unreliable
+Glasscock ,48173,5-14 years,0,4424,Unreliable
+Glasscock ,48173,15-24 years,0,3625,Unreliable
+Glasscock ,48173,25-34 years,0,3195,Unreliable
+Glasscock ,48173,35-44 years,0,3800,Unreliable
+Glasscock ,48173,45-54 years,Suppressed,3712,Suppressed
+Glasscock ,48173,55-64 years,0,3280,Unreliable
+Glasscock ,48173,65-74 years,Suppressed,2132,Suppressed
+Glasscock ,48173,75-84 years,Suppressed,1072,Suppressed
+Glasscock ,48173,85+ years,0,254,Unreliable
+Glasscock ,48173,Not Stated,0,Not Applicable,Not Applicable
+Goliad ,48175,< 1 year,0,1634,Unreliable
+Goliad ,48175,1-4 years,0,6751,Unreliable
+Goliad ,48175,5-14 years,0,19710,Unreliable
+Goliad ,48175,15-24 years,0,18097,Unreliable
+Goliad ,48175,25-34 years,0,14467,Unreliable
+Goliad ,48175,35-44 years,Suppressed,18226,Suppressed
+Goliad ,48175,45-54 years,0,21941,Unreliable
+Goliad ,48175,55-64 years,Suppressed,21928,Suppressed
+Goliad ,48175,65-74 years,Suppressed,17122,Suppressed
+Goliad ,48175,75-84 years,14,9399,Unreliable
+Goliad ,48175,85+ years,15,3880,Unreliable
+Goliad ,48175,Not Stated,0,Not Applicable,Not Applicable
+Gonzales ,48177,< 1 year,Suppressed,6227,Suppressed
+Gonzales ,48177,1-4 years,Suppressed,25290,Suppressed
+Gonzales ,48177,5-14 years,0,63035,Unreliable
+Gonzales ,48177,15-24 years,0,56337,Unreliable
+Gonzales ,48177,25-34 years,0,48974,Unreliable
+Gonzales ,48177,35-44 years,Suppressed,49651,Suppressed
+Gonzales ,48177,45-54 years,Suppressed,53437,Suppressed
+Gonzales ,48177,55-64 years,21,48103,43.7
+Gonzales ,48177,65-74 years,Suppressed,35791,Suppressed
+Gonzales ,48177,75-84 years,12,22672,Unreliable
+Gonzales ,48177,85+ years,20,8708,229.7
+Gonzales ,48177,Not Stated,0,Not Applicable,Not Applicable
+Gray ,48179,< 1 year,Suppressed,6343,Suppressed
+Gray ,48179,1-4 years,Suppressed,25289,Suppressed
+Gray ,48179,5-14 years,0,64575,Unreliable
+Gray ,48179,15-24 years,Suppressed,58107,Suppressed
+Gray ,48179,25-34 years,Suppressed,60714,Suppressed
+Gray ,48179,35-44 years,0,62648,Unreliable
+Gray ,48179,45-54 years,Suppressed,62707,Suppressed
+Gray ,48179,55-64 years,Suppressed,52406,Suppressed
+Gray ,48179,65-74 years,18,39818,Unreliable
+Gray ,48179,75-84 years,30,27026,111
+Gray ,48179,85+ years,12,10473,Unreliable
+Gray ,48179,Not Stated,0,Not Applicable,Not Applicable
+Grayson ,48181,< 1 year,Suppressed,32850,Suppressed
+Grayson ,48181,1-4 years,0,132145,Unreliable
+Grayson ,48181,5-14 years,0,348303,Unreliable
+Grayson ,48181,15-24 years,Suppressed,339265,Suppressed
+Grayson ,48181,25-34 years,Suppressed,302063,Suppressed
+Grayson ,48181,35-44 years,10,323161,Unreliable
+Grayson ,48181,45-54 years,36,351696,10.2
+Grayson ,48181,55-64 years,60,318405,18.8
+Grayson ,48181,65-74 years,84,227816,36.9
+Grayson ,48181,75-84 years,111,132921,83.5
+Grayson ,48181,85+ years,107,50513,211.8
+Grayson ,48181,Not Stated,0,Not Applicable,Not Applicable
+Gregg ,48183,< 1 year,Suppressed,38382,Suppressed
+Gregg ,48183,1-4 years,0,147965,Unreliable
+Gregg ,48183,5-14 years,0,358268,Unreliable
+Gregg ,48183,15-24 years,Suppressed,363277,Suppressed
+Gregg ,48183,25-34 years,Suppressed,336653,Suppressed
+Gregg ,48183,35-44 years,19,319309,Unreliable
+Gregg ,48183,45-54 years,32,323765,9.9
+Gregg ,48183,55-64 years,52,273103,19
+Gregg ,48183,65-74 years,85,187296,45.4
+Gregg ,48183,75-84 years,110,117371,93.7
+Gregg ,48183,85+ years,102,46837,217.8
+Gregg ,48183,Not Stated,0,Not Applicable,Not Applicable
+Grimes ,48185,< 1 year,0,6602,Unreliable
+Grimes ,48185,1-4 years,Suppressed,26773,Suppressed
+Grimes ,48185,5-14 years,0,71643,Unreliable
+Grimes ,48185,15-24 years,0,69138,Unreliable
+Grimes ,48185,25-34 years,0,69732,Unreliable
+Grimes ,48185,35-44 years,Suppressed,76080,Suppressed
+Grimes ,48185,45-54 years,Suppressed,82109,Suppressed
+Grimes ,48185,55-64 years,14,71456,Unreliable
+Grimes ,48185,65-74 years,15,49797,Unreliable
+Grimes ,48185,75-84 years,23,24218,95
+Grimes ,48185,85+ years,19,9338,Unreliable
+Grimes ,48185,Not Stated,0,Not Applicable,Not Applicable
+Guadalupe ,48187,< 1 year,Suppressed,34468,Suppressed
+Guadalupe ,48187,1-4 years,Suppressed,147059,Suppressed
+Guadalupe ,48187,5-14 years,Suppressed,412335,Suppressed
+Guadalupe ,48187,15-24 years,0,375404,Unreliable
+Guadalupe ,48187,25-34 years,Suppressed,338528,Suppressed
+Guadalupe ,48187,35-44 years,Suppressed,397551,Suppressed
+Guadalupe ,48187,45-54 years,15,383044,Unreliable
+Guadalupe ,48187,55-64 years,32,298704,10.7
+Guadalupe ,48187,65-74 years,67,200536,33.4
+Guadalupe ,48187,75-84 years,77,103497,74.4
+Guadalupe ,48187,85+ years,75,37080,202.3
+Guadalupe ,48187,Not Stated,0,Not Applicable,Not Applicable
+Hale ,48189,< 1 year,0,11571,Unreliable
+Hale ,48189,1-4 years,Suppressed,47648,Suppressed
+Hale ,48189,5-14 years,0,116944,Unreliable
+Hale ,48189,15-24 years,Suppressed,121112,Suppressed
+Hale ,48189,25-34 years,Suppressed,98471,Suppressed
+Hale ,48189,35-44 years,0,92962,Unreliable
+Hale ,48189,45-54 years,Suppressed,88084,Suppressed
+Hale ,48189,55-64 years,16,70592,Unreliable
+Hale ,48189,65-74 years,23,50137,45.9
+Hale ,48189,75-84 years,37,32122,115.2
+Hale ,48189,85+ years,23,12528,183.6
+Hale ,48189,Not Stated,0,Not Applicable,Not Applicable
+Hall ,48191,< 1 year,0,841,Unreliable
+Hall ,48191,1-4 years,0,3392,Unreliable
+Hall ,48191,5-14 years,0,10369,Unreliable
+Hall ,48191,15-24 years,0,8465,Unreliable
+Hall ,48191,25-34 years,0,6429,Unreliable
+Hall ,48191,35-44 years,0,7668,Unreliable
+Hall ,48191,45-54 years,0,8627,Unreliable
+Hall ,48191,55-64 years,0,9012,Unreliable
+Hall ,48191,65-74 years,Suppressed,8207,Suppressed
+Hall ,48191,75-84 years,Suppressed,5370,Suppressed
+Hall ,48191,85+ years,Suppressed,2288,Suppressed
+Hall ,48191,Not Stated,0,Not Applicable,Not Applicable
+Hamilton ,48193,< 1 year,0,1854,Unreliable
+Hamilton ,48193,1-4 years,0,7641,Unreliable
+Hamilton ,48193,5-14 years,0,21657,Unreliable
+Hamilton ,48193,15-24 years,Suppressed,19125,Suppressed
+Hamilton ,48193,25-34 years,0,16689,Unreliable
+Hamilton ,48193,35-44 years,0,19405,Unreliable
+Hamilton ,48193,45-54 years,Suppressed,22318,Suppressed
+Hamilton ,48193,55-64 years,Suppressed,23843,Suppressed
+Hamilton ,48193,65-74 years,Suppressed,21374,Suppressed
+Hamilton ,48193,75-84 years,Suppressed,13888,Suppressed
+Hamilton ,48193,85+ years,15,7399,Unreliable
+Hamilton ,48193,Not Stated,0,Not Applicable,Not Applicable
+Hansford ,48195,< 1 year,0,1607,Unreliable
+Hansford ,48195,1-4 years,0,6879,Unreliable
+Hansford ,48195,5-14 years,0,18891,Unreliable
+Hansford ,48195,15-24 years,0,15371,Unreliable
+Hansford ,48195,25-34 years,0,13006,Unreliable
+Hansford ,48195,35-44 years,0,14378,Unreliable
+Hansford ,48195,45-54 years,Suppressed,14737,Suppressed
+Hansford ,48195,55-64 years,Suppressed,12247,Suppressed
+Hansford ,48195,65-74 years,Suppressed,8727,Suppressed
+Hansford ,48195,75-84 years,Suppressed,5844,Suppressed
+Hansford ,48195,85+ years,Suppressed,2143,Suppressed
+Hansford ,48195,Not Stated,0,Not Applicable,Not Applicable
+Hardeman ,48197,< 1 year,Suppressed,1033,Suppressed
+Hardeman ,48197,1-4 years,0,4506,Unreliable
+Hardeman ,48197,5-14 years,0,11877,Unreliable
+Hardeman ,48197,15-24 years,0,10242,Unreliable
+Hardeman ,48197,25-34 years,0,9108,Unreliable
+Hardeman ,48197,35-44 years,Suppressed,10156,Suppressed
+Hardeman ,48197,45-54 years,Suppressed,11914,Suppressed
+Hardeman ,48197,55-64 years,Suppressed,11493,Suppressed
+Hardeman ,48197,65-74 years,Suppressed,9454,Suppressed
+Hardeman ,48197,75-84 years,Suppressed,5955,Suppressed
+Hardeman ,48197,85+ years,Suppressed,2492,Suppressed
+Hardeman ,48197,Not Stated,0,Not Applicable,Not Applicable
+Hardin ,48199,< 1 year,Suppressed,14605,Suppressed
+Hardin ,48199,1-4 years,0,60343,Unreliable
+Hardin ,48199,5-14 years,0,164041,Unreliable
+Hardin ,48199,15-24 years,Suppressed,144706,Suppressed
+Hardin ,48199,25-34 years,Suppressed,136812,Suppressed
+Hardin ,48199,35-44 years,Suppressed,149855,Suppressed
+Hardin ,48199,45-54 years,15,158170,Unreliable
+Hardin ,48199,55-64 years,30,136785,21.9
+Hardin ,48199,65-74 years,39,93399,41.8
+Hardin ,48199,75-84 years,35,50525,69.3
+Hardin ,48199,85+ years,34,17072,199.2
+Hardin ,48199,Not Stated,0,Not Applicable,Not Applicable
+Harris ,48201,< 1 year,128,1421529,9
+Harris ,48201,1-4 years,34,5506125,0.6
+Harris ,48201,5-14 years,25,13118811,0.2
+Harris ,48201,15-24 years,61,12368510,0.5
+Harris ,48201,25-34 years,156,13987292,1.1
+Harris ,48201,35-44 years,391,12704655,3.1
+Harris ,48201,45-54 years,1039,11248257,9.2
+Harris ,48201,55-64 years,1938,8267900,23.4
+Harris ,48201,65-74 years,2661,4529729,58.7
+Harris ,48201,75-84 years,3240,2234420,145
+Harris ,48201,85+ years,2825,800104,353.1
+Harris ,48201,Not Stated,0,Not Applicable,Not Applicable
+Harrison ,48203,< 1 year,Suppressed,17702,Suppressed
+Harrison ,48203,1-4 years,0,73445,Unreliable
+Harrison ,48203,5-14 years,0,196616,Unreliable
+Harrison ,48203,15-24 years,Suppressed,192942,Suppressed
+Harrison ,48203,25-34 years,Suppressed,159750,Suppressed
+Harrison ,48203,35-44 years,Suppressed,174860,Suppressed
+Harrison ,48203,45-54 years,13,187159,Unreliable
+Harrison ,48203,55-64 years,39,165585,23.6
+Harrison ,48203,65-74 years,65,112060,58
+Harrison ,48203,75-84 years,71,61218,116
+Harrison ,48203,85+ years,50,22360,223.6
+Harrison ,48203,Not Stated,0,Not Applicable,Not Applicable
+Hartley ,48205,< 1 year,0,1315,Unreliable
+Hartley ,48205,1-4 years,0,5543,Unreliable
+Hartley ,48205,5-14 years,0,14492,Unreliable
+Hartley ,48205,15-24 years,0,10846,Unreliable
+Hartley ,48205,25-34 years,0,18247,Unreliable
+Hartley ,48205,35-44 years,Suppressed,22393,Suppressed
+Hartley ,48205,45-54 years,Suppressed,19954,Suppressed
+Hartley ,48205,55-64 years,Suppressed,12887,Suppressed
+Hartley ,48205,65-74 years,0,8695,Unreliable
+Hartley ,48205,75-84 years,Suppressed,5412,Suppressed
+Hartley ,48205,85+ years,Suppressed,2484,Suppressed
+Hartley ,48205,Not Stated,0,Not Applicable,Not Applicable
+Haskell ,48207,< 1 year,0,1223,Unreliable
+Haskell ,48207,1-4 years,0,4980,Unreliable
+Haskell ,48207,5-14 years,0,14289,Unreliable
+Haskell ,48207,15-24 years,0,14667,Unreliable
+Haskell ,48207,25-34 years,0,13504,Unreliable
+Haskell ,48207,35-44 years,0,14707,Unreliable
+Haskell ,48207,45-54 years,Suppressed,15839,Suppressed
+Haskell ,48207,55-64 years,Suppressed,15747,Suppressed
+Haskell ,48207,65-74 years,Suppressed,13798,Suppressed
+Haskell ,48207,75-84 years,Suppressed,9790,Suppressed
+Haskell ,48207,85+ years,Suppressed,4278,Suppressed
+Haskell ,48207,Not Stated,0,Not Applicable,Not Applicable
+Hays ,48209,< 1 year,Suppressed,42716,Suppressed
+Hays ,48209,1-4 years,0,174712,Unreliable
+Hays ,48209,5-14 years,0,451703,Unreliable
+Hays ,48209,15-24 years,Suppressed,759301,Suppressed
+Hays ,48209,25-34 years,Suppressed,466362,Suppressed
+Hays ,48209,35-44 years,Suppressed,453466,Suppressed
+Hays ,48209,45-54 years,17,411112,Unreliable
+Hays ,48209,55-64 years,44,327333,13.4
+Hays ,48209,65-74 years,56,198672,28.2
+Hays ,48209,75-84 years,61,89583,68.1
+Hays ,48209,85+ years,53,32090,165.2
+Hays ,48209,Not Stated,0,Not Applicable,Not Applicable
+Hemphill ,48211,< 1 year,0,1197,Unreliable
+Hemphill ,48211,1-4 years,0,4813,Unreliable
+Hemphill ,48211,5-14 years,0,12713,Unreliable
+Hemphill ,48211,15-24 years,0,10256,Unreliable
+Hemphill ,48211,25-34 years,0,9251,Unreliable
+Hemphill ,48211,35-44 years,0,10505,Unreliable
+Hemphill ,48211,45-54 years,Suppressed,10406,Suppressed
+Hemphill ,48211,55-64 years,0,8759,Unreliable
+Hemphill ,48211,65-74 years,Suppressed,5974,Suppressed
+Hemphill ,48211,75-84 years,Suppressed,3323,Suppressed
+Hemphill ,48211,85+ years,Suppressed,1666,Suppressed
+Hemphill ,48211,Not Stated,0,Not Applicable,Not Applicable
+Henderson ,48213,< 1 year,Suppressed,19739,Suppressed
+Henderson ,48213,1-4 years,0,78338,Unreliable
+Henderson ,48213,5-14 years,Suppressed,211034,Suppressed
+Henderson ,48213,15-24 years,0,198905,Unreliable
+Henderson ,48213,25-34 years,Suppressed,175327,Suppressed
+Henderson ,48213,35-44 years,Suppressed,195432,Suppressed
+Henderson ,48213,45-54 years,25,220394,11.3
+Henderson ,48213,55-64 years,29,225830,12.8
+Henderson ,48213,65-74 years,47,187529,25.1
+Henderson ,48213,75-84 years,82,104902,78.2
+Henderson ,48213,85+ years,48,33079,145.1
+Henderson ,48213,Not Stated,0,Not Applicable,Not Applicable
+Hidalgo ,48215,< 1 year,25,320421,7.8
+Hidalgo ,48215,1-4 years,13,1237964,Unreliable
+Hidalgo ,48215,5-14 years,11,2977234,Unreliable
+Hidalgo ,48215,15-24 years,18,2592726,Unreliable
+Hidalgo ,48215,25-34 years,32,2207545,1.4
+Hidalgo ,48215,35-44 years,64,2033910,3.1
+Hidalgo ,48215,45-54 years,160,1655430,9.7
+Hidalgo ,48215,55-64 years,315,1210484,26
+Hidalgo ,48215,65-74 years,488,883313,55.2
+Hidalgo ,48215,75-84 years,750,526664,142.4
+Hidalgo ,48215,85+ years,654,179227,364.9
+Hidalgo ,48215,Not Stated,0,Not Applicable,Not Applicable
+Hill ,48217,< 1 year,Suppressed,9339,Suppressed
+Hill ,48217,1-4 years,0,37366,Unreliable
+Hill ,48217,5-14 years,Suppressed,99166,Suppressed
+Hill ,48217,15-24 years,0,93452,Unreliable
+Hill ,48217,25-34 years,0,79299,Unreliable
+Hill ,48217,35-44 years,0,85218,Unreliable
+Hill ,48217,45-54 years,Suppressed,95033,Suppressed
+Hill ,48217,55-64 years,18,93951,Unreliable
+Hill ,48217,65-74 years,17,75915,Unreliable
+Hill ,48217,75-84 years,27,44634,60.5
+Hill ,48217,85+ years,22,17052,129
+Hill ,48217,Not Stated,0,Not Applicable,Not Applicable
+Hockley ,48219,< 1 year,0,6792,Unreliable
+Hockley ,48219,1-4 years,0,28373,Unreliable
+Hockley ,48219,5-14 years,0,72008,Unreliable
+Hockley ,48219,15-24 years,0,83178,Unreliable
+Hockley ,48219,25-34 years,Suppressed,59304,Suppressed
+Hockley ,48219,35-44 years,Suppressed,57768,Suppressed
+Hockley ,48219,45-54 years,Suppressed,60673,Suppressed
+Hockley ,48219,55-64 years,16,51557,Unreliable
+Hockley ,48219,65-74 years,17,35935,Unreliable
+Hockley ,48219,75-84 years,20,20595,97.1
+Hockley ,48219,85+ years,15,7432,Unreliable
+Hockley ,48219,Not Stated,0,Not Applicable,Not Applicable
+Hood ,48221,< 1 year,0,12104,Unreliable
+Hood ,48221,1-4 years,0,48030,Unreliable
+Hood ,48221,5-14 years,0,130492,Unreliable
+Hood ,48221,15-24 years,0,114296,Unreliable
+Hood ,48221,25-34 years,Suppressed,108504,Suppressed
+Hood ,48221,35-44 years,Suppressed,124060,Suppressed
+Hood ,48221,45-54 years,13,146556,Unreliable
+Hood ,48221,55-64 years,14,159284,Unreliable
+Hood ,48221,65-74 years,33,136258,24.2
+Hood ,48221,75-84 years,43,73777,58.3
+Hood ,48221,85+ years,41,25594,160.2
+Hood ,48221,Not Stated,0,Not Applicable,Not Applicable
+Hopkins ,48223,< 1 year,0,9896,Unreliable
+Hopkins ,48223,1-4 years,0,39230,Unreliable
+Hopkins ,48223,5-14 years,0,103548,Unreliable
+Hopkins ,48223,15-24 years,Suppressed,94432,Suppressed
+Hopkins ,48223,25-34 years,Suppressed,86643,Suppressed
+Hopkins ,48223,35-44 years,Suppressed,91387,Suppressed
+Hopkins ,48223,45-54 years,Suppressed,97476,Suppressed
+Hopkins ,48223,55-64 years,16,88686,Unreliable
+Hopkins ,48223,65-74 years,28,65817,42.5
+Hopkins ,48223,75-84 years,31,39070,79.3
+Hopkins ,48223,85+ years,37,14467,255.8
+Hopkins ,48223,Not Stated,0,Not Applicable,Not Applicable
+Houston ,48225,< 1 year,Suppressed,5298,Suppressed
+Houston ,48225,1-4 years,0,20883,Unreliable
+Houston ,48225,5-14 years,0,55626,Unreliable
+Houston ,48225,15-24 years,0,54202,Unreliable
+Houston ,48225,25-34 years,Suppressed,55215,Suppressed
+Houston ,48225,35-44 years,Suppressed,66407,Suppressed
+Houston ,48225,45-54 years,Suppressed,71507,Suppressed
+Houston ,48225,55-64 years,11,62618,Unreliable
+Houston ,48225,65-74 years,27,51128,52.8
+Houston ,48225,75-84 years,31,31931,97.1
+Houston ,48225,85+ years,54,13211,408.8
+Houston ,48225,Not Stated,0,Not Applicable,Not Applicable
+Howard ,48227,< 1 year,0,9300,Unreliable
+Howard ,48227,1-4 years,0,36834,Unreliable
+Howard ,48227,5-14 years,Suppressed,90214,Suppressed
+Howard ,48227,15-24 years,0,103487,Unreliable
+Howard ,48227,25-34 years,Suppressed,106332,Suppressed
+Howard ,48227,35-44 years,Suppressed,96573,Suppressed
+Howard ,48227,45-54 years,13,115515,Unreliable
+Howard ,48227,55-64 years,23,78589,29.3
+Howard ,48227,65-74 years,37,53410,69.3
+Howard ,48227,75-84 years,68,32538,209
+Howard ,48227,85+ years,59,12046,489.8
+Howard ,48227,Not Stated,0,Not Applicable,Not Applicable
+Hudspeth ,48229,< 1 year,0,957,Unreliable
+Hudspeth ,48229,1-4 years,0,4548,Unreliable
+Hudspeth ,48229,5-14 years,0,11993,Unreliable
+Hudspeth ,48229,15-24 years,0,10903,Unreliable
+Hudspeth ,48229,25-34 years,0,10343,Unreliable
+Hudspeth ,48229,35-44 years,0,9822,Unreliable
+Hudspeth ,48229,45-54 years,Suppressed,9410,Suppressed
+Hudspeth ,48229,55-64 years,Suppressed,8430,Suppressed
+Hudspeth ,48229,65-74 years,Suppressed,6565,Suppressed
+Hudspeth ,48229,75-84 years,Suppressed,3273,Suppressed
+Hudspeth ,48229,85+ years,Suppressed,919,Suppressed
+Hudspeth ,48229,Not Stated,0,Not Applicable,Not Applicable
+Hunt ,48231,< 1 year,Suppressed,23633,Suppressed
+Hunt ,48231,1-4 years,0,95751,Unreliable
+Hunt ,48231,5-14 years,0,254780,Unreliable
+Hunt ,48231,15-24 years,Suppressed,262113,Suppressed
+Hunt ,48231,25-34 years,Suppressed,222787,Suppressed
+Hunt ,48231,35-44 years,10,235286,Unreliable
+Hunt ,48231,45-54 years,19,251598,Unreliable
+Hunt ,48231,55-64 years,43,218966,19.6
+Hunt ,48231,65-74 years,60,150466,39.9
+Hunt ,48231,75-84 years,91,81179,112.1
+Hunt ,48231,85+ years,60,28366,211.5
+Hunt ,48231,Not Stated,0,Not Applicable,Not Applicable
+Hutchinson ,48233,< 1 year,0,6333,Unreliable
+Hutchinson ,48233,1-4 years,0,25773,Unreliable
+Hutchinson ,48233,5-14 years,Suppressed,67067,Suppressed
+Hutchinson ,48233,15-24 years,Suppressed,61323,Suppressed
+Hutchinson ,48233,25-34 years,0,54663,Unreliable
+Hutchinson ,48233,35-44 years,Suppressed,58273,Suppressed
+Hutchinson ,48233,45-54 years,Suppressed,62792,Suppressed
+Hutchinson ,48233,55-64 years,10,55050,Unreliable
+Hutchinson ,48233,65-74 years,14,38260,Unreliable
+Hutchinson ,48233,75-84 years,31,25420,122
+Hutchinson ,48233,85+ years,15,8304,Unreliable
+Hutchinson ,48233,Not Stated,0,Not Applicable,Not Applicable
+Irion ,48235,< 1 year,0,320,Unreliable
+Irion ,48235,1-4 years,0,1497,Unreliable
+Irion ,48235,5-14 years,0,4456,Unreliable
+Irion ,48235,15-24 years,0,4068,Unreliable
+Irion ,48235,25-34 years,0,3426,Unreliable
+Irion ,48235,35-44 years,0,4255,Unreliable
+Irion ,48235,45-54 years,Suppressed,5073,Suppressed
+Irion ,48235,55-64 years,0,4667,Unreliable
+Irion ,48235,65-74 years,Suppressed,3375,Suppressed
+Irion ,48235,75-84 years,Suppressed,1953,Suppressed
+Irion ,48235,85+ years,Suppressed,608,Suppressed
+Irion ,48235,Not Stated,0,Not Applicable,Not Applicable
+Jack ,48237,< 1 year,0,2004,Unreliable
+Jack ,48237,1-4 years,0,8715,Unreliable
+Jack ,48237,5-14 years,0,23614,Unreliable
+Jack ,48237,15-24 years,0,26153,Unreliable
+Jack ,48237,25-34 years,0,24869,Unreliable
+Jack ,48237,35-44 years,0,25730,Unreliable
+Jack ,48237,45-54 years,Suppressed,26301,Suppressed
+Jack ,48237,55-64 years,Suppressed,21420,Suppressed
+Jack ,48237,65-74 years,Suppressed,16777,Suppressed
+Jack ,48237,75-84 years,Suppressed,9408,Suppressed
+Jack ,48237,85+ years,Suppressed,2977,Suppressed
+Jack ,48237,Not Stated,0,Not Applicable,Not Applicable
+Jackson ,48239,< 1 year,0,4324,Unreliable
+Jackson ,48239,1-4 years,0,17080,Unreliable
+Jackson ,48239,5-14 years,0,42490,Unreliable
+Jackson ,48239,15-24 years,0,39067,Unreliable
+Jackson ,48239,25-34 years,0,34930,Unreliable
+Jackson ,48239,35-44 years,Suppressed,36811,Suppressed
+Jackson ,48239,45-54 years,Suppressed,40155,Suppressed
+Jackson ,48239,55-64 years,Suppressed,35978,Suppressed
+Jackson ,48239,65-74 years,17,26965,Unreliable
+Jackson ,48239,75-84 years,24,16997,141.2
+Jackson ,48239,85+ years,26,6626,392.4
+Jackson ,48239,Not Stated,0,Not Applicable,Not Applicable
+Jasper ,48241,< 1 year,Suppressed,9879,Suppressed
+Jasper ,48241,1-4 years,0,39392,Unreliable
+Jasper ,48241,5-14 years,0,103877,Unreliable
+Jasper ,48241,15-24 years,Suppressed,91322,Suppressed
+Jasper ,48241,25-34 years,Suppressed,84888,Suppressed
+Jasper ,48241,35-44 years,Suppressed,91358,Suppressed
+Jasper ,48241,45-54 years,Suppressed,101231,Suppressed
+Jasper ,48241,55-64 years,23,96078,23.9
+Jasper ,48241,65-74 years,27,73679,36.6
+Jasper ,48241,75-84 years,28,41936,66.8
+Jasper ,48241,85+ years,24,13061,183.8
+Jasper ,48241,Not Stated,0,Not Applicable,Not Applicable
+Jeff Davis ,48243,< 1 year,0,277,Unreliable
+Jeff Davis ,48243,1-4 years,0,1229,Unreliable
+Jeff Davis ,48243,5-14 years,0,4092,Unreliable
+Jeff Davis ,48243,15-24 years,0,5029,Unreliable
+Jeff Davis ,48243,25-34 years,0,3648,Unreliable
+Jeff Davis ,48243,35-44 years,0,4963,Unreliable
+Jeff Davis ,48243,45-54 years,Suppressed,7293,Suppressed
+Jeff Davis ,48243,55-64 years,0,8919,Unreliable
+Jeff Davis ,48243,65-74 years,0,7193,Unreliable
+Jeff Davis ,48243,75-84 years,Suppressed,3424,Suppressed
+Jeff Davis ,48243,85+ years,Suppressed,1260,Suppressed
+Jeff Davis ,48243,Not Stated,0,Not Applicable,Not Applicable
+Jefferson ,48245,< 1 year,Suppressed,72640,Suppressed
+Jefferson ,48245,1-4 years,Suppressed,285402,Suppressed
+Jefferson ,48245,5-14 years,Suppressed,707516,Suppressed
+Jefferson ,48245,15-24 years,Suppressed,762618,Suppressed
+Jefferson ,48245,25-34 years,12,738800,Unreliable
+Jefferson ,48245,35-44 years,29,705652,4.1
+Jefferson ,48245,45-54 years,81,721028,11.2
+Jefferson ,48245,55-64 years,106,579480,18.3
+Jefferson ,48245,65-74 years,171,374055,45.7
+Jefferson ,48245,75-84 years,232,241572,96
+Jefferson ,48245,85+ years,195,93054,209.6
+Jefferson ,48245,Not Stated,0,Not Applicable,Not Applicable
+Jim Hogg ,48247,< 1 year,0,1657,Unreliable
+Jim Hogg ,48247,1-4 years,0,7276,Unreliable
+Jim Hogg ,48247,5-14 years,0,18129,Unreliable
+Jim Hogg ,48247,15-24 years,0,14959,Unreliable
+Jim Hogg ,48247,25-34 years,0,12665,Unreliable
+Jim Hogg ,48247,35-44 years,0,13075,Unreliable
+Jim Hogg ,48247,45-54 years,Suppressed,12493,Suppressed
+Jim Hogg ,48247,55-64 years,0,11906,Unreliable
+Jim Hogg ,48247,65-74 years,Suppressed,9881,Suppressed
+Jim Hogg ,48247,75-84 years,12,5650,Unreliable
+Jim Hogg ,48247,85+ years,14,1762,Unreliable
+Jim Hogg ,48247,Not Stated,0,Not Applicable,Not Applicable
+Jim Wells ,48249,< 1 year,0,13540,Unreliable
+Jim Wells ,48249,1-4 years,Suppressed,54644,Suppressed
+Jim Wells ,48249,5-14 years,0,137286,Unreliable
+Jim Wells ,48249,15-24 years,0,124760,Unreliable
+Jim Wells ,48249,25-34 years,0,106005,Unreliable
+Jim Wells ,48249,35-44 years,Suppressed,105681,Suppressed
+Jim Wells ,48249,45-54 years,12,105661,Unreliable
+Jim Wells ,48249,55-64 years,23,91234,25.2
+Jim Wells ,48249,65-74 years,40,64485,62
+Jim Wells ,48249,75-84 years,34,37618,90.4
+Jim Wells ,48249,85+ years,34,13056,260.4
+Jim Wells ,48249,Not Stated,0,Not Applicable,Not Applicable
+Johnson ,48251,< 1 year,0,43234,Unreliable
+Johnson ,48251,1-4 years,Suppressed,178701,Suppressed
+Johnson ,48251,5-14 years,0,489064,Unreliable
+Johnson ,48251,15-24 years,Suppressed,429235,Suppressed
+Johnson ,48251,25-34 years,Suppressed,407169,Suppressed
+Johnson ,48251,35-44 years,12,447559,Unreliable
+Johnson ,48251,45-54 years,26,445512,5.8
+Johnson ,48251,55-64 years,63,357971,17.6
+Johnson ,48251,65-74 years,104,230086,45.2
+Johnson ,48251,75-84 years,114,115728,98.5
+Johnson ,48251,85+ years,82,35967,228
+Johnson ,48251,Not Stated,0,Not Applicable,Not Applicable
+Jones ,48253,< 1 year,0,3890,Unreliable
+Jones ,48253,1-4 years,0,15933,Unreliable
+Jones ,48253,5-14 years,0,44540,Unreliable
+Jones ,48253,15-24 years,0,59587,Unreliable
+Jones ,48253,25-34 years,0,67372,Unreliable
+Jones ,48253,35-44 years,Suppressed,65733,Suppressed
+Jones ,48253,45-54 years,Suppressed,59446,Suppressed
+Jones ,48253,55-64 years,Suppressed,46358,Suppressed
+Jones ,48253,65-74 years,12,32817,Unreliable
+Jones ,48253,75-84 years,12,19507,Unreliable
+Jones ,48253,85+ years,Suppressed,7495,Suppressed
+Jones ,48253,Not Stated,0,Not Applicable,Not Applicable
+Karnes ,48255,< 1 year,0,3530,Unreliable
+Karnes ,48255,1-4 years,0,14510,Unreliable
+Karnes ,48255,5-14 years,0,36450,Unreliable
+Karnes ,48255,15-24 years,0,46171,Unreliable
+Karnes ,48255,25-34 years,0,55205,Unreliable
+Karnes ,48255,35-44 years,Suppressed,45079,Suppressed
+Karnes ,48255,45-54 years,Suppressed,39846,Suppressed
+Karnes ,48255,55-64 years,Suppressed,31838,Suppressed
+Karnes ,48255,65-74 years,15,22789,Unreliable
+Karnes ,48255,75-84 years,13,16145,Unreliable
+Karnes ,48255,85+ years,14,6372,Unreliable
+Karnes ,48255,Not Stated,0,Not Applicable,Not Applicable
+Kaufman ,48257,< 1 year,Suppressed,30346,Suppressed
+Kaufman ,48257,1-4 years,0,128340,Unreliable
+Kaufman ,48257,5-14 years,Suppressed,348893,Suppressed
+Kaufman ,48257,15-24 years,0,281889,Unreliable
+Kaufman ,48257,25-34 years,Suppressed,281887,Suppressed
+Kaufman ,48257,35-44 years,10,318180,Unreliable
+Kaufman ,48257,45-54 years,22,299702,7.3
+Kaufman ,48257,55-64 years,37,235550,15.7
+Kaufman ,48257,65-74 years,41,144571,28.4
+Kaufman ,48257,75-84 years,43,70946,60.6
+Kaufman ,48257,85+ years,47,24120,194.9
+Kaufman ,48257,Not Stated,0,Not Applicable,Not Applicable
+Kendall ,48259,< 1 year,0,7324,Unreliable
+Kendall ,48259,1-4 years,Suppressed,31044,Suppressed
+Kendall ,48259,5-14 years,Suppressed,103337,Suppressed
+Kendall ,48259,15-24 years,0,88114,Unreliable
+Kendall ,48259,25-34 years,Suppressed,66284,Suppressed
+Kendall ,48259,35-44 years,Suppressed,93703,Suppressed
+Kendall ,48259,45-54 years,Suppressed,109830,Suppressed
+Kendall ,48259,55-64 years,Suppressed,102390,Suppressed
+Kendall ,48259,65-74 years,11,71179,Unreliable
+Kendall ,48259,75-84 years,16,37139,Unreliable
+Kendall ,48259,85+ years,23,16409,140.2
+Kendall ,48259,Not Stated,0,Not Applicable,Not Applicable
+Kenedy ,48261,< 1 year,0,136,Unreliable
+Kenedy ,48261,1-4 years,0,446,Unreliable
+Kenedy ,48261,5-14 years,0,1270,Unreliable
+Kenedy ,48261,15-24 years,0,1257,Unreliable
+Kenedy ,48261,25-34 years,0,1060,Unreliable
+Kenedy ,48261,35-44 years,0,1000,Unreliable
+Kenedy ,48261,45-54 years,0,1241,Unreliable
+Kenedy ,48261,55-64 years,0,1142,Unreliable
+Kenedy ,48261,65-74 years,0,660,Unreliable
+Kenedy ,48261,75-84 years,0,401,Unreliable
+Kenedy ,48261,85+ years,0,179,Unreliable
+Kenedy ,48261,Not Stated,0,Not Applicable,Not Applicable
+Kent ,48263,< 1 year,0,140,Unreliable
+Kent ,48263,1-4 years,0,577,Unreliable
+Kent ,48263,5-14 years,0,2130,Unreliable
+Kent ,48263,15-24 years,0,1569,Unreliable
+Kent ,48263,25-34 years,0,1281,Unreliable
+Kent ,48263,35-44 years,0,1931,Unreliable
+Kent ,48263,45-54 years,Suppressed,2192,Suppressed
+Kent ,48263,55-64 years,0,2415,Unreliable
+Kent ,48263,65-74 years,0,2030,Unreliable
+Kent ,48263,75-84 years,Suppressed,1663,Suppressed
+Kent ,48263,85+ years,Suppressed,696,Suppressed
+Kent ,48263,Not Stated,0,Not Applicable,Not Applicable
+Kerr ,48265,< 1 year,Suppressed,10911,Suppressed
+Kerr ,48265,1-4 years,0,43137,Unreliable
+Kerr ,48265,5-14 years,Suppressed,115833,Suppressed
+Kerr ,48265,15-24 years,0,121115,Unreliable
+Kerr ,48265,25-34 years,0,95976,Unreliable
+Kerr ,48265,35-44 years,Suppressed,105802,Suppressed
+Kerr ,48265,45-54 years,13,129044,Unreliable
+Kerr ,48265,55-64 years,16,140940,Unreliable
+Kerr ,48265,65-74 years,37,135348,27.3
+Kerr ,48265,75-84 years,56,92891,60.3
+Kerr ,48265,85+ years,54,36255,148.9
+Kerr ,48265,Not Stated,0,Not Applicable,Not Applicable
+Kimble ,48267,< 1 year,0,922,Unreliable
+Kimble ,48267,1-4 years,0,4022,Unreliable
+Kimble ,48267,5-14 years,0,10693,Unreliable
+Kimble ,48267,15-24 years,0,9698,Unreliable
+Kimble ,48267,25-34 years,0,8633,Unreliable
+Kimble ,48267,35-44 years,Suppressed,9995,Suppressed
+Kimble ,48267,45-54 years,Suppressed,12746,Suppressed
+Kimble ,48267,55-64 years,Suppressed,14925,Suppressed
+Kimble ,48267,65-74 years,Suppressed,12659,Suppressed
+Kimble ,48267,75-84 years,Suppressed,7588,Suppressed
+Kimble ,48267,85+ years,0,2556,Unreliable
+Kimble ,48267,Not Stated,0,Not Applicable,Not Applicable
+King ,48269,< 1 year,0,43,Unreliable
+King ,48269,1-4 years,0,305,Unreliable
+King ,48269,5-14 years,0,1033,Unreliable
+King ,48269,15-24 years,0,620,Unreliable
+King ,48269,25-34 years,0,593,Unreliable
+King ,48269,35-44 years,0,897,Unreliable
+King ,48269,45-54 years,0,975,Unreliable
+King ,48269,55-64 years,0,739,Unreliable
+King ,48269,65-74 years,0,495,Unreliable
+King ,48269,75-84 years,0,318,Unreliable
+King ,48269,85+ years,0,58,Unreliable
+King ,48269,Not Stated,0,Not Applicable,Not Applicable
+Kinney ,48271,< 1 year,0,824,Unreliable
+Kinney ,48271,1-4 years,0,3062,Unreliable
+Kinney ,48271,5-14 years,0,8789,Unreliable
+Kinney ,48271,15-24 years,0,9147,Unreliable
+Kinney ,48271,25-34 years,0,7926,Unreliable
+Kinney ,48271,35-44 years,0,8632,Unreliable
+Kinney ,48271,45-54 years,0,8775,Unreliable
+Kinney ,48271,55-64 years,Suppressed,9114,Suppressed
+Kinney ,48271,65-74 years,Suppressed,9652,Suppressed
+Kinney ,48271,75-84 years,Suppressed,6948,Suppressed
+Kinney ,48271,85+ years,Suppressed,1670,Suppressed
+Kinney ,48271,Not Stated,0,Not Applicable,Not Applicable
+Kleberg ,48273,< 1 year,0,10041,Unreliable
+Kleberg ,48273,1-4 years,0,38500,Unreliable
+Kleberg ,48273,5-14 years,Suppressed,88972,Suppressed
+Kleberg ,48273,15-24 years,0,156034,Unreliable
+Kleberg ,48273,25-34 years,Suppressed,90064,Suppressed
+Kleberg ,48273,35-44 years,0,71467,Unreliable
+Kleberg ,48273,45-54 years,Suppressed,69081,Suppressed
+Kleberg ,48273,55-64 years,16,58998,Unreliable
+Kleberg ,48273,65-74 years,22,44269,49.7
+Kleberg ,48273,75-84 years,34,24790,137.2
+Kleberg ,48273,85+ years,25,9309,268.6
+Kleberg ,48273,Not Stated,0,Not Applicable,Not Applicable
+Knox ,48275,< 1 year,0,1077,Unreliable
+Knox ,48275,1-4 years,0,4538,Unreliable
+Knox ,48275,5-14 years,0,11654,Unreliable
+Knox ,48275,15-24 years,Suppressed,9155,Suppressed
+Knox ,48275,25-34 years,0,8399,Unreliable
+Knox ,48275,35-44 years,0,9140,Unreliable
+Knox ,48275,45-54 years,0,9696,Unreliable
+Knox ,48275,55-64 years,Suppressed,9326,Suppressed
+Knox ,48275,65-74 years,Suppressed,8261,Suppressed
+Knox ,48275,75-84 years,Suppressed,6324,Suppressed
+Knox ,48275,85+ years,13,2650,Unreliable
+Knox ,48275,Not Stated,0,Not Applicable,Not Applicable
+Lamar ,48277,< 1 year,0,13826,Unreliable
+Lamar ,48277,1-4 years,Suppressed,54998,Suppressed
+Lamar ,48277,5-14 years,0,141727,Unreliable
+Lamar ,48277,15-24 years,0,135011,Unreliable
+Lamar ,48277,25-34 years,Suppressed,121386,Suppressed
+Lamar ,48277,35-44 years,Suppressed,129809,Suppressed
+Lamar ,48277,45-54 years,Suppressed,136905,Suppressed
+Lamar ,48277,55-64 years,24,126200,19
+Lamar ,48277,65-74 years,46,97799,47
+Lamar ,48277,75-84 years,69,57464,120.1
+Lamar ,48277,85+ years,75,23235,322.8
+Lamar ,48277,Not Stated,0,Not Applicable,Not Applicable
+Lamb ,48279,< 1 year,0,4665,Unreliable
+Lamb ,48279,1-4 years,0,18529,Unreliable
+Lamb ,48279,5-14 years,0,45820,Unreliable
+Lamb ,48279,15-24 years,0,40467,Unreliable
+Lamb ,48279,25-34 years,0,32280,Unreliable
+Lamb ,48279,35-44 years,Suppressed,34481,Suppressed
+Lamb ,48279,45-54 years,Suppressed,36143,Suppressed
+Lamb ,48279,55-64 years,Suppressed,31472,Suppressed
+Lamb ,48279,65-74 years,10,24734,Unreliable
+Lamb ,48279,75-84 years,15,17060,Unreliable
+Lamb ,48279,85+ years,10,6691,Unreliable
+Lamb ,48279,Not Stated,0,Not Applicable,Not Applicable
+Lampasas ,48281,< 1 year,0,5052,Unreliable
+Lampasas ,48281,1-4 years,0,20225,Unreliable
+Lampasas ,48281,5-14 years,0,57368,Unreliable
+Lampasas ,48281,15-24 years,0,52261,Unreliable
+Lampasas ,48281,25-34 years,0,44357,Unreliable
+Lampasas ,48281,35-44 years,Suppressed,54869,Suppressed
+Lampasas ,48281,45-54 years,Suppressed,59466,Suppressed
+Lampasas ,48281,55-64 years,10,54082,Unreliable
+Lampasas ,48281,65-74 years,13,39464,Unreliable
+Lampasas ,48281,75-84 years,19,21259,Unreliable
+Lampasas ,48281,85+ years,15,8498,Unreliable
+Lampasas ,48281,Not Stated,0,Not Applicable,Not Applicable
+La Salle ,48283,< 1 year,0,1959,Unreliable
+La Salle ,48283,1-4 years,0,7577,Unreliable
+La Salle ,48283,5-14 years,0,17420,Unreliable
+La Salle ,48283,15-24 years,0,29617,Unreliable
+La Salle ,48283,25-34 years,0,23531,Unreliable
+La Salle ,48283,35-44 years,0,17447,Unreliable
+La Salle ,48283,45-54 years,0,15822,Unreliable
+La Salle ,48283,55-64 years,Suppressed,13247,Suppressed
+La Salle ,48283,65-74 years,Suppressed,10366,Suppressed
+La Salle ,48283,75-84 years,Suppressed,6044,Suppressed
+La Salle ,48283,85+ years,Suppressed,1767,Suppressed
+La Salle ,48283,Not Stated,0,Not Applicable,Not Applicable
+Lavaca ,48285,< 1 year,0,4876,Unreliable
+Lavaca ,48285,1-4 years,0,20020,Unreliable
+Lavaca ,48285,5-14 years,0,53866,Unreliable
+Lavaca ,48285,15-24 years,0,46354,Unreliable
+Lavaca ,48285,25-34 years,Suppressed,38808,Suppressed
+Lavaca ,48285,35-44 years,Suppressed,46665,Suppressed
+Lavaca ,48285,45-54 years,Suppressed,54358,Suppressed
+Lavaca ,48285,55-64 years,12,54527,Unreliable
+Lavaca ,48285,65-74 years,16,44395,Unreliable
+Lavaca ,48285,75-84 years,23,30404,75.6
+Lavaca ,48285,85+ years,48,14860,323
+Lavaca ,48285,Not Stated,0,Not Applicable,Not Applicable
+Lee ,48287,< 1 year,0,4368,Unreliable
+Lee ,48287,1-4 years,0,17431,Unreliable
+Lee ,48287,5-14 years,0,46754,Unreliable
+Lee ,48287,15-24 years,0,48075,Unreliable
+Lee ,48287,25-34 years,0,38153,Unreliable
+Lee ,48287,35-44 years,0,43816,Unreliable
+Lee ,48287,45-54 years,Suppressed,48979,Suppressed
+Lee ,48287,55-64 years,Suppressed,43848,Suppressed
+Lee ,48287,65-74 years,Suppressed,31527,Suppressed
+Lee ,48287,75-84 years,11,18744,Unreliable
+Lee ,48287,85+ years,10,6934,Unreliable
+Lee ,48287,Not Stated,0,Not Applicable,Not Applicable
+Leon ,48289,< 1 year,Suppressed,4285,Suppressed
+Leon ,48289,1-4 years,0,16995,Unreliable
+Leon ,48289,5-14 years,0,43006,Unreliable
+Leon ,48289,15-24 years,0,38637,Unreliable
+Leon ,48289,25-34 years,0,33544,Unreliable
+Leon ,48289,35-44 years,Suppressed,38687,Suppressed
+Leon ,48289,45-54 years,Suppressed,46861,Suppressed
+Leon ,48289,55-64 years,Suppressed,49532,Suppressed
+Leon ,48289,65-74 years,11,44754,Unreliable
+Leon ,48289,75-84 years,24,24569,97.7
+Leon ,48289,85+ years,19,7707,Unreliable
+Leon ,48289,Not Stated,0,Not Applicable,Not Applicable
+Liberty ,48291,< 1 year,Suppressed,22761,Suppressed
+Liberty ,48291,1-4 years,Suppressed,92265,Suppressed
+Liberty ,48291,5-14 years,0,239550,Unreliable
+Liberty ,48291,15-24 years,0,225262,Unreliable
+Liberty ,48291,25-34 years,Suppressed,224939,Suppressed
+Liberty ,48291,35-44 years,Suppressed,228205,Suppressed
+Liberty ,48291,45-54 years,23,227530,10.1
+Liberty ,48291,55-64 years,57,181911,31.3
+Liberty ,48291,65-74 years,86,113590,75.7
+Liberty ,48291,75-84 years,107,57030,187.6
+Liberty ,48291,85+ years,64,17681,362
+Liberty ,48291,Not Stated,0,Not Applicable,Not Applicable
+Limestone ,48293,< 1 year,0,6369,Unreliable
+Limestone ,48293,1-4 years,0,24703,Unreliable
+Limestone ,48293,5-14 years,0,62943,Unreliable
+Limestone ,48293,15-24 years,0,64052,Unreliable
+Limestone ,48293,25-34 years,Suppressed,60883,Suppressed
+Limestone ,48293,35-44 years,Suppressed,60002,Suppressed
+Limestone ,48293,45-54 years,12,63261,Unreliable
+Limestone ,48293,55-64 years,13,60412,Unreliable
+Limestone ,48293,65-74 years,25,46444,53.8
+Limestone ,48293,75-84 years,28,26610,105.2
+Limestone ,48293,85+ years,32,10084,317.3
+Limestone ,48293,Not Stated,0,Not Applicable,Not Applicable
+Lipscomb ,48295,< 1 year,0,907,Unreliable
+Lipscomb ,48295,1-4 years,0,3637,Unreliable
+Lipscomb ,48295,5-14 years,0,10595,Unreliable
+Lipscomb ,48295,15-24 years,Suppressed,8655,Suppressed
+Lipscomb ,48295,25-34 years,0,7905,Unreliable
+Lipscomb ,48295,35-44 years,0,8388,Unreliable
+Lipscomb ,48295,45-54 years,Suppressed,8927,Suppressed
+Lipscomb ,48295,55-64 years,Suppressed,8250,Suppressed
+Lipscomb ,48295,65-74 years,Suppressed,5606,Suppressed
+Lipscomb ,48295,75-84 years,Suppressed,3777,Suppressed
+Lipscomb ,48295,85+ years,Suppressed,1655,Suppressed
+Lipscomb ,48295,Not Stated,0,Not Applicable,Not Applicable
+Live Oak ,48297,< 1 year,0,2436,Unreliable
+Live Oak ,48297,1-4 years,0,10172,Unreliable
+Live Oak ,48297,5-14 years,0,28787,Unreliable
+Live Oak ,48297,15-24 years,0,30691,Unreliable
+Live Oak ,48297,25-34 years,Suppressed,31804,Suppressed
+Live Oak ,48297,35-44 years,Suppressed,31749,Suppressed
+Live Oak ,48297,45-54 years,Suppressed,34415,Suppressed
+Live Oak ,48297,55-64 years,Suppressed,32053,Suppressed
+Live Oak ,48297,65-74 years,11,26247,Unreliable
+Live Oak ,48297,75-84 years,Suppressed,15539,Suppressed
+Live Oak ,48297,85+ years,Suppressed,5262,Suppressed
+Live Oak ,48297,Not Stated,0,Not Applicable,Not Applicable
+Llano ,48299,< 1 year,0,3393,Unreliable
+Llano ,48299,1-4 years,0,13662,Unreliable
+Llano ,48299,5-14 years,0,35415,Unreliable
+Llano ,48299,15-24 years,0,31406,Unreliable
+Llano ,48299,25-34 years,0,29625,Unreliable
+Llano ,48299,35-44 years,0,36271,Unreliable
+Llano ,48299,45-54 years,Suppressed,51497,Suppressed
+Llano ,48299,55-64 years,Suppressed,72199,Suppressed
+Llano ,48299,65-74 years,Suppressed,73385,Suppressed
+Llano ,48299,75-84 years,22,44221,49.8
+Llano ,48299,85+ years,28,15073,185.8
+Llano ,48299,Not Stated,0,Not Applicable,Not Applicable
+Loving ,48301,< 1 year,0,21,Unreliable
+Loving ,48301,1-4 years,0,93,Unreliable
+Loving ,48301,5-14 years,0,277,Unreliable
+Loving ,48301,15-24 years,0,229,Unreliable
+Loving ,48301,25-34 years,0,234,Unreliable
+Loving ,48301,35-44 years,0,225,Unreliable
+Loving ,48301,45-54 years,0,289,Unreliable
+Loving ,48301,55-64 years,0,367,Unreliable
+Loving ,48301,65-74 years,0,193,Unreliable
+Loving ,48301,75-84 years,0,58,Unreliable
+Loving ,48301,85+ years,0,0,Unreliable
+Loving ,48301,Not Stated,0,Not Applicable,Not Applicable
+Lubbock ,48303,< 1 year,Suppressed,83213,Suppressed
+Lubbock ,48303,1-4 years,Suppressed,324338,Suppressed
+Lubbock ,48303,5-14 years,Suppressed,779496,Suppressed
+Lubbock ,48303,15-24 years,Suppressed,1249015,Suppressed
+Lubbock ,48303,25-34 years,11,824001,Unreliable
+Lubbock ,48303,35-44 years,28,689855,4.1
+Lubbock ,48303,45-54 years,81,671857,12.1
+Lubbock ,48303,55-64 years,173,552850,31.3
+Lubbock ,48303,65-74 years,196,368338,53.2
+Lubbock ,48303,75-84 years,316,219323,144.1
+Lubbock ,48303,85+ years,205,84993,241.2
+Lubbock ,48303,Not Stated,0,Not Applicable,Not Applicable
+Lynn ,48305,< 1 year,0,1649,Unreliable
+Lynn ,48305,1-4 years,0,7228,Unreliable
+Lynn ,48305,5-14 years,0,19852,Unreliable
+Lynn ,48305,15-24 years,0,16577,Unreliable
+Lynn ,48305,25-34 years,Suppressed,13823,Suppressed
+Lynn ,48305,35-44 years,0,15936,Unreliable
+Lynn ,48305,45-54 years,Suppressed,16852,Suppressed
+Lynn ,48305,55-64 years,Suppressed,14484,Suppressed
+Lynn ,48305,65-74 years,Suppressed,10718,Suppressed
+Lynn ,48305,75-84 years,10,6989,Unreliable
+Lynn ,48305,85+ years,Suppressed,2156,Suppressed
+Lynn ,48305,Not Stated,0,Not Applicable,Not Applicable
+McCulloch ,48307,< 1 year,0,2068,Unreliable
+McCulloch ,48307,1-4 years,0,8455,Unreliable
+McCulloch ,48307,5-14 years,0,22886,Unreliable
+McCulloch ,48307,15-24 years,0,19854,Unreliable
+McCulloch ,48307,25-34 years,0,17096,Unreliable
+McCulloch ,48307,35-44 years,0,19261,Unreliable
+McCulloch ,48307,45-54 years,Suppressed,22478,Suppressed
+McCulloch ,48307,55-64 years,Suppressed,23397,Suppressed
+McCulloch ,48307,65-74 years,Suppressed,18964,Suppressed
+McCulloch ,48307,75-84 years,14,11821,Unreliable
+McCulloch ,48307,85+ years,Suppressed,4735,Suppressed
+McCulloch ,48307,Not Stated,0,Not Applicable,Not Applicable
+McLennan ,48309,< 1 year,Suppressed,70144,Suppressed
+McLennan ,48309,1-4 years,Suppressed,278464,Suppressed
+McLennan ,48309,5-14 years,Suppressed,682523,Suppressed
+McLennan ,48309,15-24 years,Suppressed,951149,Suppressed
+McLennan ,48309,25-34 years,15,619843,Unreliable
+McLennan ,48309,35-44 years,20,587564,3.4
+McLennan ,48309,45-54 years,51,592543,8.6
+McLennan ,48309,55-64 years,115,502465,22.9
+McLennan ,48309,65-74 years,181,344997,52.5
+McLennan ,48309,75-84 years,399,213605,186.8
+McLennan ,48309,85+ years,521,89613,581.4
+McLennan ,48309,Not Stated,0,Not Applicable,Not Applicable
+McMullen ,48311,< 1 year,0,137,Unreliable
+McMullen ,48311,1-4 years,0,556,Unreliable
+McMullen ,48311,5-14 years,0,1936,Unreliable
+McMullen ,48311,15-24 years,0,1717,Unreliable
+McMullen ,48311,25-34 years,0,1528,Unreliable
+McMullen ,48311,35-44 years,0,1866,Unreliable
+McMullen ,48311,45-54 years,0,2452,Unreliable
+McMullen ,48311,55-64 years,0,2288,Unreliable
+McMullen ,48311,65-74 years,0,1879,Unreliable
+McMullen ,48311,75-84 years,0,1366,Unreliable
+McMullen ,48311,85+ years,0,345,Unreliable
+McMullen ,48311,Not Stated,0,Not Applicable,Not Applicable
+Madison ,48313,< 1 year,0,3335,Unreliable
+Madison ,48313,1-4 years,0,12715,Unreliable
+Madison ,48313,5-14 years,0,34110,Unreliable
+Madison ,48313,15-24 years,0,45507,Unreliable
+Madison ,48313,25-34 years,0,50343,Unreliable
+Madison ,48313,35-44 years,Suppressed,37818,Suppressed
+Madison ,48313,45-54 years,Suppressed,31705,Suppressed
+Madison ,48313,55-64 years,Suppressed,29231,Suppressed
+Madison ,48313,65-74 years,11,22675,Unreliable
+Madison ,48313,75-84 years,14,13307,Unreliable
+Madison ,48313,85+ years,14,5519,Unreliable
+Madison ,48313,Not Stated,0,Not Applicable,Not Applicable
+Marion ,48315,< 1 year,0,2234,Unreliable
+Marion ,48315,1-4 years,0,8825,Unreliable
+Marion ,48315,5-14 years,0,23708,Unreliable
+Marion ,48315,15-24 years,0,22383,Unreliable
+Marion ,48315,25-34 years,0,19878,Unreliable
+Marion ,48315,35-44 years,0,25449,Unreliable
+Marion ,48315,45-54 years,Suppressed,33435,Suppressed
+Marion ,48315,55-64 years,Suppressed,36040,Suppressed
+Marion ,48315,65-74 years,11,28912,Unreliable
+Marion ,48315,75-84 years,22,15576,141.2
+Marion ,48315,85+ years,Suppressed,4948,Suppressed
+Marion ,48315,Not Stated,0,Not Applicable,Not Applicable
+Martin ,48317,< 1 year,0,1818,Unreliable
+Martin ,48317,1-4 years,0,7074,Unreliable
+Martin ,48317,5-14 years,0,18317,Unreliable
+Martin ,48317,15-24 years,0,14930,Unreliable
+Martin ,48317,25-34 years,0,13083,Unreliable
+Martin ,48317,35-44 years,0,13209,Unreliable
+Martin ,48317,45-54 years,Suppressed,13197,Suppressed
+Martin ,48317,55-64 years,Suppressed,10846,Suppressed
+Martin ,48317,65-74 years,Suppressed,7491,Suppressed
+Martin ,48317,75-84 years,Suppressed,3966,Suppressed
+Martin ,48317,85+ years,Suppressed,1621,Suppressed
+Martin ,48317,Not Stated,0,Not Applicable,Not Applicable
+Mason ,48319,< 1 year,0,746,Unreliable
+Mason ,48319,1-4 years,0,3307,Unreliable
+Mason ,48319,5-14 years,0,9950,Unreliable
+Mason ,48319,15-24 years,0,8680,Unreliable
+Mason ,48319,25-34 years,0,6591,Unreliable
+Mason ,48319,35-44 years,0,8644,Unreliable
+Mason ,48319,45-54 years,0,11112,Unreliable
+Mason ,48319,55-64 years,Suppressed,13148,Suppressed
+Mason ,48319,65-74 years,Suppressed,11630,Suppressed
+Mason ,48319,75-84 years,Suppressed,7304,Suppressed
+Mason ,48319,85+ years,0,2558,Unreliable
+Mason ,48319,Not Stated,0,Not Applicable,Not Applicable
+Matagorda ,48321,< 1 year,Suppressed,11308,Suppressed
+Matagorda ,48321,1-4 years,0,44831,Unreliable
+Matagorda ,48321,5-14 years,0,115122,Unreliable
+Matagorda ,48321,15-24 years,0,105700,Unreliable
+Matagorda ,48321,25-34 years,Suppressed,90131,Suppressed
+Matagorda ,48321,35-44 years,Suppressed,94967,Suppressed
+Matagorda ,48321,45-54 years,19,106260,Unreliable
+Matagorda ,48321,55-64 years,23,93889,24.5
+Matagorda ,48321,65-74 years,35,64536,54.2
+Matagorda ,48321,75-84 years,49,36194,135.4
+Matagorda ,48321,85+ years,41,13068,313.7
+Matagorda ,48321,Not Stated,0,Not Applicable,Not Applicable
+Maverick ,48323,< 1 year,0,21274,Unreliable
+Maverick ,48323,1-4 years,Suppressed,82834,Suppressed
+Maverick ,48323,5-14 years,0,208793,Unreliable
+Maverick ,48323,15-24 years,Suppressed,184520,Suppressed
+Maverick ,48323,25-34 years,Suppressed,144223,Suppressed
+Maverick ,48323,35-44 years,Suppressed,138467,Suppressed
+Maverick ,48323,45-54 years,15,125644,Unreliable
+Maverick ,48323,55-64 years,28,99283,28.2
+Maverick ,48323,65-74 years,49,69987,70
+Maverick ,48323,75-84 years,51,40165,127
+Maverick ,48323,85+ years,61,12116,503.5
+Maverick ,48323,Not Stated,0,Not Applicable,Not Applicable
+Medina ,48325,< 1 year,0,11836,Unreliable
+Medina ,48325,1-4 years,0,49135,Unreliable
+Medina ,48325,5-14 years,Suppressed,137989,Suppressed
+Medina ,48325,15-24 years,Suppressed,137948,Suppressed
+Medina ,48325,25-34 years,Suppressed,114752,Suppressed
+Medina ,48325,35-44 years,Suppressed,122695,Suppressed
+Medina ,48325,45-54 years,10,134493,Unreliable
+Medina ,48325,55-64 years,17,116109,Unreliable
+Medina ,48325,65-74 years,29,79271,36.6
+Medina ,48325,75-84 years,24,43336,55.4
+Medina ,48325,85+ years,29,15698,184.7
+Medina ,48325,Not Stated,0,Not Applicable,Not Applicable
+Menard ,48327,< 1 year,0,436,Unreliable
+Menard ,48327,1-4 years,0,1876,Unreliable
+Menard ,48327,5-14 years,0,5072,Unreliable
+Menard ,48327,15-24 years,0,4819,Unreliable
+Menard ,48327,25-34 years,0,3894,Unreliable
+Menard ,48327,35-44 years,0,4358,Unreliable
+Menard ,48327,45-54 years,0,6367,Unreliable
+Menard ,48327,55-64 years,Suppressed,7135,Suppressed
+Menard ,48327,65-74 years,Suppressed,6446,Suppressed
+Menard ,48327,75-84 years,Suppressed,4212,Suppressed
+Menard ,48327,85+ years,Suppressed,1866,Suppressed
+Menard ,48327,Not Stated,0,Not Applicable,Not Applicable
+Midland ,48329,< 1 year,Suppressed,48996,Suppressed
+Midland ,48329,1-4 years,0,195146,Unreliable
+Midland ,48329,5-14 years,Suppressed,461055,Suppressed
+Midland ,48329,15-24 years,0,426986,Unreliable
+Midland ,48329,25-34 years,Suppressed,453552,Suppressed
+Midland ,48329,35-44 years,10,388541,Unreliable
+Midland ,48329,45-54 years,32,383685,8.3
+Midland ,48329,55-64 years,58,300932,19.3
+Midland ,48329,65-74 years,70,173148,40.4
+Midland ,48329,75-84 years,87,108302,80.3
+Midland ,48329,85+ years,102,42614,239.4
+Midland ,48329,Not Stated,0,Not Applicable,Not Applicable
+Milam ,48331,< 1 year,0,6828,Unreliable
+Milam ,48331,1-4 years,Suppressed,28000,Suppressed
+Milam ,48331,5-14 years,0,74404,Unreliable
+Milam ,48331,15-24 years,0,66210,Unreliable
+Milam ,48331,25-34 years,Suppressed,53798,Suppressed
+Milam ,48331,35-44 years,0,60987,Unreliable
+Milam ,48331,45-54 years,Suppressed,68361,Suppressed
+Milam ,48331,55-64 years,10,66103,Unreliable
+Milam ,48331,65-74 years,16,50538,Unreliable
+Milam ,48331,75-84 years,21,31537,66.6
+Milam ,48331,85+ years,31,13060,237.4
+Milam ,48331,Not Stated,0,Not Applicable,Not Applicable
+Mills ,48333,< 1 year,0,940,Unreliable
+Mills ,48333,1-4 years,0,4401,Unreliable
+Mills ,48333,5-14 years,0,13614,Unreliable
+Mills ,48333,15-24 years,0,11491,Unreliable
+Mills ,48333,25-34 years,0,8258,Unreliable
+Mills ,48333,35-44 years,0,11223,Unreliable
+Mills ,48333,45-54 years,Suppressed,13199,Suppressed
+Mills ,48333,55-64 years,0,14704,Unreliable
+Mills ,48333,65-74 years,Suppressed,12966,Suppressed
+Mills ,48333,75-84 years,Suppressed,8483,Suppressed
+Mills ,48333,85+ years,Suppressed,3779,Suppressed
+Mills ,48333,Not Stated,0,Not Applicable,Not Applicable
+Mitchell ,48335,< 1 year,0,1982,Unreliable
+Mitchell ,48335,1-4 years,0,7801,Unreliable
+Mitchell ,48335,5-14 years,0,20483,Unreliable
+Mitchell ,48335,15-24 years,0,30769,Unreliable
+Mitchell ,48335,25-34 years,0,31988,Unreliable
+Mitchell ,48335,35-44 years,Suppressed,27393,Suppressed
+Mitchell ,48335,45-54 years,Suppressed,25094,Suppressed
+Mitchell ,48335,55-64 years,Suppressed,19229,Suppressed
+Mitchell ,48335,65-74 years,Suppressed,14380,Suppressed
+Mitchell ,48335,75-84 years,Suppressed,9177,Suppressed
+Mitchell ,48335,85+ years,Suppressed,3458,Suppressed
+Mitchell ,48335,Not Stated,0,Not Applicable,Not Applicable
+Montague ,48337,< 1 year,0,5126,Unreliable
+Montague ,48337,1-4 years,0,19852,Unreliable
+Montague ,48337,5-14 years,0,52860,Unreliable
+Montague ,48337,15-24 years,0,46721,Unreliable
+Montague ,48337,25-34 years,0,42024,Unreliable
+Montague ,48337,35-44 years,Suppressed,48710,Suppressed
+Montague ,48337,45-54 years,Suppressed,54993,Suppressed
+Montague ,48337,55-64 years,11,56049,Unreliable
+Montague ,48337,65-74 years,19,46569,Unreliable
+Montague ,48337,75-84 years,25,27519,90.8
+Montague ,48337,85+ years,24,10200,235.3
+Montague ,48337,Not Stated,0,Not Applicable,Not Applicable
+Montgomery ,48339,< 1 year,Suppressed,133126,Suppressed
+Montgomery ,48339,1-4 years,Suppressed,551593,Suppressed
+Montgomery ,48339,5-14 years,Suppressed,1495113,Suppressed
+Montgomery ,48339,15-24 years,Suppressed,1242584,Suppressed
+Montgomery ,48339,25-34 years,Suppressed,1227481,Suppressed
+Montgomery ,48339,35-44 years,34,1398945,2.4
+Montgomery ,48339,45-54 years,80,1385723,5.8
+Montgomery ,48339,55-64 years,181,1099744,16.5
+Montgomery ,48339,65-74 years,270,660969,40.8
+Montgomery ,48339,75-84 years,335,306808,109.2
+Montgomery ,48339,85+ years,277,100773,274.9
+Montgomery ,48339,Not Stated,0,Not Applicable,Not Applicable
+Moore ,48341,< 1 year,0,8566,Unreliable
+Moore ,48341,1-4 years,0,33916,Unreliable
+Moore ,48341,5-14 years,0,77861,Unreliable
+Moore ,48341,15-24 years,0,66198,Unreliable
+Moore ,48341,25-34 years,0,60985,Unreliable
+Moore ,48341,35-44 years,0,57664,Unreliable
+Moore ,48341,45-54 years,Suppressed,52897,Suppressed
+Moore ,48341,55-64 years,Suppressed,40965,Suppressed
+Moore ,48341,65-74 years,Suppressed,25468,Suppressed
+Moore ,48341,75-84 years,10,15262,Unreliable
+Moore ,48341,85+ years,13,5229,Unreliable
+Moore ,48341,Not Stated,0,Not Applicable,Not Applicable
+Morris ,48343,< 1 year,0,3451,Unreliable
+Morris ,48343,1-4 years,0,13157,Unreliable
+Morris ,48343,5-14 years,0,35398,Unreliable
+Morris ,48343,15-24 years,0,32307,Unreliable
+Morris ,48343,25-34 years,Suppressed,29209,Suppressed
+Morris ,48343,35-44 years,Suppressed,31372,Suppressed
+Morris ,48343,45-54 years,Suppressed,36171,Suppressed
+Morris ,48343,55-64 years,Suppressed,35098,Suppressed
+Morris ,48343,65-74 years,Suppressed,29143,Suppressed
+Morris ,48343,75-84 years,18,18177,Unreliable
+Morris ,48343,85+ years,Suppressed,6355,Suppressed
+Morris ,48343,Not Stated,0,Not Applicable,Not Applicable
+Motley ,48345,< 1 year,0,218,Unreliable
+Motley ,48345,1-4 years,0,1084,Unreliable
+Motley ,48345,5-14 years,0,3124,Unreliable
+Motley ,48345,15-24 years,0,2683,Unreliable
+Motley ,48345,25-34 years,0,2439,Unreliable
+Motley ,48345,35-44 years,0,2461,Unreliable
+Motley ,48345,45-54 years,0,3163,Unreliable
+Motley ,48345,55-64 years,0,3810,Unreliable
+Motley ,48345,65-74 years,Suppressed,3773,Suppressed
+Motley ,48345,75-84 years,Suppressed,2448,Suppressed
+Motley ,48345,85+ years,Suppressed,729,Suppressed
+Motley ,48345,Not Stated,0,Not Applicable,Not Applicable
+Nacogdoches ,48347,< 1 year,0,17900,Unreliable
+Nacogdoches ,48347,1-4 years,0,71786,Unreliable
+Nacogdoches ,48347,5-14 years,Suppressed,171161,Suppressed
+Nacogdoches ,48347,15-24 years,Suppressed,319214,Suppressed
+Nacogdoches ,48347,25-34 years,Suppressed,156217,Suppressed
+Nacogdoches ,48347,35-44 years,Suppressed,141832,Suppressed
+Nacogdoches ,48347,45-54 years,16,149027,Unreliable
+Nacogdoches ,48347,55-64 years,22,133402,16.5
+Nacogdoches ,48347,65-74 years,44,94447,46.6
+Nacogdoches ,48347,75-84 years,57,53339,106.9
+Nacogdoches ,48347,85+ years,48,21389,224.4
+Nacogdoches ,48347,Not Stated,0,Not Applicable,Not Applicable
+Navarro ,48349,< 1 year,Suppressed,14642,Suppressed
+Navarro ,48349,1-4 years,0,59098,Unreliable
+Navarro ,48349,5-14 years,Suppressed,149640,Suppressed
+Navarro ,48349,15-24 years,Suppressed,138485,Suppressed
+Navarro ,48349,25-34 years,Suppressed,117074,Suppressed
+Navarro ,48349,35-44 years,Suppressed,125352,Suppressed
+Navarro ,48349,45-54 years,10,129517,Unreliable
+Navarro ,48349,55-64 years,24,116782,20.6
+Navarro ,48349,65-74 years,34,84329,40.3
+Navarro ,48349,75-84 years,31,47768,64.9
+Navarro ,48349,85+ years,45,18950,237.5
+Navarro ,48349,Not Stated,0,Not Applicable,Not Applicable
+Newton ,48351,< 1 year,0,3146,Unreliable
+Newton ,48351,1-4 years,0,13451,Unreliable
+Newton ,48351,5-14 years,0,38700,Unreliable
+Newton ,48351,15-24 years,0,39764,Unreliable
+Newton ,48351,25-34 years,Suppressed,34468,Suppressed
+Newton ,48351,35-44 years,Suppressed,38164,Suppressed
+Newton ,48351,45-54 years,Suppressed,42708,Suppressed
+Newton ,48351,55-64 years,Suppressed,39982,Suppressed
+Newton ,48351,65-74 years,12,29503,Unreliable
+Newton ,48351,75-84 years,Suppressed,16069,Suppressed
+Newton ,48351,85+ years,Suppressed,4804,Suppressed
+Newton ,48351,Not Stated,0,Not Applicable,Not Applicable
+Nolan ,48353,< 1 year,Suppressed,4380,Suppressed
+Nolan ,48353,1-4 years,0,17743,Unreliable
+Nolan ,48353,5-14 years,0,45525,Unreliable
+Nolan ,48353,15-24 years,0,42338,Unreliable
+Nolan ,48353,25-34 years,0,35767,Unreliable
+Nolan ,48353,35-44 years,Suppressed,37829,Suppressed
+Nolan ,48353,45-54 years,Suppressed,40220,Suppressed
+Nolan ,48353,55-64 years,Suppressed,37732,Suppressed
+Nolan ,48353,65-74 years,12,29121,Unreliable
+Nolan ,48353,75-84 years,Suppressed,18081,Suppressed
+Nolan ,48353,85+ years,17,7089,Unreliable
+Nolan ,48353,Not Stated,0,Not Applicable,Not Applicable
+Nueces ,48355,< 1 year,Suppressed,100765,Suppressed
+Nueces ,48355,1-4 years,0,408133,Unreliable
+Nueces ,48355,5-14 years,0,1029672,Unreliable
+Nueces ,48355,15-24 years,Suppressed,1060372,Suppressed
+Nueces ,48355,25-34 years,Suppressed,990345,Suppressed
+Nueces ,48355,35-44 years,25,929422,2.7
+Nueces ,48355,45-54 years,64,946933,6.8
+Nueces ,48355,55-64 years,165,785016,21
+Nueces ,48355,65-74 years,183,502265,36.4
+Nueces ,48355,75-84 years,270,287695,93.8
+Nueces ,48355,85+ years,229,108866,210.4
+Nueces ,48355,Not Stated,0,Not Applicable,Not Applicable
+Ochiltree ,48357,< 1 year,0,3621,Unreliable
+Ochiltree ,48357,1-4 years,0,14647,Unreliable
+Ochiltree ,48357,5-14 years,0,36049,Unreliable
+Ochiltree ,48357,15-24 years,0,29619,Unreliable
+Ochiltree ,48357,25-34 years,Suppressed,27582,Suppressed
+Ochiltree ,48357,35-44 years,Suppressed,27662,Suppressed
+Ochiltree ,48357,45-54 years,Suppressed,25657,Suppressed
+Ochiltree ,48357,55-64 years,Suppressed,20291,Suppressed
+Ochiltree ,48357,65-74 years,Suppressed,12831,Suppressed
+Ochiltree ,48357,75-84 years,12,7471,Unreliable
+Ochiltree ,48357,85+ years,Suppressed,2438,Suppressed
+Ochiltree ,48357,Not Stated,0,Not Applicable,Not Applicable
+Oldham ,48359,< 1 year,0,402,Unreliable
+Oldham ,48359,1-4 years,0,1622,Unreliable
+Oldham ,48359,5-14 years,0,7338,Unreliable
+Oldham ,48359,15-24 years,0,6639,Unreliable
+Oldham ,48359,25-34 years,0,4646,Unreliable
+Oldham ,48359,35-44 years,0,5518,Unreliable
+Oldham ,48359,45-54 years,0,6160,Unreliable
+Oldham ,48359,55-64 years,Suppressed,5511,Suppressed
+Oldham ,48359,65-74 years,Suppressed,3350,Suppressed
+Oldham ,48359,75-84 years,Suppressed,1794,Suppressed
+Oldham ,48359,85+ years,0,568,Unreliable
+Oldham ,48359,Not Stated,0,Not Applicable,Not Applicable
+Orange ,48361,< 1 year,Suppressed,23109,Suppressed
+Orange ,48361,1-4 years,0,93236,Unreliable
+Orange ,48361,5-14 years,Suppressed,248401,Suppressed
+Orange ,48361,15-24 years,Suppressed,230809,Suppressed
+Orange ,48361,25-34 years,Suppressed,215059,Suppressed
+Orange ,48361,35-44 years,13,231411,Unreliable
+Orange ,48361,45-54 years,23,247238,9.3
+Orange ,48361,55-64 years,58,208557,27.8
+Orange ,48361,65-74 years,63,143057,44
+Orange ,48361,75-84 years,83,82006,101.2
+Orange ,48361,85+ years,59,26585,221.9
+Orange ,48361,Not Stated,0,Not Applicable,Not Applicable
+Palo Pinto ,48363,< 1 year,Suppressed,8034,Suppressed
+Palo Pinto ,48363,1-4 years,Suppressed,30999,Suppressed
+Palo Pinto ,48363,5-14 years,0,80459,Unreliable
+Palo Pinto ,48363,15-24 years,0,73792,Unreliable
+Palo Pinto ,48363,25-34 years,0,66305,Unreliable
+Palo Pinto ,48363,35-44 years,Suppressed,69822,Suppressed
+Palo Pinto ,48363,45-54 years,Suppressed,79557,Suppressed
+Palo Pinto ,48363,55-64 years,17,76292,Unreliable
+Palo Pinto ,48363,65-74 years,23,58940,39
+Palo Pinto ,48363,75-84 years,15,31876,Unreliable
+Palo Pinto ,48363,85+ years,15,10797,Unreliable
+Palo Pinto ,48363,Not Stated,0,Not Applicable,Not Applicable
+Panola ,48365,< 1 year,0,5970,Unreliable
+Panola ,48365,1-4 years,0,24977,Unreliable
+Panola ,48365,5-14 years,0,66980,Unreliable
+Panola ,48365,15-24 years,0,64869,Unreliable
+Panola ,48365,25-34 years,0,56592,Unreliable
+Panola ,48365,35-44 years,Suppressed,59826,Suppressed
+Panola ,48365,45-54 years,15,66543,Unreliable
+Panola ,48365,55-64 years,Suppressed,63123,Suppressed
+Panola ,48365,65-74 years,Suppressed,46337,Suppressed
+Panola ,48365,75-84 years,24,26668,90
+Panola ,48365,85+ years,26,9215,282.1
+Panola ,48365,Not Stated,0,Not Applicable,Not Applicable
+Parker ,48367,< 1 year,0,28396,Unreliable
+Parker ,48367,1-4 years,0,121158,Unreliable
+Parker ,48367,5-14 years,0,358126,Unreliable
+Parker ,48367,15-24 years,Suppressed,314067,Suppressed
+Parker ,48367,25-34 years,Suppressed,276832,Suppressed
+Parker ,48367,35-44 years,Suppressed,342168,Suppressed
+Parker ,48367,45-54 years,20,367509,5.4
+Parker ,48367,55-64 years,37,305893,12.1
+Parker ,48367,65-74 years,65,195597,33.2
+Parker ,48367,75-84 years,78,94249,82.8
+Parker ,48367,85+ years,51,30002,170
+Parker ,48367,Not Stated,0,Not Applicable,Not Applicable
+Parmer ,48369,< 1 year,0,3329,Unreliable
+Parmer ,48369,1-4 years,0,14284,Unreliable
+Parmer ,48369,5-14 years,0,35411,Unreliable
+Parmer ,48369,15-24 years,0,31125,Unreliable
+Parmer ,48369,25-34 years,Suppressed,25821,Suppressed
+Parmer ,48369,35-44 years,Suppressed,25708,Suppressed
+Parmer ,48369,45-54 years,Suppressed,26219,Suppressed
+Parmer ,48369,55-64 years,0,20802,Unreliable
+Parmer ,48369,65-74 years,Suppressed,14273,Suppressed
+Parmer ,48369,75-84 years,Suppressed,8871,Suppressed
+Parmer ,48369,85+ years,Suppressed,3670,Suppressed
+Parmer ,48369,Not Stated,0,Not Applicable,Not Applicable
+Pecos ,48371,< 1 year,0,4587,Unreliable
+Pecos ,48371,1-4 years,Suppressed,18757,Suppressed
+Pecos ,48371,5-14 years,Suppressed,44665,Suppressed
+Pecos ,48371,15-24 years,0,48835,Unreliable
+Pecos ,48371,25-34 years,Suppressed,47448,Suppressed
+Pecos ,48371,35-44 years,Suppressed,46448,Suppressed
+Pecos ,48371,45-54 years,Suppressed,45211,Suppressed
+Pecos ,48371,55-64 years,Suppressed,34467,Suppressed
+Pecos ,48371,65-74 years,Suppressed,23302,Suppressed
+Pecos ,48371,75-84 years,Suppressed,12984,Suppressed
+Pecos ,48371,85+ years,11,4039,Unreliable
+Pecos ,48371,Not Stated,0,Not Applicable,Not Applicable
+Polk ,48373,< 1 year,Suppressed,11143,Suppressed
+Polk ,48373,1-4 years,0,43192,Unreliable
+Polk ,48373,5-14 years,0,112351,Unreliable
+Polk ,48373,15-24 years,Suppressed,109505,Suppressed
+Polk ,48373,25-34 years,Suppressed,112372,Suppressed
+Polk ,48373,35-44 years,Suppressed,118548,Suppressed
+Polk ,48373,45-54 years,15,130686,Unreliable
+Polk ,48373,55-64 years,35,149796,23.4
+Polk ,48373,65-74 years,72,118264,60.9
+Polk ,48373,75-84 years,67,52622,127.3
+Polk ,48373,85+ years,49,14738,332.5
+Polk ,48373,Not Stated,0,Not Applicable,Not Applicable
+Potter ,48375,< 1 year,Suppressed,42394,Suppressed
+Potter ,48375,1-4 years,Suppressed,166182,Suppressed
+Potter ,48375,5-14 years,Suppressed,377015,Suppressed
+Potter ,48375,15-24 years,Suppressed,356628,Suppressed
+Potter ,48375,25-34 years,Suppressed,375189,Suppressed
+Potter ,48375,35-44 years,13,334676,Unreliable
+Potter ,48375,45-54 years,29,316931,9.2
+Potter ,48375,55-64 years,60,244055,24.6
+Potter ,48375,65-74 years,88,153506,57.3
+Potter ,48375,75-84 years,101,92878,108.7
+Potter ,48375,85+ years,111,41661,266.4
+Potter ,48375,Not Stated,0,Not Applicable,Not Applicable
+Presidio ,48377,< 1 year,0,2495,Unreliable
+Presidio ,48377,1-4 years,0,9627,Unreliable
+Presidio ,48377,5-14 years,0,24597,Unreliable
+Presidio ,48377,15-24 years,0,20786,Unreliable
+Presidio ,48377,25-34 years,0,15849,Unreliable
+Presidio ,48377,35-44 years,0,18251,Unreliable
+Presidio ,48377,45-54 years,0,17196,Unreliable
+Presidio ,48377,55-64 years,Suppressed,16660,Suppressed
+Presidio ,48377,65-74 years,Suppressed,14920,Suppressed
+Presidio ,48377,75-84 years,Suppressed,9878,Suppressed
+Presidio ,48377,85+ years,Suppressed,3908,Suppressed
+Presidio ,48377,Not Stated,0,Not Applicable,Not Applicable
+Rains ,48379,< 1 year,0,2453,Unreliable
+Rains ,48379,1-4 years,0,9596,Unreliable
+Rains ,48379,5-14 years,0,27789,Unreliable
+Rains ,48379,15-24 years,0,25691,Unreliable
+Rains ,48379,25-34 years,0,22025,Unreliable
+Rains ,48379,35-44 years,Suppressed,27124,Suppressed
+Rains ,48379,45-54 years,Suppressed,31866,Suppressed
+Rains ,48379,55-64 years,Suppressed,35670,Suppressed
+Rains ,48379,65-74 years,Suppressed,29749,Suppressed
+Rains ,48379,75-84 years,Suppressed,14394,Suppressed
+Rains ,48379,85+ years,Suppressed,4033,Suppressed
+Rains ,48379,Not Stated,0,Not Applicable,Not Applicable
+Randall ,48381,< 1 year,Suppressed,31952,Suppressed
+Randall ,48381,1-4 years,Suppressed,134300,Suppressed
+Randall ,48381,5-14 years,Suppressed,351515,Suppressed
+Randall ,48381,15-24 years,Suppressed,389402,Suppressed
+Randall ,48381,25-34 years,Suppressed,346296,Suppressed
+Randall ,48381,35-44 years,11,334251,Unreliable
+Randall ,48381,45-54 years,17,332391,Unreliable
+Randall ,48381,55-64 years,43,283910,15.1
+Randall ,48381,65-74 years,56,192133,29.1
+Randall ,48381,75-84 years,111,110863,100.1
+Randall ,48381,85+ years,66,34940,188.9
+Randall ,48381,Not Stated,0,Not Applicable,Not Applicable
+Reagan ,48383,< 1 year,0,1122,Unreliable
+Reagan ,48383,1-4 years,0,4699,Unreliable
+Reagan ,48383,5-14 years,0,12173,Unreliable
+Reagan ,48383,15-24 years,0,10682,Unreliable
+Reagan ,48383,25-34 years,Suppressed,9086,Suppressed
+Reagan ,48383,35-44 years,0,9786,Unreliable
+Reagan ,48383,45-54 years,Suppressed,9701,Suppressed
+Reagan ,48383,55-64 years,Suppressed,7318,Suppressed
+Reagan ,48383,65-74 years,Suppressed,4533,Suppressed
+Reagan ,48383,75-84 years,Suppressed,2583,Suppressed
+Reagan ,48383,85+ years,0,753,Unreliable
+Reagan ,48383,Not Stated,0,Not Applicable,Not Applicable
+Real ,48385,< 1 year,0,712,Unreliable
+Real ,48385,1-4 years,0,2559,Unreliable
+Real ,48385,5-14 years,0,7332,Unreliable
+Real ,48385,15-24 years,0,7116,Unreliable
+Real ,48385,25-34 years,0,5465,Unreliable
+Real ,48385,35-44 years,Suppressed,6780,Suppressed
+Real ,48385,45-54 years,0,9063,Unreliable
+Real ,48385,55-64 years,Suppressed,11839,Suppressed
+Real ,48385,65-74 years,Suppressed,10720,Suppressed
+Real ,48385,75-84 years,Suppressed,5730,Suppressed
+Real ,48385,85+ years,Suppressed,1564,Suppressed
+Real ,48385,Not Stated,0,Not Applicable,Not Applicable
+Red River ,48387,< 1 year,0,2965,Unreliable
+Red River ,48387,1-4 years,0,11926,Unreliable
+Red River ,48387,5-14 years,0,32796,Unreliable
+Red River ,48387,15-24 years,0,30380,Unreliable
+Red River ,48387,25-34 years,Suppressed,27758,Suppressed
+Red River ,48387,35-44 years,Suppressed,31467,Suppressed
+Red River ,48387,45-54 years,Suppressed,37366,Suppressed
+Red River ,48387,55-64 years,Suppressed,37997,Suppressed
+Red River ,48387,65-74 years,Suppressed,31350,Suppressed
+Red River ,48387,75-84 years,14,19529,Unreliable
+Red River ,48387,85+ years,14,7904,Unreliable
+Red River ,48387,Not Stated,0,Not Applicable,Not Applicable
+Reeves ,48389,< 1 year,0,3861,Unreliable
+Reeves ,48389,1-4 years,0,15466,Unreliable
+Reeves ,48389,5-14 years,Suppressed,37849,Suppressed
+Reeves ,48389,15-24 years,0,47405,Unreliable
+Reeves ,48389,25-34 years,Suppressed,44323,Suppressed
+Reeves ,48389,35-44 years,0,42529,Unreliable
+Reeves ,48389,45-54 years,Suppressed,37886,Suppressed
+Reeves ,48389,55-64 years,Suppressed,27129,Suppressed
+Reeves ,48389,65-74 years,Suppressed,19819,Suppressed
+Reeves ,48389,75-84 years,11,11782,Unreliable
+Reeves ,48389,85+ years,Suppressed,4186,Suppressed
+Reeves ,48389,Not Stated,0,Not Applicable,Not Applicable
+Refugio ,48391,< 1 year,0,1820,Unreliable
+Refugio ,48391,1-4 years,0,7523,Unreliable
+Refugio ,48391,5-14 years,0,21110,Unreliable
+Refugio ,48391,15-24 years,0,19518,Unreliable
+Refugio ,48391,25-34 years,0,15577,Unreliable
+Refugio ,48391,35-44 years,Suppressed,18939,Suppressed
+Refugio ,48391,45-54 years,Suppressed,20805,Suppressed
+Refugio ,48391,55-64 years,Suppressed,19620,Suppressed
+Refugio ,48391,65-74 years,Suppressed,16417,Suppressed
+Refugio ,48391,75-84 years,11,10162,Unreliable
+Refugio ,48391,85+ years,Suppressed,3594,Suppressed
+Refugio ,48391,Not Stated,0,Not Applicable,Not Applicable
+Roberts ,48393,< 1 year,0,199,Unreliable
+Roberts ,48393,1-4 years,0,824,Unreliable
+Roberts ,48393,5-14 years,0,2678,Unreliable
+Roberts ,48393,15-24 years,0,1956,Unreliable
+Roberts ,48393,25-34 years,0,1983,Unreliable
+Roberts ,48393,35-44 years,0,2331,Unreliable
+Roberts ,48393,45-54 years,0,2710,Unreliable
+Roberts ,48393,55-64 years,Suppressed,2524,Suppressed
+Roberts ,48393,65-74 years,Suppressed,1967,Suppressed
+Roberts ,48393,75-84 years,0,967,Unreliable
+Roberts ,48393,85+ years,Suppressed,278,Suppressed
+Roberts ,48393,Not Stated,0,Not Applicable,Not Applicable
+Robertson ,48395,< 1 year,Suppressed,4591,Suppressed
+Robertson ,48395,1-4 years,0,19261,Unreliable
+Robertson ,48395,5-14 years,0,49708,Unreliable
+Robertson ,48395,15-24 years,0,43287,Unreliable
+Robertson ,48395,25-34 years,Suppressed,38333,Suppressed
+Robertson ,48395,35-44 years,0,41195,Unreliable
+Robertson ,48395,45-54 years,Suppressed,45618,Suppressed
+Robertson ,48395,55-64 years,10,44686,Unreliable
+Robertson ,48395,65-74 years,22,33341,66
+Robertson ,48395,75-84 years,29,20203,143.5
+Robertson ,48395,85+ years,25,8090,309
+Robertson ,48395,Not Stated,0,Not Applicable,Not Applicable
+Rockwall ,48397,< 1 year,0,19669,Unreliable
+Rockwall ,48397,1-4 years,0,91155,Unreliable
+Rockwall ,48397,5-14 years,0,268236,Unreliable
+Rockwall ,48397,15-24 years,Suppressed,201234,Suppressed
+Rockwall ,48397,25-34 years,Suppressed,189686,Suppressed
+Rockwall ,48397,35-44 years,Suppressed,254409,Suppressed
+Rockwall ,48397,45-54 years,10,240154,Unreliable
+Rockwall ,48397,55-64 years,16,174543,Unreliable
+Rockwall ,48397,65-74 years,29,102957,28.2
+Rockwall ,48397,75-84 years,41,49532,82.8
+Rockwall ,48397,85+ years,46,18843,244.1
+Rockwall ,48397,Not Stated,0,Not Applicable,Not Applicable
+Runnels ,48399,< 1 year,0,2634,Unreliable
+Runnels ,48399,1-4 years,0,11098,Unreliable
+Runnels ,48399,5-14 years,0,30744,Unreliable
+Runnels ,48399,15-24 years,0,27125,Unreliable
+Runnels ,48399,25-34 years,0,22793,Unreliable
+Runnels ,48399,35-44 years,0,26109,Unreliable
+Runnels ,48399,45-54 years,Suppressed,28927,Suppressed
+Runnels ,48399,55-64 years,Suppressed,28265,Suppressed
+Runnels ,48399,65-74 years,Suppressed,22695,Suppressed
+Runnels ,48399,75-84 years,10,15351,Unreliable
+Runnels ,48399,85+ years,Suppressed,6627,Suppressed
+Runnels ,48399,Not Stated,0,Not Applicable,Not Applicable
+Rusk ,48401,< 1 year,Suppressed,13351,Suppressed
+Rusk ,48401,1-4 years,0,54167,Unreliable
+Rusk ,48401,5-14 years,0,140636,Unreliable
+Rusk ,48401,15-24 years,Suppressed,142940,Suppressed
+Rusk ,48401,25-34 years,Suppressed,140369,Suppressed
+Rusk ,48401,35-44 years,Suppressed,147996,Suppressed
+Rusk ,48401,45-54 years,Suppressed,152277,Suppressed
+Rusk ,48401,55-64 years,28,131680,21.3
+Rusk ,48401,65-74 years,38,90676,41.9
+Rusk ,48401,75-84 years,48,52488,91.4
+Rusk ,48401,85+ years,56,21438,261.2
+Rusk ,48401,Not Stated,0,Not Applicable,Not Applicable
+Sabine ,48403,< 1 year,0,2059,Unreliable
+Sabine ,48403,1-4 years,0,8517,Unreliable
+Sabine ,48403,5-14 years,0,24275,Unreliable
+Sabine ,48403,15-24 years,0,21541,Unreliable
+Sabine ,48403,25-34 years,0,18179,Unreliable
+Sabine ,48403,35-44 years,Suppressed,21477,Suppressed
+Sabine ,48403,45-54 years,Suppressed,28051,Suppressed
+Sabine ,48403,55-64 years,Suppressed,36163,Suppressed
+Sabine ,48403,65-74 years,12,35090,Unreliable
+Sabine ,48403,75-84 years,12,19103,Unreliable
+Sabine ,48403,85+ years,10,6249,Unreliable
+Sabine ,48403,Not Stated,0,Not Applicable,Not Applicable
+San Augustine ,48405,< 1 year,0,1925,Unreliable
+San Augustine ,48405,1-4 years,0,8339,Unreliable
+San Augustine ,48405,5-14 years,0,22207,Unreliable
+San Augustine ,48405,15-24 years,0,19749,Unreliable
+San Augustine ,48405,25-34 years,Suppressed,17005,Suppressed
+San Augustine ,48405,35-44 years,Suppressed,19279,Suppressed
+San Augustine ,48405,45-54 years,Suppressed,24766,Suppressed
+San Augustine ,48405,55-64 years,Suppressed,26637,Suppressed
+San Augustine ,48405,65-74 years,10,23477,Unreliable
+San Augustine ,48405,75-84 years,16,14143,Unreliable
+San Augustine ,48405,85+ years,Suppressed,6295,Suppressed
+San Augustine ,48405,Not Stated,0,Not Applicable,Not Applicable
+San Jacinto ,48407,< 1 year,0,6454,Unreliable
+San Jacinto ,48407,1-4 years,0,25831,Unreliable
+San Jacinto ,48407,5-14 years,0,73437,Unreliable
+San Jacinto ,48407,15-24 years,0,64325,Unreliable
+San Jacinto ,48407,25-34 years,Suppressed,54915,Suppressed
+San Jacinto ,48407,35-44 years,Suppressed,63989,Suppressed
+San Jacinto ,48407,45-54 years,Suppressed,76581,Suppressed
+San Jacinto ,48407,55-64 years,11,82862,Unreliable
+San Jacinto ,48407,65-74 years,39,62087,62.8
+San Jacinto ,48407,75-84 years,37,30895,119.8
+San Jacinto ,48407,85+ years,31,8432,367.6
+San Jacinto ,48407,Not Stated,0,Not Applicable,Not Applicable
+San Patricio ,48409,< 1 year,0,21432,Unreliable
+San Patricio ,48409,1-4 years,0,85069,Unreliable
+San Patricio ,48409,5-14 years,0,219205,Unreliable
+San Patricio ,48409,15-24 years,Suppressed,201963,Suppressed
+San Patricio ,48409,25-34 years,Suppressed,177511,Suppressed
+San Patricio ,48409,35-44 years,Suppressed,183041,Suppressed
+San Patricio ,48409,45-54 years,Suppressed,180419,Suppressed
+San Patricio ,48409,55-64 years,21,149609,14
+San Patricio ,48409,65-74 years,43,104462,41.2
+San Patricio ,48409,75-84 years,65,57300,113.4
+San Patricio ,48409,85+ years,30,18313,163.8
+San Patricio ,48409,Not Stated,0,Not Applicable,Not Applicable
+San Saba ,48411,< 1 year,0,1442,Unreliable
+San Saba ,48411,1-4 years,0,5581,Unreliable
+San Saba ,48411,5-14 years,0,14693,Unreliable
+San Saba ,48411,15-24 years,0,18315,Unreliable
+San Saba ,48411,25-34 years,0,15764,Unreliable
+San Saba ,48411,35-44 years,0,12668,Unreliable
+San Saba ,48411,45-54 years,0,15217,Unreliable
+San Saba ,48411,55-64 years,0,16433,Unreliable
+San Saba ,48411,65-74 years,Suppressed,13801,Suppressed
+San Saba ,48411,75-84 years,Suppressed,8406,Suppressed
+San Saba ,48411,85+ years,Suppressed,3800,Suppressed
+San Saba ,48411,Not Stated,0,Not Applicable,Not Applicable
+Schleicher ,48413,< 1 year,0,887,Unreliable
+Schleicher ,48413,1-4 years,0,3700,Unreliable
+Schleicher ,48413,5-14 years,0,10318,Unreliable
+Schleicher ,48413,15-24 years,0,8503,Unreliable
+Schleicher ,48413,25-34 years,0,7343,Unreliable
+Schleicher ,48413,35-44 years,0,7965,Unreliable
+Schleicher ,48413,45-54 years,0,8358,Unreliable
+Schleicher ,48413,55-64 years,Suppressed,7723,Suppressed
+Schleicher ,48413,65-74 years,0,5911,Unreliable
+Schleicher ,48413,75-84 years,Suppressed,3335,Suppressed
+Schleicher ,48413,85+ years,0,932,Unreliable
+Schleicher ,48413,Not Stated,0,Not Applicable,Not Applicable
+Scurry ,48415,< 1 year,0,4938,Unreliable
+Scurry ,48415,1-4 years,0,19828,Unreliable
+Scurry ,48415,5-14 years,Suppressed,47808,Suppressed
+Scurry ,48415,15-24 years,0,50566,Unreliable
+Scurry ,48415,25-34 years,Suppressed,45115,Suppressed
+Scurry ,48415,35-44 years,Suppressed,45035,Suppressed
+Scurry ,48415,45-54 years,Suppressed,47143,Suppressed
+Scurry ,48415,55-64 years,Suppressed,38453,Suppressed
+Scurry ,48415,65-74 years,Suppressed,26859,Suppressed
+Scurry ,48415,75-84 years,14,17541,Unreliable
+Scurry ,48415,85+ years,17,6801,Unreliable
+Scurry ,48415,Not Stated,0,Not Applicable,Not Applicable
+Shackelford ,48417,< 1 year,0,764,Unreliable
+Shackelford ,48417,1-4 years,0,3147,Unreliable
+Shackelford ,48417,5-14 years,0,9757,Unreliable
+Shackelford ,48417,15-24 years,0,8441,Unreliable
+Shackelford ,48417,25-34 years,0,6751,Unreliable
+Shackelford ,48417,35-44 years,0,8527,Unreliable
+Shackelford ,48417,45-54 years,0,9991,Unreliable
+Shackelford ,48417,55-64 years,0,9542,Unreliable
+Shackelford ,48417,65-74 years,Suppressed,6898,Suppressed
+Shackelford ,48417,75-84 years,Suppressed,4386,Suppressed
+Shackelford ,48417,85+ years,Suppressed,1646,Suppressed
+Shackelford ,48417,Not Stated,0,Not Applicable,Not Applicable
+Shelby ,48419,< 1 year,0,8026,Unreliable
+Shelby ,48419,1-4 years,Suppressed,31718,Suppressed
+Shelby ,48419,5-14 years,Suppressed,78006,Suppressed
+Shelby ,48419,15-24 years,0,70504,Unreliable
+Shelby ,48419,25-34 years,Suppressed,61966,Suppressed
+Shelby ,48419,35-44 years,Suppressed,65719,Suppressed
+Shelby ,48419,45-54 years,10,68294,Unreliable
+Shelby ,48419,55-64 years,Suppressed,62281,Suppressed
+Shelby ,48419,65-74 years,24,48366,49.6
+Shelby ,48419,75-84 years,22,28860,76.2
+Shelby ,48419,85+ years,21,10033,209.3
+Shelby ,48419,Not Stated,0,Not Applicable,Not Applicable
+Sherman ,48421,< 1 year,0,793,Unreliable
+Sherman ,48421,1-4 years,0,3645,Unreliable
+Sherman ,48421,5-14 years,0,10711,Unreliable
+Sherman ,48421,15-24 years,0,8728,Unreliable
+Sherman ,48421,25-34 years,0,7258,Unreliable
+Sherman ,48421,35-44 years,0,8549,Unreliable
+Sherman ,48421,45-54 years,Suppressed,8850,Suppressed
+Sherman ,48421,55-64 years,Suppressed,6793,Suppressed
+Sherman ,48421,65-74 years,Suppressed,4648,Suppressed
+Sherman ,48421,75-84 years,Suppressed,2972,Suppressed
+Sherman ,48421,85+ years,Suppressed,1289,Suppressed
+Sherman ,48421,Not Stated,0,Not Applicable,Not Applicable
+Smith ,48423,< 1 year,Suppressed,61007,Suppressed
+Smith ,48423,1-4 years,0,244855,Unreliable
+Smith ,48423,5-14 years,0,612436,Unreliable
+Smith ,48423,15-24 years,Suppressed,632818,Suppressed
+Smith ,48423,25-34 years,Suppressed,567598,Suppressed
+Smith ,48423,35-44 years,10,543232,Unreliable
+Smith ,48423,45-54 years,30,550561,5.4
+Smith ,48423,55-64 years,54,486948,11.1
+Smith ,48423,65-74 years,120,354592,33.8
+Smith ,48423,75-84 years,175,214407,81.6
+Smith ,48423,85+ years,239,82131,291
+Smith ,48423,Not Stated,0,Not Applicable,Not Applicable
+Somervell ,48425,< 1 year,0,1872,Unreliable
+Somervell ,48425,1-4 years,0,7645,Unreliable
+Somervell ,48425,5-14 years,0,25141,Unreliable
+Somervell ,48425,15-24 years,0,22942,Unreliable
+Somervell ,48425,25-34 years,0,18240,Unreliable
+Somervell ,48425,35-44 years,Suppressed,22232,Suppressed
+Somervell ,48425,45-54 years,Suppressed,24932,Suppressed
+Somervell ,48425,55-64 years,Suppressed,21792,Suppressed
+Somervell ,48425,65-74 years,Suppressed,15791,Suppressed
+Somervell ,48425,75-84 years,Suppressed,8348,Suppressed
+Somervell ,48425,85+ years,Suppressed,3681,Suppressed
+Somervell ,48425,Not Stated,0,Not Applicable,Not Applicable
+Starr ,48427,< 1 year,Suppressed,26578,Suppressed
+Starr ,48427,1-4 years,Suppressed,100621,Suppressed
+Starr ,48427,5-14 years,0,237712,Unreliable
+Starr ,48427,15-24 years,Suppressed,212767,Suppressed
+Starr ,48427,25-34 years,Suppressed,167356,Suppressed
+Starr ,48427,35-44 years,Suppressed,158022,Suppressed
+Starr ,48427,45-54 years,16,132996,Unreliable
+Starr ,48427,55-64 years,34,101285,33.6
+Starr ,48427,65-74 years,70,76179,91.9
+Starr ,48427,75-84 years,107,42258,253.2
+Starr ,48427,85+ years,91,14111,644.9
+Starr ,48427,Not Stated,0,Not Applicable,Not Applicable
+Stephens ,48429,< 1 year,0,2342,Unreliable
+Stephens ,48429,1-4 years,0,9345,Unreliable
+Stephens ,48429,5-14 years,Suppressed,25507,Suppressed
+Stephens ,48429,15-24 years,0,26568,Unreliable
+Stephens ,48429,25-34 years,0,23573,Unreliable
+Stephens ,48429,35-44 years,0,23943,Unreliable
+Stephens ,48429,45-54 years,Suppressed,25291,Suppressed
+Stephens ,48429,55-64 years,Suppressed,25142,Suppressed
+Stephens ,48429,65-74 years,Suppressed,19951,Suppressed
+Stephens ,48429,75-84 years,Suppressed,12348,Suppressed
+Stephens ,48429,85+ years,Suppressed,4940,Suppressed
+Stephens ,48429,Not Stated,0,Not Applicable,Not Applicable
+Sterling ,48431,< 1 year,0,293,Unreliable
+Sterling ,48431,1-4 years,0,1371,Unreliable
+Sterling ,48431,5-14 years,0,4012,Unreliable
+Sterling ,48431,15-24 years,0,3198,Unreliable
+Sterling ,48431,25-34 years,0,3077,Unreliable
+Sterling ,48431,35-44 years,0,3558,Unreliable
+Sterling ,48431,45-54 years,Suppressed,3757,Suppressed
+Sterling ,48431,55-64 years,0,3070,Unreliable
+Sterling ,48431,65-74 years,0,2019,Unreliable
+Sterling ,48431,75-84 years,Suppressed,1445,Suppressed
+Sterling ,48431,85+ years,Suppressed,590,Suppressed
+Sterling ,48431,Not Stated,0,Not Applicable,Not Applicable
+Stonewall ,48433,< 1 year,0,258,Unreliable
+Stonewall ,48433,1-4 years,0,1341,Unreliable
+Stonewall ,48433,5-14 years,0,3760,Unreliable
+Stonewall ,48433,15-24 years,0,3221,Unreliable
+Stonewall ,48433,25-34 years,0,2757,Unreliable
+Stonewall ,48433,35-44 years,0,3312,Unreliable
+Stonewall ,48433,45-54 years,0,3972,Unreliable
+Stonewall ,48433,55-64 years,0,4186,Unreliable
+Stonewall ,48433,65-74 years,Suppressed,3533,Suppressed
+Stonewall ,48433,75-84 years,Suppressed,2646,Suppressed
+Stonewall ,48433,85+ years,Suppressed,1330,Suppressed
+Stonewall ,48433,Not Stated,0,Not Applicable,Not Applicable
+Sutton ,48435,< 1 year,0,1213,Unreliable
+Sutton ,48435,1-4 years,0,5121,Unreliable
+Sutton ,48435,5-14 years,0,12043,Unreliable
+Sutton ,48435,15-24 years,0,10717,Unreliable
+Sutton ,48435,25-34 years,Suppressed,9992,Suppressed
+Sutton ,48435,35-44 years,0,10434,Unreliable
+Sutton ,48435,45-54 years,Suppressed,12603,Suppressed
+Sutton ,48435,55-64 years,Suppressed,10207,Suppressed
+Sutton ,48435,65-74 years,Suppressed,6961,Suppressed
+Sutton ,48435,75-84 years,Suppressed,4090,Suppressed
+Sutton ,48435,85+ years,Suppressed,1246,Suppressed
+Sutton ,48435,Not Stated,0,Not Applicable,Not Applicable
+Swisher ,48437,< 1 year,0,2455,Unreliable
+Swisher ,48437,1-4 years,0,9304,Unreliable
+Swisher ,48437,5-14 years,0,23710,Unreliable
+Swisher ,48437,15-24 years,0,23448,Unreliable
+Swisher ,48437,25-34 years,0,20989,Unreliable
+Swisher ,48437,35-44 years,0,18484,Unreliable
+Swisher ,48437,45-54 years,Suppressed,19642,Suppressed
+Swisher ,48437,55-64 years,Suppressed,17474,Suppressed
+Swisher ,48437,65-74 years,Suppressed,14461,Suppressed
+Swisher ,48437,75-84 years,Suppressed,9878,Suppressed
+Swisher ,48437,85+ years,Suppressed,3669,Suppressed
+Swisher ,48437,Not Stated,0,Not Applicable,Not Applicable
+Tarrant ,48439,< 1 year,25,575047,4.3
+Tarrant ,48439,1-4 years,15,2317006,Unreliable
+Tarrant ,48439,5-14 years,12,5788958,Unreliable
+Tarrant ,48439,15-24 years,12,5331764,Unreliable
+Tarrant ,48439,25-34 years,40,5694725,0.7
+Tarrant ,48439,35-44 years,125,5595437,2.2
+Tarrant ,48439,45-54 years,297,5140688,5.8
+Tarrant ,48439,55-64 years,634,3775806,16.8
+Tarrant ,48439,65-74 years,796,2126744,37.4
+Tarrant ,48439,75-84 years,968,1105503,87.6
+Tarrant ,48439,85+ years,911,414106,220
+Tarrant ,48439,Not Stated,Suppressed,Not Applicable,Not Applicable
+Taylor ,48441,< 1 year,Suppressed,42189,Suppressed
+Taylor ,48441,1-4 years,Suppressed,162066,Suppressed
+Taylor ,48441,5-14 years,Suppressed,372919,Suppressed
+Taylor ,48441,15-24 years,Suppressed,509396,Suppressed
+Taylor ,48441,25-34 years,Suppressed,380196,Suppressed
+Taylor ,48441,35-44 years,12,326524,Unreliable
+Taylor ,48441,45-54 years,33,324937,10.2
+Taylor ,48441,55-64 years,72,274023,26.3
+Taylor ,48441,65-74 years,91,196823,46.2
+Taylor ,48441,75-84 years,106,124850,84.9
+Taylor ,48441,85+ years,115,50199,229.1
+Taylor ,48441,Not Stated,0,Not Applicable,Not Applicable
+Terrell ,48443,< 1 year,0,186,Unreliable
+Terrell ,48443,1-4 years,0,926,Unreliable
+Terrell ,48443,5-14 years,0,2297,Unreliable
+Terrell ,48443,15-24 years,0,1912,Unreliable
+Terrell ,48443,25-34 years,0,1919,Unreliable
+Terrell ,48443,35-44 years,0,2426,Unreliable
+Terrell ,48443,45-54 years,0,2419,Unreliable
+Terrell ,48443,55-64 years,0,2696,Unreliable
+Terrell ,48443,65-74 years,Suppressed,2443,Suppressed
+Terrell ,48443,75-84 years,Suppressed,1381,Suppressed
+Terrell ,48443,85+ years,Suppressed,450,Suppressed
+Terrell ,48443,Not Stated,0,Not Applicable,Not Applicable
+Terry ,48445,< 1 year,0,4143,Unreliable
+Terry ,48445,1-4 years,0,16310,Unreliable
+Terry ,48445,5-14 years,0,38385,Unreliable
+Terry ,48445,15-24 years,Suppressed,38733,Suppressed
+Terry ,48445,25-34 years,0,34776,Unreliable
+Terry ,48445,35-44 years,Suppressed,32006,Suppressed
+Terry ,48445,45-54 years,Suppressed,32819,Suppressed
+Terry ,48445,55-64 years,15,27616,Unreliable
+Terry ,48445,65-74 years,11,20872,Unreliable
+Terry ,48445,75-84 years,10,13342,Unreliable
+Terry ,48445,85+ years,13,4571,Unreliable
+Terry ,48445,Not Stated,0,Not Applicable,Not Applicable
+Throckmorton ,48447,< 1 year,0,312,Unreliable
+Throckmorton ,48447,1-4 years,0,1384,Unreliable
+Throckmorton ,48447,5-14 years,0,4350,Unreliable
+Throckmorton ,48447,15-24 years,0,3877,Unreliable
+Throckmorton ,48447,25-34 years,0,2988,Unreliable
+Throckmorton ,48447,35-44 years,0,3799,Unreliable
+Throckmorton ,48447,45-54 years,0,4542,Unreliable
+Throckmorton ,48447,55-64 years,0,4723,Unreliable
+Throckmorton ,48447,65-74 years,0,4299,Unreliable
+Throckmorton ,48447,75-84 years,Suppressed,2851,Suppressed
+Throckmorton ,48447,85+ years,Suppressed,1157,Suppressed
+Throckmorton ,48447,Not Stated,0,Not Applicable,Not Applicable
+Titus ,48449,< 1 year,0,11444,Unreliable
+Titus ,48449,1-4 years,0,44628,Unreliable
+Titus ,48449,5-14 years,0,107489,Unreliable
+Titus ,48449,15-24 years,Suppressed,96371,Suppressed
+Titus ,48449,25-34 years,0,82965,Unreliable
+Titus ,48449,35-44 years,Suppressed,83525,Suppressed
+Titus ,48449,45-54 years,Suppressed,78927,Suppressed
+Titus ,48449,55-64 years,Suppressed,65441,Suppressed
+Titus ,48449,65-74 years,17,45903,Unreliable
+Titus ,48449,75-84 years,30,26275,114.2
+Titus ,48449,85+ years,21,10840,193.7
+Titus ,48449,Not Stated,0,Not Applicable,Not Applicable
+Tom Green ,48451,< 1 year,Suppressed,32134,Suppressed
+Tom Green ,48451,1-4 years,0,128804,Unreliable
+Tom Green ,48451,5-14 years,0,308126,Unreliable
+Tom Green ,48451,15-24 years,Suppressed,398932,Suppressed
+Tom Green ,48451,25-34 years,Suppressed,326160,Suppressed
+Tom Green ,48451,35-44 years,12,276354,Unreliable
+Tom Green ,48451,45-54 years,23,281624,8.2
+Tom Green ,48451,55-64 years,42,249687,16.8
+Tom Green ,48451,65-74 years,53,177690,29.8
+Tom Green ,48451,75-84 years,79,111122,71.1
+Tom Green ,48451,85+ years,73,43505,167.8
+Tom Green ,48451,Not Stated,0,Not Applicable,Not Applicable
+Travis ,48453,< 1 year,Suppressed,321919,Suppressed
+Travis ,48453,1-4 years,Suppressed,1217646,Suppressed
+Travis ,48453,5-14 years,Suppressed,2743956,Suppressed
+Travis ,48453,15-24 years,Suppressed,3268788,Suppressed
+Travis ,48453,25-34 years,12,4322155,Unreliable
+Travis ,48453,35-44 years,43,3442748,1.2
+Travis ,48453,45-54 years,109,2804097,3.9
+Travis ,48453,55-64 years,191,1990967,9.6
+Travis ,48453,65-74 years,270,1048730,25.7
+Travis ,48453,75-84 years,305,504876,60.4
+Travis ,48453,85+ years,304,206365,147.3
+Travis ,48453,Not Stated,0,Not Applicable,Not Applicable
+Trinity ,48455,< 1 year,0,3297,Unreliable
+Trinity ,48455,1-4 years,0,13344,Unreliable
+Trinity ,48455,5-14 years,0,35112,Unreliable
+Trinity ,48455,15-24 years,0,32423,Unreliable
+Trinity ,48455,25-34 years,0,27800,Unreliable
+Trinity ,48455,35-44 years,Suppressed,32324,Suppressed
+Trinity ,48455,45-54 years,10,39892,Unreliable
+Trinity ,48455,55-64 years,15,46691,Unreliable
+Trinity ,48455,65-74 years,16,41175,Unreliable
+Trinity ,48455,75-84 years,25,23564,106.1
+Trinity ,48455,85+ years,35,6447,542.9
+Trinity ,48455,Not Stated,0,Not Applicable,Not Applicable
+Tyler ,48457,< 1 year,0,4755,Unreliable
+Tyler ,48457,1-4 years,0,18990,Unreliable
+Tyler ,48457,5-14 years,0,51555,Unreliable
+Tyler ,48457,15-24 years,0,54063,Unreliable
+Tyler ,48457,25-34 years,Suppressed,59329,Suppressed
+Tyler ,48457,35-44 years,Suppressed,55091,Suppressed
+Tyler ,48457,45-54 years,Suppressed,57072,Suppressed
+Tyler ,48457,55-64 years,Suppressed,58619,Suppressed
+Tyler ,48457,65-74 years,21,49758,42.2
+Tyler ,48457,75-84 years,28,29291,95.6
+Tyler ,48457,85+ years,15,9183,Unreliable
+Tyler ,48457,Not Stated,0,Not Applicable,Not Applicable
+Upshur ,48459,< 1 year,Suppressed,9898,Suppressed
+Upshur ,48459,1-4 years,0,41620,Unreliable
+Upshur ,48459,5-14 years,0,114802,Unreliable
+Upshur ,48459,15-24 years,0,102133,Unreliable
+Upshur ,48459,25-34 years,Suppressed,90956,Suppressed
+Upshur ,48459,35-44 years,Suppressed,103530,Suppressed
+Upshur ,48459,45-54 years,13,115405,Unreliable
+Upshur ,48459,55-64 years,20,109318,18.3
+Upshur ,48459,65-74 years,42,78018,53.8
+Upshur ,48459,75-84 years,44,42197,104.3
+Upshur ,48459,85+ years,32,14087,227.2
+Upshur ,48459,Not Stated,0,Not Applicable,Not Applicable
+Upton ,48461,< 1 year,0,1020,Unreliable
+Upton ,48461,1-4 years,0,4349,Unreliable
+Upton ,48461,5-14 years,Suppressed,10869,Suppressed
+Upton ,48461,15-24 years,0,9380,Unreliable
+Upton ,48461,25-34 years,0,8750,Unreliable
+Upton ,48461,35-44 years,0,8691,Unreliable
+Upton ,48461,45-54 years,Suppressed,9366,Suppressed
+Upton ,48461,55-64 years,Suppressed,8411,Suppressed
+Upton ,48461,65-74 years,Suppressed,5429,Suppressed
+Upton ,48461,75-84 years,Suppressed,3428,Suppressed
+Upton ,48461,85+ years,Suppressed,1305,Suppressed
+Upton ,48461,Not Stated,0,Not Applicable,Not Applicable
+Uvalde ,48463,< 1 year,Suppressed,8597,Suppressed
+Uvalde ,48463,1-4 years,0,35760,Unreliable
+Uvalde ,48463,5-14 years,0,89605,Unreliable
+Uvalde ,48463,15-24 years,0,84372,Unreliable
+Uvalde ,48463,25-34 years,Suppressed,67543,Suppressed
+Uvalde ,48463,35-44 years,Suppressed,65453,Suppressed
+Uvalde ,48463,45-54 years,Suppressed,64468,Suppressed
+Uvalde ,48463,55-64 years,19,57806,Unreliable
+Uvalde ,48463,65-74 years,30,44616,67.2
+Uvalde ,48463,75-84 years,23,27601,83.3
+Uvalde ,48463,85+ years,28,11857,236.1
+Uvalde ,48463,Not Stated,0,Not Applicable,Not Applicable
+Val Verde ,48465,< 1 year,0,17592,Unreliable
+Val Verde ,48465,1-4 years,0,68570,Unreliable
+Val Verde ,48465,5-14 years,Suppressed,164193,Suppressed
+Val Verde ,48465,15-24 years,0,156006,Unreliable
+Val Verde ,48465,25-34 years,Suppressed,139086,Suppressed
+Val Verde ,48465,35-44 years,12,125766,Unreliable
+Val Verde ,48465,45-54 years,Suppressed,112110,Suppressed
+Val Verde ,48465,55-64 years,35,93385,37.5
+Val Verde ,48465,65-74 years,46,72627,63.3
+Val Verde ,48465,75-84 years,63,41654,151.2
+Val Verde ,48465,85+ years,62,14783,419.4
+Val Verde ,48465,Not Stated,0,Not Applicable,Not Applicable
+Van Zandt ,48467,< 1 year,0,13201,Unreliable
+Van Zandt ,48467,1-4 years,0,53322,Unreliable
+Van Zandt ,48467,5-14 years,0,149500,Unreliable
+Van Zandt ,48467,15-24 years,0,133577,Unreliable
+Van Zandt ,48467,25-34 years,Suppressed,114584,Suppressed
+Van Zandt ,48467,35-44 years,Suppressed,136207,Suppressed
+Van Zandt ,48467,45-54 years,10,153012,Unreliable
+Van Zandt ,48467,55-64 years,23,148275,15.5
+Van Zandt ,48467,65-74 years,39,116052,33.6
+Van Zandt ,48467,75-84 years,58,65915,88
+Van Zandt ,48467,85+ years,45,22191,202.8
+Van Zandt ,48467,Not Stated,0,Not Applicable,Not Applicable
+Victoria ,48469,< 1 year,0,27243,Unreliable
+Victoria ,48469,1-4 years,Suppressed,108996,Suppressed
+Victoria ,48469,5-14 years,0,273535,Unreliable
+Victoria ,48469,15-24 years,0,256889,Unreliable
+Victoria ,48469,25-34 years,Suppressed,241607,Suppressed
+Victoria ,48469,35-44 years,Suppressed,233528,Suppressed
+Victoria ,48469,45-54 years,17,240339,Unreliable
+Victoria ,48469,55-64 years,59,208251,28.3
+Victoria ,48469,65-74 years,70,141264,49.6
+Victoria ,48469,75-84 years,87,83267,104.5
+Victoria ,48469,85+ years,84,31968,262.8
+Victoria ,48469,Not Stated,0,Not Applicable,Not Applicable
+Walker ,48471,< 1 year,0,13223,Unreliable
+Walker ,48471,1-4 years,Suppressed,51061,Suppressed
+Walker ,48471,5-14 years,0,124880,Unreliable
+Walker ,48471,15-24 years,Suppressed,336467,Suppressed
+Walker ,48471,25-34 years,Suppressed,204857,Suppressed
+Walker ,48471,35-44 years,13,197396,Unreliable
+Walker ,48471,45-54 years,29,194765,14.9
+Walker ,48471,55-64 years,52,142013,36.6
+Walker ,48471,65-74 years,56,91003,61.5
+Walker ,48471,75-84 years,57,46546,122.5
+Walker ,48471,85+ years,33,16630,198.4
+Walker ,48471,Not Stated,0,Not Applicable,Not Applicable
+Waller ,48473,< 1 year,0,12896,Unreliable
+Waller ,48473,1-4 years,0,49368,Unreliable
+Waller ,48473,5-14 years,0,123513,Unreliable
+Waller ,48473,15-24 years,0,211888,Unreliable
+Waller ,48473,25-34 years,Suppressed,99583,Suppressed
+Waller ,48473,35-44 years,Suppressed,106567,Suppressed
+Waller ,48473,45-54 years,Suppressed,114192,Suppressed
+Waller ,48473,55-64 years,19,96783,Unreliable
+Waller ,48473,65-74 years,28,58684,47.7
+Waller ,48473,75-84 years,30,28651,104.7
+Waller ,48473,85+ years,23,10014,229.7
+Waller ,48473,Not Stated,0,Not Applicable,Not Applicable
+Ward ,48475,< 1 year,0,3314,Unreliable
+Ward ,48475,1-4 years,0,14117,Unreliable
+Ward ,48475,5-14 years,0,35419,Unreliable
+Ward ,48475,15-24 years,0,32475,Unreliable
+Ward ,48475,25-34 years,0,28070,Unreliable
+Ward ,48475,35-44 years,Suppressed,28569,Suppressed
+Ward ,48475,45-54 years,Suppressed,29365,Suppressed
+Ward ,48475,55-64 years,Suppressed,25189,Suppressed
+Ward ,48475,65-74 years,Suppressed,18075,Suppressed
+Ward ,48475,75-84 years,10,11192,Unreliable
+Ward ,48475,85+ years,Suppressed,4206,Suppressed
+Ward ,48475,Not Stated,0,Not Applicable,Not Applicable
+Washington ,48477,< 1 year,Suppressed,8199,Suppressed
+Washington ,48477,1-4 years,0,33410,Unreliable
+Washington ,48477,5-14 years,Suppressed,87297,Suppressed
+Washington ,48477,15-24 years,0,104985,Unreliable
+Washington ,48477,25-34 years,0,72156,Unreliable
+Washington ,48477,35-44 years,Suppressed,80514,Suppressed
+Washington ,48477,45-54 years,Suppressed,91842,Suppressed
+Washington ,48477,55-64 years,15,87913,Unreliable
+Washington ,48477,65-74 years,28,67385,41.6
+Washington ,48477,75-84 years,30,43792,68.5
+Washington ,48477,85+ years,42,20862,201.3
+Washington ,48477,Not Stated,0,Not Applicable,Not Applicable
+Webb ,48479,< 1 year,19,110225,Unreliable
+Webb ,48479,1-4 years,0,416672,Unreliable
+Webb ,48479,5-14 years,Suppressed,974362,Suppressed
+Webb ,48479,15-24 years,Suppressed,859816,Suppressed
+Webb ,48479,25-34 years,25,729820,3.4
+Webb ,48479,35-44 years,19,679493,Unreliable
+Webb ,48479,45-54 years,67,556904,12
+Webb ,48479,55-64 years,88,388819,22.6
+Webb ,48479,65-74 years,147,245007,60
+Webb ,48479,75-84 years,211,133448,158.1
+Webb ,48479,85+ years,227,49433,459.2
+Webb ,48479,Not Stated,0,Not Applicable,Not Applicable
+Wharton ,48481,< 1 year,0,12119,Unreliable
+Wharton ,48481,1-4 years,0,49714,Unreliable
+Wharton ,48481,5-14 years,0,129474,Unreliable
+Wharton ,48481,15-24 years,0,121164,Unreliable
+Wharton ,48481,25-34 years,0,102808,Unreliable
+Wharton ,48481,35-44 years,Suppressed,105785,Suppressed
+Wharton ,48481,45-54 years,20,114154,17.5
+Wharton ,48481,55-64 years,38,99648,38.1
+Wharton ,48481,65-74 years,45,69652,64.6
+Wharton ,48481,75-84 years,50,44184,113.2
+Wharton ,48481,85+ years,76,17518,433.8
+Wharton ,48481,Not Stated,0,Not Applicable,Not Applicable
+Wheeler ,48483,< 1 year,0,1441,Unreliable
+Wheeler ,48483,1-4 years,0,5956,Unreliable
+Wheeler ,48483,5-14 years,0,15390,Unreliable
+Wheeler ,48483,15-24 years,0,13155,Unreliable
+Wheeler ,48483,25-34 years,0,11841,Unreliable
+Wheeler ,48483,35-44 years,0,12870,Unreliable
+Wheeler ,48483,45-54 years,0,14413,Unreliable
+Wheeler ,48483,55-64 years,Suppressed,14606,Suppressed
+Wheeler ,48483,65-74 years,Suppressed,11557,Suppressed
+Wheeler ,48483,75-84 years,Suppressed,6985,Suppressed
+Wheeler ,48483,85+ years,Suppressed,2626,Suppressed
+Wheeler ,48483,Not Stated,0,Not Applicable,Not Applicable
+Wichita ,48485,< 1 year,Suppressed,36921,Suppressed
+Wichita ,48485,1-4 years,0,148344,Unreliable
+Wichita ,48485,5-14 years,Suppressed,354785,Suppressed
+Wichita ,48485,15-24 years,0,488955,Unreliable
+Wichita ,48485,25-34 years,Suppressed,391231,Suppressed
+Wichita ,48485,35-44 years,Suppressed,341088,Suppressed
+Wichita ,48485,45-54 years,17,341028,Unreliable
+Wichita ,48485,55-64 years,44,286701,15.3
+Wichita ,48485,65-74 years,60,198538,30.2
+Wichita ,48485,75-84 years,76,124225,61.2
+Wichita ,48485,85+ years,87,48648,178.8
+Wichita ,48485,Not Stated,0,Not Applicable,Not Applicable
+Wilbarger ,48487,< 1 year,0,3627,Unreliable
+Wilbarger ,48487,1-4 years,0,15226,Unreliable
+Wilbarger ,48487,5-14 years,0,37415,Unreliable
+Wilbarger ,48487,15-24 years,0,41859,Unreliable
+Wilbarger ,48487,25-34 years,Suppressed,33935,Suppressed
+Wilbarger ,48487,35-44 years,Suppressed,33817,Suppressed
+Wilbarger ,48487,45-54 years,Suppressed,36366,Suppressed
+Wilbarger ,48487,55-64 years,Suppressed,34007,Suppressed
+Wilbarger ,48487,65-74 years,Suppressed,23854,Suppressed
+Wilbarger ,48487,75-84 years,Suppressed,15459,Suppressed
+Wilbarger ,48487,85+ years,15,7177,Unreliable
+Wilbarger ,48487,Not Stated,0,Not Applicable,Not Applicable
+Willacy ,48489,< 1 year,Suppressed,6611,Suppressed
+Willacy ,48489,1-4 years,0,26299,Unreliable
+Willacy ,48489,5-14 years,0,66520,Unreliable
+Willacy ,48489,15-24 years,0,78108,Unreliable
+Willacy ,48489,25-34 years,Suppressed,67233,Suppressed
+Willacy ,48489,35-44 years,0,58352,Unreliable
+Willacy ,48489,45-54 years,Suppressed,49710,Suppressed
+Willacy ,48489,55-64 years,Suppressed,40354,Suppressed
+Willacy ,48489,65-74 years,15,30666,Unreliable
+Willacy ,48489,75-84 years,22,18766,117.2
+Willacy ,48489,85+ years,22,6197,355
+Willacy ,48489,Not Stated,0,Not Applicable,Not Applicable
+Williamson ,48491,< 1 year,Suppressed,125720,Suppressed
+Williamson ,48491,1-4 years,Suppressed,537205,Suppressed
+Williamson ,48491,5-14 years,Suppressed,1406292,Suppressed
+Williamson ,48491,15-24 years,0,1103039,Unreliable
+Williamson ,48491,25-34 years,Suppressed,1324739,Suppressed
+Williamson ,48491,35-44 years,18,1508804,Unreliable
+Williamson ,48491,45-54 years,32,1206389,2.7
+Williamson ,48491,55-64 years,60,841689,7.1
+Williamson ,48491,65-74 years,102,538308,18.9
+Williamson ,48491,75-84 years,118,257649,45.8
+Williamson ,48491,85+ years,147,92570,158.8
+Williamson ,48491,Not Stated,0,Not Applicable,Not Applicable
+Wilson ,48493,< 1 year,Suppressed,10306,Suppressed
+Wilson ,48493,1-4 years,0,44917,Unreliable
+Wilson ,48493,5-14 years,0,133075,Unreliable
+Wilson ,48493,15-24 years,0,114488,Unreliable
+Wilson ,48493,25-34 years,Suppressed,96900,Suppressed
+Wilson ,48493,35-44 years,Suppressed,123469,Suppressed
+Wilson ,48493,45-54 years,10,135389,Unreliable
+Wilson ,48493,55-64 years,17,113889,Unreliable
+Wilson ,48493,65-74 years,19,71365,Unreliable
+Wilson ,48493,75-84 years,31,36068,85.9
+Wilson ,48493,85+ years,36,14806,243.1
+Wilson ,48493,Not Stated,0,Not Applicable,Not Applicable
+Winkler ,48495,< 1 year,0,2540,Unreliable
+Winkler ,48495,1-4 years,0,9875,Unreliable
+Winkler ,48495,5-14 years,0,24759,Unreliable
+Winkler ,48495,15-24 years,0,22341,Unreliable
+Winkler ,48495,25-34 years,0,18898,Unreliable
+Winkler ,48495,35-44 years,Suppressed,19317,Suppressed
+Winkler ,48495,45-54 years,Suppressed,20187,Suppressed
+Winkler ,48495,55-64 years,Suppressed,15911,Suppressed
+Winkler ,48495,65-74 years,Suppressed,10724,Suppressed
+Winkler ,48495,75-84 years,Suppressed,6438,Suppressed
+Winkler ,48495,85+ years,11,1953,Unreliable
+Winkler ,48495,Not Stated,0,Not Applicable,Not Applicable
+Wise ,48497,< 1 year,Suppressed,16123,Suppressed
+Wise ,48497,1-4 years,0,66181,Unreliable
+Wise ,48497,5-14 years,0,185211,Unreliable
+Wise ,48497,15-24 years,0,163110,Unreliable
+Wise ,48497,25-34 years,Suppressed,149754,Suppressed
+Wise ,48497,35-44 years,Suppressed,173690,Suppressed
+Wise ,48497,45-54 years,Suppressed,184082,Suppressed
+Wise ,48497,55-64 years,16,153625,Unreliable
+Wise ,48497,65-74 years,33,97766,33.8
+Wise ,48497,75-84 years,28,47744,58.6
+Wise ,48497,85+ years,23,14678,156.7
+Wise ,48497,Not Stated,0,Not Applicable,Not Applicable
+Wood ,48499,< 1 year,Suppressed,9000,Suppressed
+Wood ,48499,1-4 years,0,36423,Unreliable
+Wood ,48499,5-14 years,Suppressed,100114,Suppressed
+Wood ,48499,15-24 years,0,100950,Unreliable
+Wood ,48499,25-34 years,Suppressed,80169,Suppressed
+Wood ,48499,35-44 years,Suppressed,92564,Suppressed
+Wood ,48499,45-54 years,Suppressed,112349,Suppressed
+Wood ,48499,55-64 years,19,131802,Unreliable
+Wood ,48499,65-74 years,47,123591,38
+Wood ,48499,75-84 years,65,67574,96.2
+Wood ,48499,85+ years,54,21838,247.3
+Wood ,48499,Not Stated,0,Not Applicable,Not Applicable
+Yoakum ,48501,< 1 year,0,3099,Unreliable
+Yoakum ,48501,1-4 years,0,12214,Unreliable
+Yoakum ,48501,5-14 years,0,29600,Unreliable
+Yoakum ,48501,15-24 years,0,24245,Unreliable
+Yoakum ,48501,25-34 years,0,20003,Unreliable
+Yoakum ,48501,35-44 years,0,20570,Unreliable
+Yoakum ,48501,45-54 years,Suppressed,20570,Suppressed
+Yoakum ,48501,55-64 years,Suppressed,16790,Suppressed
+Yoakum ,48501,65-74 years,Suppressed,10823,Suppressed
+Yoakum ,48501,75-84 years,Suppressed,6515,Suppressed
+Yoakum ,48501,85+ years,Suppressed,2107,Suppressed
+Yoakum ,48501,Not Stated,0,Not Applicable,Not Applicable
+Young ,48503,< 1 year,0,4875,Unreliable
+Young ,48503,1-4 years,0,19403,Unreliable
+Young ,48503,5-14 years,0,51736,Unreliable
+Young ,48503,15-24 years,Suppressed,45276,Suppressed
+Young ,48503,25-34 years,0,40078,Unreliable
+Young ,48503,35-44 years,0,45164,Unreliable
+Young ,48503,45-54 years,Suppressed,51471,Suppressed
+Young ,48503,55-64 years,Suppressed,48613,Suppressed
+Young ,48503,65-74 years,21,37989,55.3
+Young ,48503,75-84 years,17,25366,Unreliable
+Young ,48503,85+ years,17,10266,Unreliable
+Young ,48503,Not Stated,0,Not Applicable,Not Applicable
+Zapata ,48505,< 1 year,Suppressed,5936,Suppressed
+Zapata ,48505,1-4 years,Suppressed,22546,Suppressed
+Zapata ,48505,5-14 years,0,52908,Unreliable
+Zapata ,48505,15-24 years,0,45768,Unreliable
+Zapata ,48505,25-34 years,0,36531,Unreliable
+Zapata ,48505,35-44 years,0,34049,Unreliable
+Zapata ,48505,45-54 years,Suppressed,29749,Suppressed
+Zapata ,48505,55-64 years,13,24806,Unreliable
+Zapata ,48505,65-74 years,10,19153,Unreliable
+Zapata ,48505,75-84 years,19,11287,Unreliable
+Zapata ,48505,85+ years,12,3441,Unreliable
+Zapata ,48505,Not Stated,0,Not Applicable,Not Applicable
+Zavala ,48507,< 1 year,0,4270,Unreliable
+Zavala ,48507,1-4 years,0,17290,Unreliable
+Zavala ,48507,5-14 years,0,43271,Unreliable
+Zavala ,48507,15-24 years,0,41576,Unreliable
+Zavala ,48507,25-34 years,Suppressed,31029,Suppressed
+Zavala ,48507,35-44 years,Suppressed,28513,Suppressed
+Zavala ,48507,45-54 years,Suppressed,27358,Suppressed
+Zavala ,48507,55-64 years,Suppressed,23604,Suppressed
+Zavala ,48507,65-74 years,13,16967,Unreliable
+Zavala ,48507,75-84 years,14,10235,Unreliable
+Zavala ,48507,85+ years,22,3636,605.1
+Zavala ,48507,Not Stated,0,Not Applicable,Not Applicable
